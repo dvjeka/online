@@ -1,0 +1,387 @@
+#EXTM3U
+#EXTINF:23,#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://95.156.76.230:33001/udp/230.4.34.100:1234
+#EXTINF:0,.Black
+https://stream01.vnet.am/Kinosemya/mono.m3u8
+#EXTINF:0,A1
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:24,Amedia 1
+http://31.148.48.15/A1/index.m3u8?token=test
+#EXTINF:0,Amedia 2
+http://31.148.48.15/A2/index.m3u8?token=test
+#EXTINF:0,Amedia 2 HD
+http://31.148.48.15:80/A2/index.m3u8?token=test
+#EXTINF:0,Amedia Hit
+http://88.85.172.243:7006/play/a00z
+#EXTINF:0,Amedia Hit HD
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:0,Amedia Hit HD
+http://92.242.110.52:9835/udp/238.1.11.3:1234
+#EXTINF:0,Amedia Premium HD
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
+#EXTINF:0,Amedia Premium HD
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:0,Amedia Premium HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/601/
+#EXTINF:0,Cinema
+http://188.113.190.15/212/video.m3u8
+#EXTINF:0,Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:0,Cinema HD
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:20,Discovery
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+#EXTINF:22,Discovery Channel
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:0,Discovery Channel HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/2005/
+#EXTINF:0,Discovery HD
+http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:21,Discovery ID
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:0,Dosug TV Comedy
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/16024/
+#EXTINF:0,Dosug TV HIT
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/16030/
+#EXTINF:6,FILM TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:0,FilmZone
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:300,FlixSnip
+http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
+#EXTINF:0,Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:20,Fox
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:0,Fox Life HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/26384/
+#EXTINF:24,HD Life
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+#EXTINF:0,HDL
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/37631/
+#EXTINF:0,Hollywood
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTINF:0,Hollywood HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/48359/
+#EXTINF:20,HOLLYWOOD HD
+http://31.148.48.15:80/MGM_HD/index.m3u8?token=test
+#EXTINF:0,Hollywood HD
+http://92.242.110.52:9835/udp/238.1.3.3:1234
+#EXTINF:0,Kinoman
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:0,KINOTV+7
+http://live-3.otcnet.ru/kinotvplus7/index.m3u8
+#EXTINF:0,Nat Geo Wild
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:20,Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:60,NAT_Prima
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:60,NAT_Prima
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:60,NAT_Prima
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0,National Geographic
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+#EXTINF:8,NewKanal
+http://ott.server-iptv.live/303/video.m3u8?token=M4f082ab4c
+#EXTINF:0,Paradise HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/19551/
+#EXTINF:0,Plan_B
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/53962/
+#EXTINF:0,Russia Today Doc HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Russian extreme
+http://195.26.83.96:7029/play/a008
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
+#EXTINF:54,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:0,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8?version=3
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:0,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:0,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:60,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:21,Sony HD
+http://188.113.190.15/149/mono.m3u8
+#EXTINF:0,Trash TV
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:0,Travel+Adventure HD
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+#EXTINF:0,TV XXI
+http://31.148.48.15:80/TV_XXI/index.m3u8?token=test
+#EXTINF:0,TV XXI
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+#EXTINF:0,TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:0,TV1000
+http://109.171.45.109:81/udp/239.54.5.91:1234
+#EXTINF:0,TV1000 Action
+http://109.171.45.109:81/udp/239.54.5.111:1234
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?version=3
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:54,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:0,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:0,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:0,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
+#EXTINF:54,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:60,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:48,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:0,ULTRAHDCINEMAHD
+http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
+#EXTINF:0,Viasat Kino Comedy
+http://c4c89953.amazzin.pw/iptv/9MK4UEMK8KLSKF/31764/index.m3u8
+#EXTINF:0,Viasat Kino HD
+http://ott.server-iptv.live/618/video.m3u8?token=M4f082ab4c
+#EXTINF:0,viju History
+http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
+#EXTINF:0,Viju TV1000
+http://188.113.190.15/31/tracks-v1a1/index.m3u8
+#EXTINF:0,viju TV1000 action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
+#EXTINF:0,Viju TV1000 Action
+http://188.113.190.15/30/tracks-v1a1/index.m3u8
+#EXTINF:0,VIJU+ COMEDY HD
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:0,VIJU+ MEGAHIT HD
+http://188.113.190.15/202/tracks-v1a1/index.m3u8
+#EXTINF:0,Viju+ Planet HD
+http://31.131.136.4:8001/play/e006
+#EXTINF:0,viju+ Premiere HD
+http://88.85.172.243:7006/play/a00w
+#EXTINF:0,VIJU+ PREMIERE HD
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
+#EXTINF:21,viju+ Serial HD
+http://91.205.199.3/vipserialhd/index.m3u8
+#EXTINF:0,Viju+ Serial HD
+http://91.205.199.3:80/vipserialhd/index.m3u8
+#EXTINF:0,ViP Comedy HD
+http://92.242.110.52:9835/udp/238.1.3.6:1234
+#EXTINF:0,ViP Comedy HD
+http://88.85.172.243:7006/play/a00y
+#EXTINF:0,ViP Comedy HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/
+#EXTINF:0,ViP Premiere HD
+http://bl2.provds.pw/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/
+#EXTINF:0,ViP Premiere HD
+http://88.85.172.243:7006/play/a00x
+#EXTINF:0,World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0,http://95.156.76.230:33001/udp/230.4.34.82:1234
+#EXTINF:30,https://tvoetv.space/tvoetv/video.m3u8
+#EXTINF:0,http://tvoetv.space:8080/tvoetv/video.m3u8
+#EXTINF:0,http://de.zigfreed.ru:8080/tvoetv/mpegts?token=tvoetv
+#EXTINF:0,http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
+#EXTINF:30,http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:24,http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
+#EXTINF:40,Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:0,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:0,NAT_Prima
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0,SKY HIGH VHS UHD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/17058/index.m3u8
+#EXTINF:0,Liberty Кино Микс 4K
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/15110/index.m3u8
+#EXTINF:104,Liberty XX 4K
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/20173/index.m3u
+#EXTINF:62,LIBERTY KINO MIKS 4K
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/15110/index.m3u
+#EXTINF:0,BOX Premiere 4K
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/20157/index.m3u8
+#EXTINF:0,CineMan Top
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11005/index.m3u
+#EXTINF:104,CineMan Action
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11006/index.m3u
+#EXTINF:104,CineMan Thriller
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11007/index.m3u
+#EXTINF:104,CineMan Marvel
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11009/index.m3u
+#EXTINF:104,CineMan Ужасы
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11010/index.m3u
+#EXTINF:104,CineMan Комедия
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11011/index.m3u
+#EXTINF:104,CineMan VHS
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/11012/index.m3u
+#EXTINF:60,Holywood
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/209/index.m3u
+#EXTINF:100,Hollywood orig
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/9236/index.m3u
+#EXTINF:100,Magic Action HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18066/index.m3u
+#EXTINF:100,Magic Adventure HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/20141/index.m3u
+#EXTINF:100,Magic Comedy HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18063/index.m3u
+#EXTINF:0,Magic Family HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18170/index.m3u
+#EXTINF:0,Magic Galaxy HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18067/index.m3u
+#EXTINF:0,Magic Horror HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18068/index.m3u
+#EXTINF:0,Magic Karate HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18061/index.m3u
+#EXTINF:0,Magic Love HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18171/index.m3u
+#EXTINF:0,Magic Thriller HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18065/index.m3u
+#EXTINF:0,Magic VHS HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18062/index.m3u
+#EXTINF:0,MM Celebrity HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/16084/index.m3u
+#EXTINF:0,MM Experiment HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/19412/index.m3u
+#EXTINF:0,MM Family Guy HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/19414/index.m3u
+#EXTINF:0,MM Honey HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13026/index.m3u
+#EXTINF:0,MM Lesson HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13042/index.m3u
+#EXTINF:0,MM Live Planet HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13095/index.m3u
+#EXTINF:0,MM Love HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13010/index.m3u
+#EXTINF:0,MM NewFilm 1 HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13011/index.m3u
+#EXTINF:0,MM NewFilm 2 HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13012/index.m3u
+#EXTINF:0,MM NewFilm 3 HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13013/index.m3u
+#EXTINF:0,MM NewFilm RU HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13014/index.m3u
+#EXTINF:0,MM Smile HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13043/index.m3u
+#EXTINF:0,MM Translation HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18196/index.m3u
+#EXTINF:59,MM UFO HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13017/index.m3u
+#EXTINF:0,MM World Hits HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13023/index.m3u
+#EXTINF:0,MM Боевик Classic HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13027/index.m3u
+#EXTINF:0,MM Боевик HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13028/index.m3u
+#EXTINF:50,MM Вестерн HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13029/index.m3u
+#EXTINF:0,MM Грайндхаус HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13025/index.m3u
+#EXTINF:0,MM Драма HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/16086/index.m3u
+#EXTINF:0,MM Затмение HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13032/index.m3u
+#EXTINF:0,MM История HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13033/index.m3u
+#EXTINF:0,MM Катастрофа HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13034/index.m3u
+#EXTINF:0,MM Квартирник HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13035/index.m3u
+#EXTINF:0,MM Киберпанк HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13036/index.m3u
+#EXTINF:0,MM Комедия Classic HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13037/index.m3u
+#EXTINF:0,MM Комедия HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13038/index.m3u
+#EXTINF:0,MM Криминал HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13039/index.m3u
+#EXTINF:0,MM Макромир HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18194/index.m3u
+#EXTINF:0,MM Мегамир HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18195/index.m3u
+#EXTINF:0,MM Микромир HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/18193/index.m3u
+#EXTINF:0,MM Открытия HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/19415/index.m3u
+#EXTINF:0,MM Погружение HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13047/index.m3u
+#EXTINF:0,MM Приключения HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13048/index.m3u
+#EXTINF:58,MM Семейный 1 HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13097/index.m3u
+#EXTINF:0,MM Семейный 2 HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13098/index.m3u
+#EXTINF:0,MM Скорость HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13053/index.m3u
+#EXTINF:0,MM Стивен Кинг HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13055/index.m3u
+#EXTINF:0,MM Супергерои HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13056/index.m3u
+#EXTINF:0,MM Триллер HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13058/index.m3u
+#EXTINF:0,MM Ужастик HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13059/index.m3u
+#EXTINF:0,MM Ужасы HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13099/index.m3u
+#EXTINF:0,MM Фантастика HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13062/index.m3u
+#EXTINF:58,MM Фобия HD
+http://paexzosk.otttv.pw/iptv/3MKERMSND7YP6P/13063/index.m3u
+#EXTINF:0,Киномикс HD
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9mZTgxZTMxYi1hMTcwLTRmMGUtOWE0Yy05MjFjOWE3Y2VkMjUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
