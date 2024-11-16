@@ -1,1109 +1,1837 @@
 #EXTM3U
-#EXTINF:0, .Black
+#EXTINF:24,Black HD
 http://cdn.troya.one:80/ch465/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFW0wwStapb-gZZjjbIxUAFqQZvZulR_9e3EdCnn2WsE
-#EXTINF:0, .Red HD
+#EXTINF:0,.Red HD
 http://cdn.troya.one:80/ch070/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPATMuBxX_eZOP-qcS8hu4AGcroTcA9-iDXQNauo6NTG
-#EXTINF:0, .Sci-Fi
+#EXTINF:0,.Sci-Fi
 http://cdn.troya.one:80/ch464/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHHm-3QG_oOJpvGgZW_hcOGicUxuCJCbtIJopxf2QVZZ
-#EXTINF:0, 4ever Drama HD
+#EXTINF:24,2X2
+http://cdn.troya.one:80/ch076/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPDsSx0UgRiLW38ZXJA5IIxhFlGl1jbbRhfxupNHdt-b
+#EXTINF:20,2х2 +2
+http://cdn.troya.one:80/ch422/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFBmEd54ZLlffjZgLOf317PxNWIPo1sW5nvuji4tP-M_
+#EXTINF:20,365 дней ТВ
+http://cdn.troya.one:80/ch443/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMXe-bDuDDlGZ-IpG4_Vr5PXbFgr1df9qdLP-eEdkaWn
+#EXTINF:0,4ever Drama HD
 http://cdn.troya.one:80/ch384/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIvQu2epyle4T20xmzBb8tWNUPS6t9sZEpFUPvCsXBdN
-#EXTINF:0, 4ever Theater HD
+#EXTINF:24,4ever Drama HD
+http://cdn.troya.one:80/ch384/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIvQu2epyle4T20xmzBb8tWNUPS6t9sZEpFUPvCsXBdN
+#EXTINF:24,4ever Theater HD
 http://cdn.troya.one:80/ch385/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOrrs3UCjvrR7ifNrF7EO1RmOKYGCNMrhb2KkAjBQ627
-#EXTINF:24, AMC
+#EXTINF:24,4ever Theater HD
+http://cdn.troya.one:80/ch385/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOrrs3UCjvrR7ifNrF7EO1RmOKYGCNMrhb2KkAjBQ627
+#EXTINF:21,Ararat
+http://cdn.troya.one:80/ch2407/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOlXrnaMT5AwZwjqMbvDZM8kpVZv-KMkjdzBkxJZu2-X
+#EXTINF:22,AM: Ararat TV
+http://cdn.troya.one:80/ch2407/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOlXrnaMT5AwZwjqMbvDZM8kpVZv-KMkjdzBkxJZu2-X
+#EXTINF:24,AM: MyTV
+http://cdn.troya.one:80/ch1577/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM1ruWOAhj_vIMi5jtgueeeF7FbxTZ79pXgzVfH6TCtm
+#EXTINF:0,AM: MyTV 2
+http://cdn.troya.one:80/ch1578/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDx6dCGxRWMywasTw0x5DSN_wCWTujmojgUmM_tMmV9p
+#EXTINF:0,AM: MyTV 3
+http://cdn.troya.one:80/ch1576/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCPIgHMPBMhD_MkoeTsqhMHSYhYEpVrsUpVth1Ng1ryg
+#EXTINF:24,AM: MyTV Hit
+http://cdn.troya.one:80/ch1580/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAnrTBVz2D2ggeLCydtQC5LDlQF27e5BME62zw5XPwEx
+#EXTINF:24,AMC
 http://cdn.troya.one:80/ch623/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC70j9HvGvaCBaSMUYio8JPErgvmcWPFJRnnKJX1CoGp
-#EXTINF:0, Amedia 1 HD
+#EXTINF:24,AMC
+http://cdn.troya.one:80/ch623/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC70j9HvGvaCBaSMUYio8JPErgvmcWPFJRnnKJX1CoGp
+#EXTINF:24,Amedia 1 HD
 http://cdn.troya.one:80/ch421/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD28nZG2YtkjX_JaLn9vgk9g1gpfXe0Vd-KivCaisPa5
-#EXTINF:0, Amedia 2 HD
-http://cdn.troya.one:80/ch515/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOg9_sjG5J18PrLVi-2FFgP75qhLKquoIfcgM958sBL7
-#EXTINF:0, Amedia Hit HD
+#EXTINF:0,Amedia Hit HD
 http://cdn.troya.one:80/ch032/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFeSkiISilpJmyZ0dOOTWBKopdtx4swo3Ykg-isYFdjd
-#EXTINF:0, Amedia Premium HD
+#EXTINF:0,Amedia Premium HD
 http://cdn.troya.one:80/ch065/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEJLAI8cB_nbDRwFasWijo6jHzX7EgOiRlnjhKurYBBm
-#EXTINF:21, Animal Planet HD
-http://cdn.troya.one:80/ch124/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIGMYSFSNbGW-SlIqN4TAqlkvf0TeojjXSDMPjblcQch
-#EXTINF:0, BCU Action HD
+#EXTINF:0,ATV Bazmoc
+http://cdn.troya.one:80/ch1480/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOzIj6a40dYraDNyxrg60QV45hM0AZ_Mvw6PwsaSuvS1
+#EXTINF:20,ATV Bazmoc
+http://cdn.troya.one:80/ch1480/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOzIj6a40dYraDNyxrg60QV45hM0AZ_Mvw6PwsaSuvS1
+#EXTINF:0,ATV Kinoman
+http://cdn.troya.one:80/ch1481/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHc2zGYh0eazqkNwienth_IJsw65BTx76h5CqHGOsMBq
+#EXTINF:0,BCU Action HD
 http://cdn.troya.one:80/ch769/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAx7jL-IEzBMXDQLXcH8g1Lts5-piyi3yfpkGrTrikxK
-#EXTINF:0, BCU Catastrophe HD
+#EXTINF:0,BCU Catastrophe HD
 http://cdn.troya.one:80/ch770/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB1GGau1s_orvQQmpYrjB2CmSlye7xPoQ61N-eEIqpxv
-#EXTINF:0, BCU Cinema HD
+#EXTINF:0,BCU Cinema HD
 http://cdn.troya.one:80/ch771/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLljQGKBLxf-G9YH6mQIrMkXg0Tzh_rxdsQAq3LVhPks
-#EXTINF:0, BCU Cinema+ HD
+#EXTINF:0,BCU Cinema+ HD
 http://cdn.troya.one:80/ch834/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJOZYZiHQJZdAsP9dNBHuEURO_GROPKa6kptSqJnluF_
-#EXTINF:0, BCU Comedy HD
+#EXTINF:0,BCU Comedy HD
 http://cdn.troya.one:80/ch1000/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPX-7F8YLeZiotxg0AuQ4cdSBEQsaX46KRlQ6Dl3QFYj
-#EXTINF:0, BCU Comedy HDR
+#EXTINF:0,BCU Comedy HDR
 http://cdn.troya.one:80/ch772/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGY2Iv1OMA2UG6n1ArDTTxNIbMgLCAykUmI81y1Fie93
-#EXTINF:0, BCU Cosmo HD
+#EXTINF:0,BCU Cosmo HD
 http://cdn.troya.one:80/ch1026/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBTT-Nt5PsfIa15Kt26I9R90Y6gHZFmIuTJ_V-xMeRkB
-#EXTINF:0, BCU Cosmo HDR
+#EXTINF:0,BCU Cosmo HDR
 http://cdn.troya.one:80/ch1003/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJlgVg20MAVEZfHyhrWEMlddbriSCgXeTISmndgH75MY
-#EXTINF:0, BCU Criminal HD
+#EXTINF:0,BCU Criminal HD
 http://cdn.troya.one:80/ch827/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHs0jcnQBmngHZcseNDHZ_qeaZDsB83oq-jEoM0OcZ86
-#EXTINF:0, BCU Fantastic HD
+#EXTINF:0,BCU Fantastic HD
 http://cdn.troya.one:80/ch773/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIpTyoq9sgcBrphw8dBY6Zk02TDWm1ED_TWbD7iWsKis
-#EXTINF:0, BCU Fantastic HDR
+#EXTINF:41,BCU Fantastic HDR
 http://cdn.troya.one:80/ch2705/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGKheU87JT1F8_NKeZmm3qSbOiZJPF6iqP8GSXniAar_
-#EXTINF:0, BCU Filmystic HD
+#EXTINF:41,BCU Fantastic HDR
+http://cdn.troya.one:80/ch2705/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGKheU87JT1F8_NKeZmm3qSbOiZJPF6iqP8GSXniAar_
+#EXTINF:0,BCU Filmystic HD
 http://cdn.troya.one:80/ch774/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIqLvBbcXTrhAqAU2hhVsDdczr29Qa17UNHVpSZd_dPA
-#EXTINF:0, BCU History HD
+#EXTINF:0,BCU History HD
 http://cdn.troya.one:80/ch775/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKL9tkLfjF3iNAnBhX6n0v4e5qGHUCFnbTg9W7uLaIjn
-#EXTINF:0, BCU Kids 4K
-http://cdn.troya.one:80/ch1428/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDT1rUZwPpqrJljScFn-8v5q6qyohVQ7MrJZGxpQsJGY
-#EXTINF:0, BCU Kinorating HD
+#EXTINF:0,BCU History HD
+http://cdn.troya.one:80/ch775/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKL9tkLfjF3iNAnBhX6n0v4e5qGHUCFnbTg9W7uLaIjn
+#EXTINF:20,BCU Kinorating HD
 http://cdn.troya.one:80/ch776/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCAL-8-JwxiIQtrWLoxY_h23bnsZ0Z8JYDo4KdMGsxsC
-#EXTINF:0, BCU Kinozakaz 4K HDR
+#EXTINF:20,BCU Kinorating HD
+http://cdn.troya.one:80/ch776/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCAL-8-JwxiIQtrWLoxY_h23bnsZ0Z8JYDo4KdMGsxsC
+#EXTINF:41,BCU Kinozakaz 4K HDR
 http://cdn.troya.one:80/ch2927/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFsX_-A9okoJDqjhecw09TYRQ4eXqxexz-7Vh207FmNr
-#EXTINF:0, BCU Kinozakaz Premiere 4K HDR
+#EXTINF:41,BCU Kinozakaz 4K HDR
+http://cdn.troya.one:80/ch2927/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFsX_-A9okoJDqjhecw09TYRQ4eXqxexz-7Vh207FmNr
+#EXTINF:41,BCU Kinozakaz Premiere 4K HDR
 http://cdn.troya.one:80/ch2928/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCG5Y7rLw-aWZQuKjmscLOabwjafOXWhFsWJ0VrC9QlA
-#EXTINF:0, BCU Marvel HD
+#EXTINF:0,BCU Little HD
+http://cdn.troya.one:80/ch1634/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKAhnD0MG3fhLzODaypo-qFV09c4JukFWNuo2Z1ovAO2
+#EXTINF:0,BCU Marvel HD
 http://cdn.troya.one:80/ch311/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNaTuG1_Zry0iEswdmUOtRdL8Hg19ncAyvSzKnYlCP9g
-#EXTINF:0, BCU Marvel HDR
+#EXTINF:0,BCU Marvel HDR
 http://cdn.troya.one:80/ch777/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBKPlN00H6zihVGKAJRQ-1mk3J3sVqNUGL0Hr-UO8b3Z
-#EXTINF:0, BCU Media HD
+#EXTINF:0,BCU Media HD
 http://cdn.troya.one:80/ch790/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEc9z69dbINrjSiuMyyj5dgJ4Y1B9WzKYQAJNQz0UI1G
-#EXTINF:0, BCU Media OLD
-http://cdn.troya.one:80/ch590/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEXI42Raif8tNmcJ9Uk5v19vBwK1RFRlj5Q-WyYRaiVC
-#EXTINF:0, BCU Premiere 1 HD
+#EXTINF:0,BCU Premiere 1 HD
 http://cdn.troya.one:80/ch782/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBtrEpObrapvMTByjVy8wBgntMm4pYank1Na_dCAe7jZ
-#EXTINF:0, BCU Premiere 1 HDR
+#EXTINF:41,BCU Premiere 1 HDR
 http://cdn.troya.one:80/ch2745/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9QPW834q99LWSUeUq87Nf5irks6EKb6ixqB6iHqcbi
-#EXTINF:0, BCU Premiere 2 HD
+#EXTINF:41,BCU Premiere 1 HDR
+http://cdn.troya.one:80/ch2745/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9QPW834q99LWSUeUq87Nf5irks6EKb6ixqB6iHqcbi
+#EXTINF:25,BCU Premiere 2 HD
 http://cdn.troya.one:80/ch783/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNOhE52Uw-ibyA7T4aDuvpX0pMqEZKtNgnOo_L0BDJa_
-#EXTINF:0, BCU Premiere 2 HDR
+#EXTINF:38,BCU Premiere 2 HD
+http://cdn.troya.one:80/ch783/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNOhE52Uw-ibyA7T4aDuvpX0pMqEZKtNgnOo_L0BDJa_
+#EXTINF:0,BCU Premiere 2 HDR
 http://cdn.troya.one:80/ch2746/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI6ZvfiulbTxG-QlCStKCrlP8cnEcNiBxSYb7JTkh8pO
-#EXTINF:0, BCU Premiere 3 HD
+#EXTINF:0,BCU Premiere 3 HD
 http://cdn.troya.one:80/ch784/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLbIuH5s1zRfF1-sVvWx_-8RkyC6_aFn4bpL7R46a56n
-#EXTINF:0, BCU Premiere 3 HDR
+#EXTINF:0,BCU Premiere 3 HD
+http://cdn.troya.one:80/ch784/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLbIuH5s1zRfF1-sVvWx_-8RkyC6_aFn4bpL7R46a56n
+#EXTINF:0,BCU Premiere 3 HDR
 http://cdn.troya.one:80/ch2747/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH79nXbfFfk_-Zu0KUVblRYmBw8bsIeNiBsc6i7T2H9p
-#EXTINF:0, BCU Premiere HD
+#EXTINF:0,BCU Premiere HD
 http://cdn.troya.one:80/ch778/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK4gsF41Wd2CEA6Fy2ez_carCnooRJn64OiQdKtSN5Md
-#EXTINF:0, BCU Premiere HDR
+#EXTINF:0,BCU Premiere HDR
 http://cdn.troya.one:80/ch2706/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCdkxokmcTsjw3llE0vS4dnfiAwtVJFpyaurnhxZdDPf
-#EXTINF:0, BCU Premiere Ultra 4K
+#EXTINF:0,BCU Premiere HDR
+http://cdn.troya.one:80/ch2706/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCdkxokmcTsjw3llE0vS4dnfiAwtVJFpyaurnhxZdDPf
+#EXTINF:0,BCU Premiere Ultra 4K
 http://cdn.troya.one:80/ch553/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGepGCw308sT_YAwdKQHst1fMrPaPhSonkdJPu3x-ge_
-#EXTINF:0, BCU Reality HD
+#EXTINF:0,BCU Reality HD
 http://cdn.troya.one:80/ch785/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBiRsj14-5fDBMm5bQ_tU70FJ68Ze5OMh4yBzyGCWubL
-#EXTINF:0, BCU Reality OLD HD
+#EXTINF:20,BCU Reality HD
+http://cdn.troya.one:80/ch785/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBiRsj14-5fDBMm5bQ_tU70FJ68Ze5OMh4yBzyGCWubL
+#EXTINF:0,BCU Reality OLD HD
 http://cdn.troya.one:80/ch2743/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIXYl63EtJ61I4spVaHe5ioKn1KYcG93VIMwfo82V6_k
-#EXTINF:0, BCU Romantic HD
+#EXTINF:0,BCU Romantic HD
 http://cdn.troya.one:80/ch779/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCXN4FY_PYFAWsZg-ynhBAi0-Ua_qHrwgNbvX62pYyFD
-#EXTINF:0, BCU Romantic OLD
+#EXTINF:0,BCU Romantic OLD
 http://cdn.troya.one:80/ch1545/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD_lyxLVlBNnj1-GVfRFfOMaJdmrEbzQTtpBI9OGz2CV
-#EXTINF:0, BCU RUSerial HD
+#EXTINF:0,BCU RUSerial HD
 http://cdn.troya.one:80/ch788/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIxAecZoLuqFwM9nyEdDhv2PtW_USzbrqoFoTcyGy1ku
-#EXTINF:0, BCU Russian HD
+#EXTINF:20,BCU Russia 90s HD
+http://cdn.troya.one:80/ch2744/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iArGe4rC9tAok6u_MgM_n4f8ht350JeXfdxYYXhqaWF1
+#EXTINF:20,BCU Russian HD
 http://cdn.troya.one:80/ch780/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHEeciNkdHK_jIwn-ej4rYAIvXVvKihFS0nkpibEpGi2
-#EXTINF:0, BCU Stars HD
+#EXTINF:20,BCU Russian HD
+http://cdn.troya.one:80/ch780/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHEeciNkdHK_jIwn-ej4rYAIvXVvKihFS0nkpibEpGi2
+#EXTINF:0,BCU Stars HD
 http://cdn.troya.one:80/ch835/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD7hUpnBKK_ZW16OS5FNQOXE2Vj7670SKPh_gpf8Gn6s
-#EXTINF:0, BCU Survival HD
+#EXTINF:0,BCU Survival HD
 http://cdn.troya.one:80/ch1444/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFkozp6IZyFkv5qy7C-JIPF6uOuGRCQpZTCaDhI0jhwd
-#EXTINF:0, BCU Survival OLD
+#EXTINF:0,BCU Survival OLD
 http://cdn.troya.one:80/ch1445/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH8rFWIobIH3Jnn1Q-C3l_xmmumzS37-HeLSvN3pPfJz
-#EXTINF:0, BCU TruMotion HD
+#EXTINF:0,BCU TruMotion HD
 http://cdn.troya.one:80/ch1429/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM4FwUadN64lPzI4bOAJvvJUVUEHGLAtPogljPQUYRNV
-#EXTINF:0, BCU Ultra 4K
+#EXTINF:0,BCU Ultra 4K
 http://cdn.troya.one:80/ch849/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN33bPzmvrC-Qp8Lo8vyVo__CGd0eKN1lKbOiEDS8Mxd
-#EXTINF:0, BCU VHS HD
+#EXTINF:0,BCU VHS HD
 http://cdn.troya.one:80/ch781/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAbv4fZ2Mt9rLPCpDx75u8i9WqPQoUJejuqGEF7ZV8qq
-#EXTINF:0, Big Planet
-http://cdn.troya.one:80/ch1916/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iApA1PoWpd9KTP5JAOXYwzdXB-xHwqPHqQzWUH_MRtZi
-#EXTINF:0, Bollywood HD
-http://cdn.troya.one:80/ch326/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC0bfvG-lunGYU3PJ2srU0ihJ9nbZa1YuOjUbk6_45e8
-#EXTINF:0, BOX Anime HD
+#EXTINF:20,BOX Anime HD
 http://cdn.troya.one:80/ch2281/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBltPMDThsapfJUDpUtu49uVCI6TU_1sHG-LRCVSScTM
-#EXTINF:0, BOX Apocalypse HD
+#EXTINF:20,BOX Anime HD
+http://cdn.troya.one:80/ch2281/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBltPMDThsapfJUDpUtu49uVCI6TU_1sHG-LRCVSScTM
+#EXTINF:0,BOX Apocalypse HD
 http://cdn.troya.one:80/ch2607/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOvClAomEPrddQHMSCnZ4Hs-p74YqdBPmnhqUSHYN_HR
-#EXTINF:0, BOX Cyber HD
+#EXTINF:40,Box AutoTrend HD
+http://cdn.troya.one:80/ch2810/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNSH2eny5lZS4w8-_hSxkOqHrHKzyiRL0PNHq0nc0BVK
+#EXTINF:20,BOX Cyber HD
 http://cdn.troya.one:80/ch2285/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDBU1uhAPjTxcfBvtIhA3uoow7dml3TUgBGIzchDA4du
-#EXTINF:0, BOX Docu. HD
+#EXTINF:20,BOX Cyber HD
+http://cdn.troya.one:80/ch2285/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDBU1uhAPjTxcfBvtIhA3uoow7dml3TUgBGIzchDA4du
+#EXTINF:0,BOX Docu. HD
 http://cdn.troya.one:80/ch2286/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDf4Q-CyD1DVfcpvkZ6G93VaRsfDcWkAW3rdAv-vTE8O
-#EXTINF:0, BOX Fantasy HD
+#EXTINF:20,BOX Fantasy HD
 http://cdn.troya.one:80/ch2287/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGnarkLc74q7KWMpiHM9C0jQ9Q1XH9kQ76C6UYKiz481
-#EXTINF:0, BOX Franchise HDR
+#EXTINF:20,BOX Fantasy HD
+http://cdn.troya.one:80/ch2287/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGnarkLc74q7KWMpiHM9C0jQ9Q1XH9kQ76C6UYKiz481
+#EXTINF:41,BOX Franchise HDR
 http://cdn.troya.one:80/ch2288/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIj-uvy6nabUBx0O_C7VCQ9epJazqPfQC9Srp-VPOV8z
-#EXTINF:0, BOX Game HD
+#EXTINF:41,BOX Franchise HDR
+http://cdn.troya.one:80/ch2288/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIj-uvy6nabUBx0O_C7VCQ9epJazqPfQC9Srp-VPOV8z
+#EXTINF:0,BOX Game HD
 http://cdn.troya.one:80/ch2289/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIAm2Pc0uPlGBr18AkIQbD5MEbe5pfOluMGH2GJz8vta
-#EXTINF:0, BOX Gangster HD
+#EXTINF:0,BOX Gangster HD
 http://cdn.troya.one:80/ch2290/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAV_WxyF2gBqmcCTfgMJa_tnSMgk_2pSXKetyZPsmSbz
-#EXTINF:0, BOX Ghost HD
+#EXTINF:20,BOX Ghost HD
 http://cdn.troya.one:80/ch2291/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGnlZ8lXE17gKYxHOBnh92Vdrq7hRJBPUjp0UKqP16B0
-#EXTINF:0, BOX History 4K HDR
+#EXTINF:20,BOX Ghost HD
+http://cdn.troya.one:80/ch2291/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGnlZ8lXE17gKYxHOBnh92Vdrq7hRJBPUjp0UKqP16B0
+#EXTINF:0,BOX History 4K HDR
 http://cdn.troya.one:80/ch2929/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLA1Az9ef48qQRmL_FY51CRQnJ78OVDabw-XvewtzQU0
-#EXTINF:0, BOX Hybrid HD
+#EXTINF:20,BOX Hybrid HD
 http://cdn.troya.one:80/ch2292/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL5NvvYTBn8Fnf7yZ2OCXJLJr39TfBVSNdBXbuSUA5hI
-#EXTINF:0, BOX Kosmo 4K HDR
+#EXTINF:20,BOX Hybrid HD
+http://cdn.troya.one:80/ch2292/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL5NvvYTBn8Fnf7yZ2OCXJLJr39TfBVSNdBXbuSUA5hI
+#EXTINF:0,BOX Kosmo 4K HDR
 http://cdn.troya.one:80/ch2312/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMHBXVjn9tBLx-pbFJbZ6v5sCg8qYbWqqLgshaiKIk7x
-#EXTINF:40, BOX Mayday HD
+#EXTINF:0,BOX M.Serial HD
+http://cdn.troya.one:80/ch2293/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP1IE8VmOKSmR0QjcYOK--k0_SZYzeeoy8zrmPnJa3cG
+#EXTINF:0,BOX Mayday HD
 http://cdn.troya.one:80/ch2313/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIIrlJXntMeUaWONo7ovMG_fvzMlTgM_br9d5gj9o7eL
-#EXTINF:20, BOX Memory HD
+#EXTINF:0,BOX Mayday HD
+http://cdn.troya.one:80/ch2313/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIIrlJXntMeUaWONo7ovMG_fvzMlTgM_br9d5gj9o7eL
+#EXTINF:0,BOX Memory HD
 http://cdn.troya.one:80/ch2294/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIPz1bKAgnd7rf_Kfn5EbgI-J5wmFdVWZq6WgG5H8DK3
-#EXTINF:0, BOX Music 4K
-http://cdn.troya.one:80/ch2295/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG-WGutZYci5C3cGuI1LqahPTWxrOGjygw-MtuWwT4Cu
-#EXTINF:0, BOX Oscar HD
+#EXTINF:0,BOX Metall HD
+http://cdn.troya.one:80/ch2491/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLIQJK5tQcHjVs_tAi6-WIUD2yHMlKw6rDJEnUH1VJjJ
+#EXTINF:0,BOX Oscar HD
 http://cdn.troya.one:80/ch2296/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHAMVmeOmkt5nIGmhayu0TiQIH5UccH_THzVRdw1ayFd
-#EXTINF:0, BOX Premiere 4K
+#EXTINF:0,BOX Oscar HD
+http://cdn.troya.one:80/ch2296/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHAMVmeOmkt5nIGmhayu0TiQIH5UccH_THzVRdw1ayFd
+#EXTINF:0,BOX Premiere 4K
 http://cdn.troya.one:80/ch2297/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK6vxxlFGfUSCzmbVIZ3CsIGNA2_hJi_j8uGn79j0SK3
-#EXTINF:0, BOX Premiere+ 4K HDR
+#EXTINF:0,BOX Premiere+ 4K HDR
 http://cdn.troya.one:80/ch2930/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFx_6sP6PiTiEM2tcmOOns3yAx_o6SwiYFPjHbZVFEoZ
-#EXTINF:0, BOX Relax 4K
+#EXTINF:0,BOX Premiere+ 4K HDR
+http://cdn.troya.one:80/ch2930/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFx_6sP6PiTiEM2tcmOOns3yAx_o6SwiYFPjHbZVFEoZ
+#EXTINF:0,BOX Relax 4K
 http://cdn.troya.one:80/ch2298/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC6YbWFJVhqjG6fiD-DpiDSI0J4sJ5wfxyaUH-_YnxNW
-#EXTINF:0, BOX Remast 4K
+#EXTINF:0,BOX Remast 4K
 http://cdn.troya.one:80/ch2299/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPaLOI7dJOY3A5VFGls7e7dUYILhGo7_gpcxwekH_AH9
-#EXTINF:0, BOX Remast+ 4K
+#EXTINF:0,BOX Remast+ 4K
 http://cdn.troya.one:80/ch2707/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI6TZEc0VsokTTr6CDJ6dR4zfjQpQAsjj6PG5vmHeX_q
-#EXTINF:0, BOX Russian 4K
+#EXTINF:0,BOX Remast+ 4K
+http://cdn.troya.one:80/ch2707/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI6TZEc0VsokTTr6CDJ6dR4zfjQpQAsjj6PG5vmHeX_q
+#EXTINF:0,BOX RU.RAP HD
+http://cdn.troya.one:80/ch2459/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGCR8Z2_VVdVQVRgr5sQIdjbwZNg4PoAaVJoS5J0dlrp
+#EXTINF:0,BOX Russian 4K
 http://cdn.troya.one:80/ch1949/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJpkrR3kuVUhABQuR64Af249ZI0NB-wPETd_xQ0MPBBW
-#EXTINF:0, BOX Serial 4K
+#EXTINF:41,BOX Serial 4K
 http://cdn.troya.one:80/ch2300/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAxVVYTjI108ZoSxlwpPWCy1jo4oYc00MRSO5kojGCCs
-#EXTINF:0, BOX Serial HD
+#EXTINF:41,BOX Serial 4K
+http://cdn.troya.one:80/ch2300/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAxVVYTjI108ZoSxlwpPWCy1jo4oYc00MRSO5kojGCCs
+#EXTINF:0,BOX Serial HD
 http://cdn.troya.one:80/ch2301/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKkqYFhFYIIQhAUsRfkmAoVX1rC8AZQyLvGIMET50L4v
-#EXTINF:0, BOX Serial Premiere 4K HDR
+#EXTINF:0,BOX Serial Premiere 4K HDR
 http://cdn.troya.one:80/ch2033/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG2SGlAUFYNUNDorSsIg_QOxFjS_66y3-zFhcmenHmHk
-#EXTINF:0, BOX Sitcom HD
+#EXTINF:0,BOX Sitcom HD
 http://cdn.troya.one:80/ch401/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN8WNQyNadO9r8594yn-Qyw2huh_mhl1Q9C1P97Jtoqg
-#EXTINF:0, BOX Spy HD
+#EXTINF:0,BOX Spy HD
 http://cdn.troya.one:80/ch2302/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJwYgI6g2TYYFTLOJxUHwib6lK8RFWXPVZxJ9ZDXasK9
-#EXTINF:0, BOX Stories HD
+#EXTINF:0,BOX Spy HD
+http://cdn.troya.one:80/ch2302/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJwYgI6g2TYYFTLOJxUHwib6lK8RFWXPVZxJ9ZDXasK9
+#EXTINF:0,BOX Stories HD
 http://cdn.troya.one:80/ch2303/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHzmILyGpAimPufN3LvWh-NujYCt7xJQhQOL0ynJmIh8
-#EXTINF:40, BOX Travel HD
+#EXTINF:0,BOX Travel HD
 http://cdn.troya.one:80/ch2304/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD03lWRSFoZlePXmTWHWNWVW0q0I-m3XCBTcKpt8FI7b
-#EXTINF:0, BOX Travel Premiere HD
+#EXTINF:0,BOX Travel Premiere HD
 http://cdn.troya.one:80/ch2490/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLPh_T-6I9QvG5VjKpatuRhy8-fWxoo5Yuq_QhV8or_q
-#EXTINF:0, BOX UltraStars 4K
+#EXTINF:0,BOX Travel Premiere HD
+http://cdn.troya.one:80/ch2490/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLPh_T-6I9QvG5VjKpatuRhy8-fWxoo5Yuq_QhV8or_q
+#EXTINF:0,BOX UltraStars 4K
 http://cdn.troya.one:80/ch2931/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKxsP_YnnCbMhgVkEOlwW59YXBMArg_LY3GxU1KNiifB
-#EXTINF:0, BOX Western HD
+#EXTINF:0,BOX UltraStars 4K
+http://cdn.troya.one:80/ch2931/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKxsP_YnnCbMhgVkEOlwW59YXBMArg_LY3GxU1KNiifB
+#EXTINF:0,BOX Western HD
 http://cdn.troya.one:80/ch2305/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6pLlbmQ8p_cDMgH-sQDteiyq3E3TgbX81zxvB_98NI
-#EXTINF:0, BOX Zombie HD
+#EXTINF:0,BOX Western HD
+http://cdn.troya.one:80/ch2305/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6pLlbmQ8p_cDMgH-sQDteiyq3E3TgbX81zxvB_98NI
+#EXTINF:0,BOX Zombie HD
 http://cdn.troya.one:80/ch2306/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHVwISm9mis_sNdIijtxb9mHsgawYVITeudykH_luGVe
-#EXTINF:0, C More Hits HD
-http://cdn.troya.one:80/ch1116/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBwokK0mIeHBSjP1JwltYmDiVjFGfhlyRqD7EeT_myci
-#EXTINF:0, Cinema UHD
+#EXTINF:0,BOX Zombie HD
+http://cdn.troya.one:80/ch2306/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHVwISm9mis_sNdIijtxb9mHsgawYVITeudykH_luGVe
+#EXTINF:0,Bridge TV Fresh
+http://cdn.troya.one:80/ch644/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBv5ByoOR8W7aPYbcwpexmcKDLu3tJ7v9eljZYBDFTtr
+#EXTINF:40,Cartoons Big
+http://cdn.troya.one:80/ch1029/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHGLbBCxuKMM33OUM-cfhUU5khpbmLdRppcHS_4G6IRl
+#EXTINF:0,Cinema UHD
 http://cdn.troya.one:80/ch558/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIGiNJiWRZ4uTrrh9wBU-JYdyqwR8XnUVIsmXcIKrnsZ
-#EXTINF:0, CineMan
+#EXTINF:0,Cinema UHD
+http://cdn.troya.one:80/ch558/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIGiNJiWRZ4uTrrh9wBU-JYdyqwR8XnUVIsmXcIKrnsZ
+#EXTINF:0,Cineman
+http://cdn.troya.one:80/ch1478/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIUbb06NlJeVZdfIXPni767e1S2lwvMd_96CrLkxTG1m
+#EXTINF:0,CineMan
 http://cdn.troya.one:80/ch1030/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLzCUi6FZ_Xos5AByrZouJ2VBfxo8XW4y-Pedew9E6_b
-#EXTINF:0, CineMan Action
+#EXTINF:0,CineMan
+http://cdn.troya.one:80/ch1030/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLzCUi6FZ_Xos5AByrZouJ2VBfxo8XW4y-Pedew9E6_b
+#EXTINF:0,CineMan Action
 http://cdn.troya.one:80/ch1032/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCGo7jRcckMVHH_pkH3fhFjHhwlMqXLp2AFQGCly-5xT
-#EXTINF:0, CineMan Marvel
+#EXTINF:0,CineMan Air Crash
+http://cdn.troya.one:80/ch2924/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM5tZoyYlPiWIHz4BWMT6y7nhkx5NiErAfkI-wql-2R8
+#EXTINF:0,CineMan Air Crash
+http://cdn.troya.one:80/ch2924/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM5tZoyYlPiWIHz4BWMT6y7nhkx5NiErAfkI-wql-2R8
+#EXTINF:0,CineMan Marvel
 http://cdn.troya.one:80/ch1035/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLOh5pb5lFLYOP27yfHGlyryl5GqM0HmW_JtL7qeNMdz
-#EXTINF:0, CineMan Melodrama
-http://cdn.troya.one:80/ch1034/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGsbHM9NnSIWEEKmy__3wzFFFryTO2GO2lCEK7eVF63T
-#EXTINF:0, Cineman OLD 4K
+#EXTINF:0,CineMan Miniseries
+http://cdn.troya.one:80/ch2067/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGFN7pdtxEvtqDZqq-X46Jn1nntS0vlkdug5YUvTl6I-
+#EXTINF:0,Cineman OLD 4K
 http://cdn.troya.one:80/ch2310/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEvdEcNj0VakqCzRjABR7Mkyp3kufCll-sz45GxeM-QB
-#EXTINF:0, CineMan Premium
+#EXTINF:0,CineMan Premium
 http://cdn.troya.one:80/ch2142/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPt9xp-diNdEcW_ZCLED-sqqHlTyXM3bL-1Yb2aNIBP-
-#EXTINF:0, CineMan Relax 4K
+#EXTINF:0,CineMan Relax 4K
 http://cdn.troya.one:80/ch2311/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDbKepW9UFGsmB2JM8adsWb4PlkI-1eDe8ETi4wGQxj1
-#EXTINF:0, CineMan Thriller
+#EXTINF:0,CineMan Thriller
 http://cdn.troya.one:80/ch1033/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAas2KUOTc9gjffQ87P2IEy0_pO8thgBRADgXsr1z88e
-#EXTINF:0, CineMan Top
+#EXTINF:0,CineMan Thriller
+http://cdn.troya.one:80/ch1033/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAas2KUOTc9gjffQ87P2IEy0_pO8thgBRADgXsr1z88e
+#EXTINF:0,CineMan Top
 http://cdn.troya.one:80/ch1031/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAx-kPZmO7UXkGhnuClBIzXn6mbqXvWd9Sgo2RDgvOUR
-#EXTINF:0, CineMan VHS
+#EXTINF:0,CineMan Top
+http://cdn.troya.one:80/ch1031/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAx-kPZmO7UXkGhnuClBIzXn6mbqXvWd9Sgo2RDgvOUR
+#EXTINF:0,CineMan VHS
 http://cdn.troya.one:80/ch1038/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNZ8L0pombHcWRkI1Z4gFyIZn1bhKNSVFTTV3hAKBegs
-#EXTINF:0, CineMan Катастрофы
+#EXTINF:0,CineMan Катастрофы
 http://cdn.troya.one:80/ch1074/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJmaAIP7qK6MujoPlN3ESy6HJB8ii4Gwhgu61dZgjn7s
-#EXTINF:40, CineMan Комедийные сериалы
+#EXTINF:0,CineMan Комедийные сериалы
 http://cdn.troya.one:80/ch2925/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAKGpE1Vx5uti8bTN8VqmRpgX2V1fkQDeL4pIGq0KdVf
-#EXTINF:0, CineMan Комедия
+#EXTINF:0,CineMan Комедийные сериалы
+http://cdn.troya.one:80/ch2925/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAKGpE1Vx5uti8bTN8VqmRpgX2V1fkQDeL4pIGq0KdVf
+#EXTINF:0,CineMan Комедия
 http://cdn.troya.one:80/ch1037/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIQanrMU2ExJExP5go4iSLlLO5WyWcJGzFMfLI7I8HWZ
-#EXTINF:0, CineMan Ужасы
+#EXTINF:0,CineMan Криминальные Сериалы
+http://cdn.troya.one:80/ch2748/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDK-n8TSGQ2aOIqBRVznTqX6aPwWOTqAuds7DbnGi-xR
+#EXTINF:0,CineMan Криминальные Сериалы
+http://cdn.troya.one:80/ch2748/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDK-n8TSGQ2aOIqBRVznTqX6aPwWOTqAuds7DbnGi-xR
+#EXTINF:0,CineMan Ужасы
 http://cdn.troya.one:80/ch1036/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEl8xZcm5VYU_xxemMJcSMz_FUcT2wF9vgeC6HZU0Gcn
-#EXTINF:0, CineMan Фитнес
-http://cdn.troya.one:80/ch2923/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG-UZzHooMpRy3xTGcY5iXTh-dXAK_QYN11tum3DEv9T
-#EXTINF:0, Clarity4k Anime
+#EXTINF:0,Clarity4k Anime
 http://cdn.troya.one:80/ch1123/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMW9BD8d_7h1YjzLOP250_hTGkou89czw2urtFGoD7_p
-#EXTINF:0, Clarity4K Asia
-http://cdn.troya.one:80/ch545/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP9Y5AwnX3uFnBvU_kj-6mFMm0bpaRQtE97O_kgbW36M
-#EXTINF:0, Clarity4K Avto Blog
+#EXTINF:40,Clarity4K Avto Blog
 http://cdn.troya.one:80/ch1427/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFm39wUW-BnGbxW2kmpuVuJJ_ZbEm_BUFPagK30pmG_l
-#EXTINF:39, Clarity4K BluesString
+#EXTINF:0,Clarity4K BluesString
 http://cdn.troya.one:80/ch1294/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHHOLLgHZLcIVX42xplGMFXq8T0I2Amg39MT-bhitiCl
-#EXTINF:40, Clarity4k Deep House
+#EXTINF:40,Clarity4k Deep House
 http://cdn.troya.one:80/ch1551/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGLSyxOf6WfcAcxJuDR0PWsUOUMPKeIJ2eTxYZrPcnh8
-#EXTINF:0, Clarity4K DeepMe
+#EXTINF:39,Clarity4K DeepMe
 http://cdn.troya.one:80/ch1438/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iImAz8EOwWRa7mstUWdK3SXlW2md9aAONQOob7KjpBhQ
-#EXTINF:0, Clarity4K France Music
-http://cdn.troya.one:80/ch2888/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPbLTiBuZMBIp0EzUT6j6t8pBIlj_yoaK11iuESMuad7
-#EXTINF:0, Clarity4k Galaxy Films
+#EXTINF:0,Clarity4k Galaxy Films
 http://cdn.troya.one:80/ch1272/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGfvXg1msZSdMdtm6rDZuQNWlYNb3RJmiqoiBacKa_1r
-#EXTINF:0, Clarity4K Gamefilm
+#EXTINF:0,Clarity4K Gamefilm
 http://cdn.troya.one:80/ch2893/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA2otIXKnV6f-gWzC35DXlzuthlzmD19k0N712fJNoUX
-#EXTINF:39, Clarity4K HBO Series
+#EXTINF:0,Clarity4K Gamefilm
+http://cdn.troya.one:80/ch2893/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA2otIXKnV6f-gWzC35DXlzuthlzmD19k0N712fJNoUX
+#EXTINF:0,Clarity4K HBO Series
 http://cdn.troya.one:80/ch2507/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGKil3t67l85VLDsT2Hf4oSm7uTepYR14nFdnVpojhAM
-#EXTINF:0, Clarity4K Heavy Metal
-http://cdn.troya.one:80/ch2492/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA8VCTT46mSairblL_7gLXeLu7fgBQ48f1VmgyHtFBW-
-#EXTINF:0, Clarity4K Korean Music
-http://cdn.troya.one:80/ch128/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDZobZeELU6xjjmqpRhxQ-frVzqC-jDs4KLh-fWWMiNp
-#EXTINF:0, Clarity4K Latin Music
-http://cdn.troya.one:80/ch2503/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL6xs_OiExX73j-HAxf0KjUsJqxjGibJF1IexEvuhNO_
-#EXTINF:0, Clarity4K Netflix
+#EXTINF:0,Clarity4K Netflix
 http://cdn.troya.one:80/ch1434/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFyHNIplCsrhf_ycX7IHwiJfNzEkhtxKrWpFUWiaT2mo
-#EXTINF:0, Clarity4k RemasterWave
-http://cdn.troya.one:80/ch1441/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK5PpqgnMzJdp8YT_UeIIcfIkR2rGAXOYpyEkS84IWH8
-#EXTINF:0, Clarity4K Russian Music
-http://cdn.troya.one:80/ch2404/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAU3sU_dhrQ9fuqB-HOl55VsEOyGKZI7u3TLphGcUGck
-#EXTINF:0, Clarity4K Travel Blog
+#EXTINF:0,Clarity4K Travel Blog
 http://cdn.troya.one:80/ch1166/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHrT80idV2ruRqB9_2GKKMCp9osTyTCvo5rZolSf6NIO
-#EXTINF:0, Clarity4k UFO
+#EXTINF:0,Clarity4K Travel Blog
+http://cdn.troya.one:80/ch1166/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHrT80idV2ruRqB9_2GKKMCp9osTyTCvo5rZolSf6NIO
+#EXTINF:0,Clarity4k UFO
 http://cdn.troya.one:80/ch2883/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG7eoiU1h-6himzfraMq53dYETmdZ1wjon4eYjcAmYsC
-#EXTINF:0, Clarity4K Ukrainian Music
-http://cdn.troya.one:80/ch1549/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCMiQJhfugn1OOo48DetlVW6eY4br2__E5kk5eKS6vm7
-#EXTINF:0, Clarity4K UrbanBlack
+#EXTINF:0,Clarity4k UFO
+http://cdn.troya.one:80/ch2883/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG7eoiU1h-6himzfraMq53dYETmdZ1wjon4eYjcAmYsC
+#EXTINF:0,Clarity4K UrbanBlack
 http://cdn.troya.one:80/ch2504/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFOB5WkPbku0paJRBBvuwpHUz_U0ZvmvBOBDAi4BNxeF
-#EXTINF:0, Clarity4K World Music
-http://cdn.troya.one:80/ch1435/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK_2mBG3UyfVv1mOQI5-LEN6ODwzlRQe3H4Y3tyJWPi6
-#EXTINF:0, Clarity4k Боевик
+#EXTINF:0,Clarity4K UrbanBlack
+http://cdn.troya.one:80/ch2504/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFOB5WkPbku0paJRBBvuwpHUz_U0ZvmvBOBDAi4BNxeF
+#EXTINF:0,Clarity4K Walt Disney
+http://cdn.troya.one:80/ch2493/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKOEMjWERjxGurZK_l50X36xSfQtCw-eDU5Xkxe5VSVc
+#EXTINF:0,Clarity4k Боевик
 http://cdn.troya.one:80/ch1179/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDNQLB2T6DuZhABJ-LeDhaaLlksXW4I6_TOfgOKtyD6n
-#EXTINF:0, Clarity4k Вселенная
+#EXTINF:0,Clarity4k Боевик
+http://cdn.troya.one:80/ch1179/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDNQLB2T6DuZhABJ-LeDhaaLlksXW4I6_TOfgOKtyD6n
+#EXTINF:0,Clarity4K Боевик VHS
+http://cdn.troya.one:80/ch451/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGK83FuPAlOEGS96Zn17456sIipzBqzy1uehDMTgBkkk
+#EXTINF:0,Clarity4k Вселенная
 http://cdn.troya.one:80/ch2884/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPy2lQIuvvBy4veDJLvLJ7Prl5n-masR4KbPlhEOKP8L
-#EXTINF:0, Clarity4K Города
+#EXTINF:0,Clarity4K Города
 http://cdn.troya.one:80/ch1440/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHwp1BgknmqNeib7M2Exvg0_M-ZaLZDh6mhP1OZdU1My
-#EXTINF:0, Clarity4k Драмы
+#EXTINF:0,Clarity4K Города
+http://cdn.troya.one:80/ch1440/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHwp1BgknmqNeib7M2Exvg0_M-ZaLZDh6mhP1OZdU1My
+#EXTINF:0,Clarity4k Драмы
 http://cdn.troya.one:80/ch2886/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKdqCt3R9VChxwjGh8MCal5xgzdOvoOTXNrNLem2KZAF
-#EXTINF:0, Clarity4k Единоборства
+#EXTINF:0,Clarity4k Единоборства
 http://cdn.troya.one:80/ch1550/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLu1LPn4iHcpsCJHbxn6ZmTG0vKsGDm0DVIOnaiI1Ypt
-#EXTINF:0, Clarity4K Запал
+#EXTINF:0,Clarity4K Запал
 http://cdn.troya.one:80/ch2601/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPzVi02VdS5aR__XwtxVIvduS7We1aI6DatmsJRXcBG2
-#EXTINF:0, Clarity4K Звериный Мир
+#EXTINF:0,Clarity4K Звериный Мир
 http://cdn.troya.one:80/ch1042/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4oD3Vmd2oraRF0atcJxqR-GGUFDXCg4F27Osou9saC
-#EXTINF:0, Clarity4K КиноНовинки
+#EXTINF:0,Clarity4K КиноНовинки
 http://cdn.troya.one:80/ch2509/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIowfImvhE58di8hRDEPwUpCXQtawOSDOEWFtQ0CoGph
-#EXTINF:40, Clarity4k КиноФраншизы
+#EXTINF:0,Clarity4K КиноНовинки
+http://cdn.troya.one:80/ch2509/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIowfImvhE58di8hRDEPwUpCXQtawOSDOEWFtQ0CoGph
+#EXTINF:0,Clarity4k КиноФраншизы
 http://cdn.troya.one:80/ch2890/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK6J8_EFWSmuDwSFNWrcD4pnbmpYjDmirZLe63cAs206
-#EXTINF:0, Clarity4K Киношарм
+#EXTINF:0,Clarity4k КиноФраншизы
+http://cdn.troya.one:80/ch2890/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK6J8_EFWSmuDwSFNWrcD4pnbmpYjDmirZLe63cAs206
+#EXTINF:0,Clarity4K Киношарм
 http://cdn.troya.one:80/ch2602/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHhtgcUJDWxe2pdTzIK40rIBD2mR1DwZiEix0XH1kPSB
-#EXTINF:0, Clarity4k Классика Кино
+#EXTINF:0,Clarity4K Киношарм
+http://cdn.troya.one:80/ch2602/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHhtgcUJDWxe2pdTzIK40rIBD2mR1DwZiEix0XH1kPSB
+#EXTINF:0,Clarity4k Классика Кино
 http://cdn.troya.one:80/ch2506/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAAQr405dt0NpJS8bS8Dgk5CXKAskMtrrK3iwDeNowOZ
-#EXTINF:0, Clarity4K Комедия
+#EXTINF:0,Clarity4K Комедия
 http://cdn.troya.one:80/ch2889/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFNfl_Cwokd0T9xHDHkk2P8FFPyG01OH0QLVrEL7njIm
-#EXTINF:0, Clarity4K Комедия VHS
+#EXTINF:0,Clarity4K Комедия
+http://cdn.troya.one:80/ch2889/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFNfl_Cwokd0T9xHDHkk2P8FFPyG01OH0QLVrEL7njIm
+#EXTINF:0,Clarity4K Комедия VHS
 http://cdn.troya.one:80/ch2891/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHP6cp81I6dc1xKYKb2cHXKbPgroYZW9mvxLoXAuf6uM
-#EXTINF:0, Clarity4K Космомир
+#EXTINF:0,Clarity4K Космомир
 http://cdn.troya.one:80/ch1295/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAfykcylSKDvP1Gp73CYmDOykh-AuBKuAzFtw1UgyllW
-#EXTINF:0, Clarity4K Молодежные Комедии
+#EXTINF:0,Clarity4K Космомир
+http://cdn.troya.one:80/ch1295/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAfykcylSKDvP1Gp73CYmDOykh-AuBKuAzFtw1UgyllW
+#EXTINF:0,Clarity4K Молодежные Комедии
 http://cdn.troya.one:80/ch2885/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iISb2YMiEF4YcWU_bPy2WbJ5qtV1trZPnFKrC97oLxD4
-#EXTINF:0, Clarity4K Приключения
+#EXTINF:0,Clarity4K Молодежные Комедии
+http://cdn.troya.one:80/ch2885/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iISb2YMiEF4YcWU_bPy2WbJ5qtV1trZPnFKrC97oLxD4
+#EXTINF:0,Clarity4K Мультляндия
+http://cdn.troya.one:80/ch519/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDg1MjFrSHr_uZMcjLar7cfwoAkWIcHmWaxEvxvYutbt
+#EXTINF:0,Clarity4K Приключения
 http://cdn.troya.one:80/ch1437/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLMU17c4w2btxPPUTwDHItoiLSaGxhV1l6WGF-z44jWa
-#EXTINF:0, Clarity4K Семейный
+#EXTINF:0,Clarity4K Приключения
+http://cdn.troya.one:80/ch1437/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLMU17c4w2btxPPUTwDHItoiLSaGxhV1l6WGF-z44jWa
+#EXTINF:0,Clarity4k Русские сериалы
+http://cdn.troya.one:80/ch2505/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iARQraBpqOtL4_Y8pxRUvhx4XRF-n2381UOphs607Y4x
+#EXTINF:0,Clarity4K Семейный
 http://cdn.troya.one:80/ch2894/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLCzMcoeAc3EshUz3mbxXM-kP0gPkTSRKGVZWZj5TT_u
-#EXTINF:0, Clarity4k Сумеречный Эфир
+#EXTINF:0,Clarity4k Сумеречный Эфир
 http://cdn.troya.one:80/ch2508/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCFnnfA3sO6yOf-vRcDDxa034efKY5xUsBlIhlTEgbk2
-#EXTINF:0, Clarity4K Театр
+#EXTINF:0,Clarity4k Сумеречный Эфир
+http://cdn.troya.one:80/ch2508/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCFnnfA3sO6yOf-vRcDDxa034efKY5xUsBlIhlTEgbk2
+#EXTINF:0,Clarity4K Театр
 http://cdn.troya.one:80/ch2892/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCa26BvLVX1M_q9OB7kH3foe34DvFCxtdAF4RWbGHDEX
-#EXTINF:0, Clarity4K Триллер
+#EXTINF:0,Clarity4K Триллер
 http://cdn.troya.one:80/ch2895/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6-4DFP9nAftj4VkuDZgt0zFKUdMcu-VJvgs6u-LQ0k
-#EXTINF:0, Clarity4K Ужасы
+#EXTINF:0,Clarity4K Триллер
+http://cdn.troya.one:80/ch2895/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6-4DFP9nAftj4VkuDZgt0zFKUdMcu-VJvgs6u-LQ0k
+#EXTINF:0,Clarity4K Ужасы
 http://cdn.troya.one:80/ch2887/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-TSIJLB3Kmy49bnqDlCTstKwBqZB5thdVoy8SQATDA
-#EXTINF:0, Clarity4K Ужасы VHS
+#EXTINF:0,Clarity4K Ужасы
+http://cdn.troya.one:80/ch2887/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-TSIJLB3Kmy49bnqDlCTstKwBqZB5thdVoy8SQATDA
+#EXTINF:0,Clarity4K Ужасы VHS
 http://cdn.troya.one:80/ch1187/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFEkBLvIj4V1bLj9qAthX46Fdoa1JI9aiU3KN8_5d65r
-#EXTINF:0, Clarity4K Фантастика
+#EXTINF:0,Clarity4K Ужасы VHS
+http://cdn.troya.one:80/ch1187/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFEkBLvIj4V1bLj9qAthX46Fdoa1JI9aiU3KN8_5d65r
+#EXTINF:0,Clarity4K Фантастика
 http://cdn.troya.one:80/ch1439/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFJj-NOyWjiFe6JPAuRioFpOSlllaSH7hNvi5KOFt1q3
-#EXTINF:0, Clarity4K Фэнтези
+#EXTINF:0,Clarity4K Фэнтези
 http://cdn.troya.one:80/ch1196/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPEt_2e-7rz5VrIhHsNwcAUqEC2ZEgia2sQhEwZkorCw
-#EXTINF:0, Cobra Comedy HD
+#EXTINF:24,Clubbing TV HD
+http://cdn.troya.one:80/ch524/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO2IQ41SVl4_CHiOC_E9B72L5d9RRuW4-bhclFo-s-6n
+#EXTINF:0,Cobra Comedy HD
 http://cdn.troya.one:80/ch2854/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMvH-lmJjl0PD2IQwVriawpH4hE0uzP-ZaA-x1gSOsR6
-#EXTINF:0, Cobra Detektiv HD
+#EXTINF:0,Cobra Detektiv HD
 http://cdn.troya.one:80/ch2850/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP6WESoZ6gVxlq6yrbEDq5vqx1UrtEzkaunRxYHjFu2n
-#EXTINF:0, Cobra Drama HD
+#EXTINF:0,Cobra Detektiv HD
+http://cdn.troya.one:80/ch2850/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP6WESoZ6gVxlq6yrbEDq5vqx1UrtEzkaunRxYHjFu2n
+#EXTINF:0,Cobra Drama HD
 http://cdn.troya.one:80/ch2852/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-T2EtoxaiNCdGQayi8fjay3f8zrIgyre-n3BtM1Hue
-#EXTINF:0, Cobra Melodrama HD
+#EXTINF:0,Cobra Drama HD
+http://cdn.troya.one:80/ch2852/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-T2EtoxaiNCdGQayi8fjay3f8zrIgyre-n3BtM1Hue
+#EXTINF:0,Cobra Melodrama HD
 http://cdn.troya.one:80/ch2853/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAZHbzqFreS_uHINppOmGKcFHYL-LP-CDwZSmC0SlIER
-#EXTINF:0, Cobra Thriller HD
+#EXTINF:0,Cobra Thriller HD
 http://cdn.troya.one:80/ch2851/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGM3-q_fAS4S_xD-MGdwOV4yv5JruUOGeJWbZbIIaIX6
-#EXTINF:20, Curiosity Stream HD
+#EXTINF:0,Cobra Thriller HD
+http://cdn.troya.one:80/ch2851/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGM3-q_fAS4S_xD-MGdwOV4yv5JruUOGeJWbZbIIaIX6
+#EXTINF:0,Comedy Central
+http://cdn.troya.one:80/ch038/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFzOtKjBLJAtKmewPLEbaoLAuSmDx1rTzUXmgi-HACT9
+#EXTINF:0,Comedy Central
+http://cdn.troya.one:80/ch038/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFzOtKjBLJAtKmewPLEbaoLAuSmDx1rTzUXmgi-HACT9
+#EXTINF:0,Continent E HD
+http://cdn.troya.one:80/ch608/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEINAdiDoTylpiMWzT7jznf2IYb68-cIuZb1hLSNtXrW
+#EXTINF:0,Curiosity Stream HD
 http://cdn.troya.one:80/ch556/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMnGOvKfPQxD4u6yRi-5FQzvfdGZWlA7dNgjaLZboVcc
-#EXTINF:0, Discovery Channel HD
+#EXTINF:0,Da Vinci
+http://cdn.troya.one:80/ch441/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLWoL225I7CCY07TXNC_1vOIde_QEe-ADsHmCnqtDrkX
+#EXTINF:20,Da Vinci
+http://cdn.troya.one:80/ch441/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLWoL225I7CCY07TXNC_1vOIde_QEe-ADsHmCnqtDrkX
+#EXTINF:0,Discovery Channel HD
 http://cdn.troya.one:80/ch123/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAXawzc6TfU_ww_A3ayRjnimJB_hvPUtLlcrkmQmYwT0
-#EXTINF:20, Discovery Science HD
+#EXTINF:0,Discovery Channel HD
+http://cdn.troya.one:80/ch123/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAXawzc6TfU_ww_A3ayRjnimJB_hvPUtLlcrkmQmYwT0
+#EXTINF:0,Discovery Science HD
 http://cdn.troya.one:80/ch722/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGPkfCl9IBERKEJrn8kaOlPFqJIzMRD_eT4sTewQK6zi
-#EXTINF:20,Dizi
+#EXTINF:0,Dizi
 http://cdn.troya.one:80/ch1878/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOxRRKUTFEGiFLul3ZmodlrXsSwIM7V6xDYA5ORUzyB0
-#EXTINF:0, DocuBox HD
+#EXTINF:0,DocuBox HD
 http://cdn.troya.one:80/ch656/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG1izlTJHx6j9abW4EkvqU9CLUIPnK1gjqCl93DaWr_D
-#EXTINF:0, Epic Drama HD
+#EXTINF:23,Dorcel HD
+http://cdn.troya.one:80/ch097/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB0ebIg3IbF0K6gR6IqgsTOj2NHzHtiJIQRdQ8cqfD4e
+#EXTINF:0,Duck HD
+http://cdn.troya.one:80/ch707/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGHsN1EDBecS0EpcevNCgIZmFlh9wbETPc5IAMyY6ndi
+#EXTINF:0,E TV
+http://cdn.troya.one:80/ch503/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOoNNVl_yDhwQ-qHEoo0IMxX6MVCBCyIuXZj1T5OCQ9f
+#EXTINF:0,Epic Drama HD
 http://cdn.troya.one:80/ch681/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMUl6VvPObXjvbE4SP4k5lPqlFV3T--EDtswNwgOkPaI
-#EXTINF:0, Fan HD
+#EXTINF:0,Europa Plus TV HD
+http://cdn.troya.one:80/ch715/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP6-i14dVMnbqhsY29ABcGXTIT61Ih2_ES5J5PZ5W_PA
+#EXTINF:0,Extasy 4K
+http://cdn.troya.one:80/ch655/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJEb7IvTN0oZNxqLLGHWIkOSYHMUZzd4cho1Vitak0Tt
+#EXTINF:0,Fan HD
 http://cdn.troya.one:80/ch501/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMcvJy15BTBCSHiXM7gZOyjSx6E19tY33OlKwWHdEyD0
-#EXTINF:0, FilmBox ArtHouse
+#EXTINF:0,Fan HD
+http://cdn.troya.one:80/ch501/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMcvJy15BTBCSHiXM7gZOyjSx6E19tY33OlKwWHdEyD0
+#EXTINF:0,Fashion TV HD
+http://cdn.troya.one:80/ch550/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIC1t453WFplKhssCcdOlnWKzC2ExisCC03SX4Rije8S
+#EXTINF:0,Fast and FunBox HD
+http://cdn.troya.one:80/ch358/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCKqfCeB-jeGHSrogUVM8yk9MwPuUwno21lMEHbyDJg5
+#EXTINF:20,Fast&FunBox HD
+http://cdn.troya.one:80/ch358/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCKqfCeB-jeGHSrogUVM8yk9MwPuUwno21lMEHbyDJg5
+#EXTINF:0,FightBox HD
+http://cdn.troya.one:80/ch359/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGu30zfLZZl20a_sRfycymHnLaDZu8lgpNsrubEnkSmr
+#EXTINF:20,FilmBox ArtHouse
 http://cdn.troya.one:80/ch684/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH1xxUjFP-cCWjfFLAgkbZvupl3R-x-uQgGpCklk-cjJ
-#EXTINF:0, FlixSnip HD
+#EXTINF:0,FilmBox ArtHouse
+http://cdn.troya.one:80/ch684/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH1xxUjFP-cCWjfFLAgkbZvupl3R-x-uQgGpCklk-cjJ
+#EXTINF:24,FilmUA Drama HD
+http://cdn.troya.one:80/ch702/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCqD-cVZ4Ymcsk1syrJsfK4PhyzfenQPBPj5neEGkLfb
+#EXTINF:0,FlixSnip HD
 http://cdn.troya.one:80/ch709/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKyCl88I29u8UWfZt6MwXy30cCIxu7rW0CNzLBflZtwk
-#EXTINF:0, Food Network HD
+#EXTINF:0,FlixSnip HD
+http://cdn.troya.one:80/ch709/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKyCl88I29u8UWfZt6MwXy30cCIxu7rW0CNzLBflZtwk
+#EXTINF:0,Food Network HD
 http://cdn.troya.one:80/ch455/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEWZQ_k3kbQFwEzm1uZDkqKTnk3MXc_LRsLqkt30NV8o
-#EXTINF:0, Foodtime HD
+#EXTINF:24,Food Time HD
 http://cdn.troya.one:80/ch454/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIDRCc1ntKHhwc_e1aoZuKy5Vmm3-342DKF0--2gP5Rw
-#EXTINF:0, Fox HD
+#EXTINF:0,Fox HD
 http://cdn.troya.one:80/ch103/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFU5-hlXyKZSflFKSsS3p8A0I2uRrcIM2U4XhGMu4K6-
-#EXTINF:0, Fox life
+#EXTINF:0,Fox HD
+http://cdn.troya.one:80/ch103/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFU5-hlXyKZSflFKSsS3p8A0I2uRrcIM2U4XhGMu4K6-
+#EXTINF:0,Fox life
 http://cdn.troya.one:80/ch104/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEN4r3z8Mc3sh6piIzRpJJs6evzvRY9NzhrITjPjTxSt
-#EXTINF:0, Fresh Adventure
+#EXTINF:0,Fox life
+http://cdn.troya.one:80/ch104/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEN4r3z8Mc3sh6piIzRpJJs6evzvRY9NzhrITjPjTxSt
+#EXTINF:0,FOX News HD
+http://cdn.troya.one:80/ch2093/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJavbIp3J_wLq0ZGg9ACBTN_3i6P-KhpGve66bXbh6ZJ
+#EXTINF:0,France 24
+http://cdn.troya.one:80/ch1944/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLnO7Og_VLRzLeFL-FVhXmvF4Ee4tj1UYeCsZs7pY_E8
+#EXTINF:0,Fresh Adventure
 http://cdn.troya.one:80/ch1721/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNsaAjUJGnS4OjahqyZ_j-ye3JpoaRAwDNJ-S3P-pDw-
-#EXTINF:0, Fresh Cinema
+#EXTINF:0,Fresh Cinema
 http://cdn.troya.one:80/ch1722/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDnxlWEo2sfdGAL4cdpaH9JFeZ4QxLTRoQsdRofsHlPJ
-#EXTINF:0, Fresh Comedy
+#EXTINF:0,Fresh Comedy
 http://cdn.troya.one:80/ch1723/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDJTTaOPCOxofDWgkZLr-9DksxRG-SSYx-jhNMg13T5t
-#EXTINF:0, Fresh Family
+#EXTINF:0,Fresh Concerts
+http://cdn.troya.one:80/ch1564/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIIYJ-Nx56hSOpHFqyyI-s1IO4NT-t7fszcKpkr9DRyW
+#EXTINF:0,Fresh Dance
+http://cdn.troya.one:80/ch1565/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE_FSQ7vB54CLPJBTGy3_LdL7Ph0dCdywA9gKESNA122
+#EXTINF:0,Fresh Family
 http://cdn.troya.one:80/ch1724/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCs6pifB5Fb2irAhIIqIaOsuL1uA_NSisEdqYTrY9N-y
-#EXTINF:0, Fresh Fantastic
+#EXTINF:0,Fresh Family
+http://cdn.troya.one:80/ch1724/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCs6pifB5Fb2irAhIIqIaOsuL1uA_NSisEdqYTrY9N-y
+#EXTINF:0,Fresh Fantastic
 http://cdn.troya.one:80/ch1725/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG_1rTWTDv0wzNDUbgWC8bL3wmycJ6Hyb5vl6wVwXWoG
-#EXTINF:0, Fresh Horror
+#EXTINF:0,Fresh Fantastic
+http://cdn.troya.one:80/ch1725/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG_1rTWTDv0wzNDUbgWC8bL3wmycJ6Hyb5vl6wVwXWoG
+#EXTINF:0,Fresh Horror
 http://cdn.troya.one:80/ch1726/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH0tQ4bxBglhXTgJeBW-6s_qGz4mHxY6KyNT7igI9txC
-#EXTINF:0, Fresh Premiere
+#EXTINF:0,Fresh Horror
+http://cdn.troya.one:80/ch1726/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH0tQ4bxBglhXTgJeBW-6s_qGz4mHxY6KyNT7igI9txC
+#EXTINF:0,Fresh Lyrics
+http://cdn.troya.one:80/ch1566/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD79HjVTcs2wqPjMdNqvOHuLyMBNuHrMlKBRIdEhrTS8
+#EXTINF:0,Fresh Premiere
 http://cdn.troya.one:80/ch1727/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJiYVUuyTqEcFtu09vLCbcw26wC3vsP53abR4b21jlmo
-#EXTINF:0, Fresh Rating
+#EXTINF:0,Fresh Premiere
+http://cdn.troya.one:80/ch1727/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJiYVUuyTqEcFtu09vLCbcw26wC3vsP53abR4b21jlmo
+#EXTINF:0,Fresh Rating
 http://cdn.troya.one:80/ch1728/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHEaZC658LjqIhFNrIH3ob9XoJ-Ya3BodAdvliOq5u1G
-#EXTINF:0, Fresh Romantic
+#EXTINF:0,Fresh Romantic
 http://cdn.troya.one:80/ch1729/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFsBWHYSSiiPZg-EXaU-IC_lEfOPfPKkZmufz3uMC6Ro
-#EXTINF:26, Fresh Russian
+#EXTINF:0,Fresh Russian
 http://cdn.troya.one:80/ch1730/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGbCewsGOQm-XC4_UjlXE9ujxdIMeGBQMkiUeANb0IJG
-#EXTINF:0, Fresh Series
+#EXTINF:0,Fresh Russian Rap
+http://cdn.troya.one:80/ch1571/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC7A_T-0BxVwsYXHL7RV0b99xkXLzVS8ZiW2t7wmPYtK
+#EXTINF:0,Fresh Series
 http://cdn.troya.one:80/ch1731/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPH-yYVX4-esxS2-Fi9WhFBXJc3Yhd6agpIE0GnkPmwi
-#EXTINF:0, Fresh Soviet
+#EXTINF:0,Fresh Soviet
 http://cdn.troya.one:80/ch1732/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE8Ffn0Q1F4zV-QzLzSO2U2tWLGHY8GDkWlqiw8i9LiP
-#EXTINF:0, Fresh Thriller
+#EXTINF:0,Fresh Thriller
 http://cdn.troya.one:80/ch1733/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMVznsDtpGkiuXTuVYSNbWv1mPMVdPgLZjpFtm2LXMya
-#EXTINF:0, Fresh Vhs
+#EXTINF:0,Fresh Vhs
 http://cdn.troya.one:80/ch1734/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDV843ESHrgWhFkUeFPHaIoCiUFiZ5S5zf9bqfxlvIj6
-#EXTINF:0, HDL
+#EXTINF:0,Gulli Girl
+http://cdn.troya.one:80/ch043/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFIOGdl7FKGZ-9u0xOYAAGBqkPLVAI_d0xWi8Ye_FZlW
+#EXTINF:20,H EDU
+http://cdn.troya.one:80/ch1515/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD8Ti3LS2M49c1Cuc36h9UVEKWjvS8i0j-_133KlrII8
+#EXTINF:20,H EDU
+http://cdn.troya.one:80/ch1515/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD8Ti3LS2M49c1Cuc36h9UVEKWjvS8i0j-_133KlrII8
+#EXTINF:0,HDL
 http://cdn.troya.one:80/ch122/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOAW5yURXe6yRLFXCQbvz51squBvkJS8jbjoG9NNesAW
-#EXTINF:20, HGTV HD
+#EXTINF:0,HDL
+http://cdn.troya.one:80/ch122/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOAW5yURXe6yRLFXCQbvz51squBvkJS8jbjoG9NNesAW
+#EXTINF:0,HGTV HD
 http://cdn.troya.one:80/ch723/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEaOhmo_ON1YDGKEEwLzC1gW6C6923LvwO4jPzF8MF8l
-#EXTINF:0, History HD
+#EXTINF:0,History HD
 http://cdn.troya.one:80/ch432/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNVioFgNHA9W2jq6IW2qyd_qL69cHDBtW6mt-B2m3w4l
-#EXTINF:0, History2 HD
+#EXTINF:0,History HD
+http://cdn.troya.one:80/ch432/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNVioFgNHA9W2jq6IW2qyd_qL69cHDBtW6mt-B2m3w4l
+#EXTINF:0,History2 HD
 http://cdn.troya.one:80/ch433/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAxWXOgqh0SFWttj7cAE5ejBSBd2LkTdh1iDQ4V0zmuj
-#EXTINF:0, Hollywood
+#EXTINF:0,Hollywood
 http://cdn.troya.one:80/ch1675/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFuV5ONjX98EbUYHSkmLBYsxCvRBdO6YrrNgI2LEyp7J
-#EXTINF:0, Hollywood HD
+#EXTINF:0,Hollywood HD
 http://cdn.troya.one:80/ch525/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH5sNwIYTYwQW0IYt1A1-lDehEhZTy8-a9BpkIMLbBTi
-#EXTINF:0, Home 4K
+#EXTINF:0,Home 4K
 http://cdn.troya.one:80/ch551/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHMR2lXsFRowIRS_DIiISb_Oktm4x5u7EE4qRwpjkhao
-#EXTINF:0, Insight UHD
+#EXTINF:0,Hybrid Film
+http://cdn.troya.one:80/ch2409/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDfceVtzdBknxMzPA0R6DLggV-9bp0f__QiYpWx6Kn2U
+#EXTINF:20,ICTV 2 HD
+http://cdn.troya.one:80/ch658/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNuAujk1z94NenQcrmTQIVxwphn0us5DsREdlFttfN5q
+#EXTINF:21,Insight UHD
 http://cdn.troya.one:80/ch512/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNIGQnLuEg1KBqR_MOZvVoSMCF-v8eH3C-4R9rt8o_EL
-#EXTINF:0, KBC-Animals HD
+#EXTINF:21,Insight UHD
+http://cdn.troya.one:80/ch512/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNIGQnLuEg1KBqR_MOZvVoSMCF-v8eH3C-4R9rt8o_EL
+#EXTINF:0,Investigation Discovery CEE HD
+http://cdn.troya.one:80/ch434/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHRsdQjTTt5IilkJ6ivLcIl5MlGb_WJKvKR06HHbE-p6
+#EXTINF:23,Kanal 7
+http://cdn.troya.one:80/ch1669/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iARfEDIsdK3X1kKGxi70v0yb_8X7VSgKClu5RoJhrx1F
+#EXTINF:23,Kanal 7
+http://cdn.troya.one:80/ch1669/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iARfEDIsdK3X1kKGxi70v0yb_8X7VSgKClu5RoJhrx1F
+#EXTINF:0,KBC-Animals HD
 http://cdn.troya.one:80/ch2847/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNSLSSNNopNBr3AxGeE1r0wY-dCaqHVEJTV3bbw7EVNM
-#EXTINF:0, KBC-Comics HD
+#EXTINF:0,KBC-Comics HD
 http://cdn.troya.one:80/ch2837/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC0ti-28tM01Mr-OiqUmjS7I2jKSzc1UePdStSrKF8cS
-#EXTINF:0, KBC-Elite comedys HD
+#EXTINF:0,KBC-Elite comedys HD
 http://cdn.troya.one:80/ch2831/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI_3ntFym3bY-iEVZkH5Avnb94eYJjip7ZfmNqP23YH5
-#EXTINF:0, KBC-Family Animation HD
+#EXTINF:0,KBC-Family Animation HD
 http://cdn.troya.one:80/ch2832/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBXjusJtWCWyJIRN9cpwg1Q7TSNDM98zwH8ztCTwdhoR
-#EXTINF:0, KBC-Fantastic HD
+#EXTINF:0,KBC-Fantastic HD
 http://cdn.troya.one:80/ch2840/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iERV2F14mKhVs0UKji7_B19BPdyTEnXu6qIa9nS4Bc2R
-#EXTINF:0, KBC-History HD
+#EXTINF:0,KBC-Fantastic HD
+http://cdn.troya.one:80/ch2840/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iERV2F14mKhVs0UKji7_B19BPdyTEnXu6qIa9nS4Bc2R
+#EXTINF:0,KBC-History HD
 http://cdn.troya.one:80/ch2839/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKivLgBrukMop6Vt6beOy12DtlhYZHlkn4O5FbouhOO2
-#EXTINF:0, KBC-MusKino HD
+#EXTINF:0,KBC-History HD
+http://cdn.troya.one:80/ch2839/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKivLgBrukMop6Vt6beOy12DtlhYZHlkn4O5FbouhOO2
+#EXTINF:0,KBC-MusKino HD
 http://cdn.troya.one:80/ch2846/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDdOgpolcZoqFvX5CZKvraFDGwbDOUraHx3feNmJOwy2
-#EXTINF:0, KBC-Newfilm HD
+#EXTINF:0,KBC-MusKino HD
+http://cdn.troya.one:80/ch2846/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDdOgpolcZoqFvX5CZKvraFDGwbDOUraHx3feNmJOwy2
+#EXTINF:0,KBC-Newfilm HD
 http://cdn.troya.one:80/ch2842/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPtSxXB_exKYbl9MV0w0mqoVt4yFPx_7EyVRkRltGLua
-#EXTINF:0, KBC-Russian Комедия HD
-http://cdn.troya.one:80/ch2833/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMBjDvwzdXngQ_kwJw3khIc48FIiHQoNXtAaGnp35TYT
-#EXTINF:0, KBC-WAR HD
+#EXTINF:0,KBC-WAR HD
 http://cdn.troya.one:80/ch2845/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGQHTLcajy-SOp1fGwZjrq3zkEMQnxx8WxjRe7CyHEN5
-#EXTINF:0, KBC-Аниме HD
+#EXTINF:0,KBC-Аниме HD
 http://cdn.troya.one:80/ch2838/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHJYKPFzXV8iorvvgB6XryDouP-1vSbPGo1nlfo7niFb
-#EXTINF:0, KBC-Вестерн HD
+#EXTINF:0,KBC-Аниме HD
+http://cdn.troya.one:80/ch2838/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHJYKPFzXV8iorvvgB6XryDouP-1vSbPGo1nlfo7niFb
+#EXTINF:0,KBC-Вестерн HD
 http://cdn.troya.one:80/ch2844/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEeYln7xqnOHqR_Abpjmv8D21eWuG3UjBh6R8z-98gSR
-#EXTINF:33, KBC-Видак HD
-http://cdn.troya.one:80/ch2827/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKT3V4ube3GzbDR3yBWKlvgmuPLYo9Wi5TQQZOxWNaAb
-#EXTINF:0, KBC-ГАЙ Ritchie and Tarantino HD
+#EXTINF:0,KBC-ГАЙ Ritchie and Tarantino HD
 http://cdn.troya.one:80/ch2841/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN9qlqt6vi117QnbUDQZCr399ghp9O2MyUkSPtwS60p2
-#EXTINF:0, KBC-Гоблин HD
+#EXTINF:0,KBC-Гоблин HD
 http://cdn.troya.one:80/ch2843/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN9VPI40oXUGJ4frC1m03PVn0UrP_t0oZBbqaNkRiooB
-#EXTINF:0, KBC-ДрамаTic HD
+#EXTINF:0,KBC-ДрамаTic HD
 http://cdn.troya.one:80/ch2828/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHOtpGqHe-_8TSj_ITAa7hV0n07uH4mrkNOVjj5JMRrN
-#EXTINF:0, KBC-Кошмарное HD
+#EXTINF:0,KBC-Кошмарное HD
 http://cdn.troya.one:80/ch2826/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBNPMcMwlMzOIg-k_Fvx2OV1cKdPvnYBChLWU7w8pFDb
-#EXTINF:0, KBC-Легендарное HD
+#EXTINF:0,KBC-Легендарное HD
 http://cdn.troya.one:80/ch2825/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKiBXqZ2yY7lj4RVUd9QNbp7CNynUAIs-21xbc7fNYrh
-#EXTINF:39, KBC-СпортМикс HD
-http://cdn.troya.one:80/ch2848/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM0KMD1wYU_iN4amO17y9r9s6LgS9rO4VctAbZ_4IbTy
-#EXTINF:0, KBC-Шпионское HD
+#EXTINF:0,KBC-Легендарное HD
+http://cdn.troya.one:80/ch2825/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKiBXqZ2yY7lj4RVUd9QNbp7CNynUAIs-21xbc7fNYrh
+#EXTINF:0,KBC-Шпионское HD
 http://cdn.troya.one:80/ch2836/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF4-S9ygI2IuyNs7rtFRn3WxknxQ-Ji8QjJ4aWLod8TT
-#EXTINF:0, Kinoliving
+#EXTINF:0,Kinoliving
 http://cdn.troya.one:80/ch2069/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCm6DS3i2MYkPHst_hHehM64f9Jdolp9KLkBicTlXA4H
-#EXTINF:0, KION Хит HD
+#EXTINF:0,KION Хит HD
 http://cdn.troya.one:80/ch382/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEes2IaqWJ6orDchtbocWGnCGz0hbEOay5vXPW0ngNXI
-#EXTINF:0, KLI Action HD
+#EXTINF:0,KLI Action HD
 http://cdn.troya.one:80/ch2278/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEcHETAl7GREf9CWAMqzbjOKE-LwPWFO1MYlQCzWU3WN
-#EXTINF:0, KLI Cinema HD
+#EXTINF:0,KLI Cinema HD
 http://cdn.troya.one:80/ch2267/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBw45NkIcf6TezSVZHPwzLD62NCtkd22UBkzfsoNCfIf
-#EXTINF:0, KLI Comedy HD
+#EXTINF:0,KLI Cinema HD
+http://cdn.troya.one:80/ch2267/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBw45NkIcf6TezSVZHPwzLD62NCtkd22UBkzfsoNCfIf
+#EXTINF:0,KLI Club HD
+http://cdn.troya.one:80/ch2258/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFLee4Xgueq6tqSPO-xDwd-v_ky3G2mZCaotQzC7f4qQ
+#EXTINF:0,KLI Comedy HD
 http://cdn.troya.one:80/ch2268/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKPechEc_MWUH4C114MWl7ukuf3_90NsXeJkDftPCcJt
-#EXTINF:0, KLI Docu HD
+#EXTINF:0,KLI Comedy HD
+http://cdn.troya.one:80/ch2268/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKPechEc_MWUH4C114MWl7ukuf3_90NsXeJkDftPCcJt
+#EXTINF:0,KLI Concert HD
+http://cdn.troya.one:80/ch2260/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHLiVs9gDYdrSlZ1I0E0i5zUc2vSDQ5_lsija2V0RMHA
+#EXTINF:0,KLI Docu HD
 http://cdn.troya.one:80/ch2263/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEnjfAS9DE3mJTKgugqB7HR9kQvGRqAgoBN4y94_Y_dV
-#EXTINF:0, KLI Drama HD
+#EXTINF:0,KLI Drama HD
 http://cdn.troya.one:80/ch2279/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFxPqsP48B2d6QjVRr_KNzhYWjdM7Ugo6LfHIeFbd4ca
-#EXTINF:0, KLI Family HD
+#EXTINF:0,KLI Drama HD
+http://cdn.troya.one:80/ch2279/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFxPqsP48B2d6QjVRr_KNzhYWjdM7Ugo6LfHIeFbd4ca
+#EXTINF:0,KLI Family HD
 http://cdn.troya.one:80/ch2275/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKbwelxQWDExhDYK6ymZCmXJiVf88u2bLpb2pFbFjJSF
-#EXTINF:0, KLI Fantastic HD
+#EXTINF:0,KLI Fantastic HD
 http://cdn.troya.one:80/ch2271/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHlhOrgfiqaoWap7njEvjee4NQTP_eM_QF16smGxdIH8
-#EXTINF:0, KLI Fantasy HD
+#EXTINF:0,KLI Fantastic HD
+http://cdn.troya.one:80/ch2271/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHlhOrgfiqaoWap7njEvjee4NQTP_eM_QF16smGxdIH8
+#EXTINF:40,KLI Fantasy HD
 http://cdn.troya.one:80/ch2280/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFzah-IXk0FRN7tQExzTR_qLBgjo1j_9g6j6O4DMOfdO
-#EXTINF:0, KLI Franchise HD
+#EXTINF:0,KLI Fantasy HD
+http://cdn.troya.one:80/ch2280/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFzah-IXk0FRN7tQExzTR_qLBgjo1j_9g6j6O4DMOfdO
+#EXTINF:0,KLI Franchise HD
 http://cdn.troya.one:80/ch2703/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMPsAnmyIYEJdcOfqApy1SEDP5UTLdUh79lT8JcLhCRt
-#EXTINF:0, KLI History HD
+#EXTINF:0,KLI Franchise HD
+http://cdn.troya.one:80/ch2703/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMPsAnmyIYEJdcOfqApy1SEDP5UTLdUh79lT8JcLhCRt
+#EXTINF:0,KLI History HD
 http://cdn.troya.one:80/ch2269/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJX6ACOQYWK0EtdIv4D5glkpk2QWD22RWP47CELsfIdc
-#EXTINF:0, KLI Horror HD
+#EXTINF:0,KLI History HD
+http://cdn.troya.one:80/ch2269/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJX6ACOQYWK0EtdIv4D5glkpk2QWD22RWP47CELsfIdc
+#EXTINF:0,KLI Horror HD
 http://cdn.troya.one:80/ch2277/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF31bFyao_c1pSsza3U8GdcbTMKmL9WMroSzYu4hZyeN
-#EXTINF:0, KLI Humor HD
+#EXTINF:0,KLI Humor HD
 http://cdn.troya.one:80/ch2262/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKRbqgweQvvfzmaRRMbF3C50V7Ot83dpY9I8vPQabsi6
-#EXTINF:0, KLI Kinoseries
+#EXTINF:0,KLI Kinoseries
 http://cdn.troya.one:80/ch2276/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEYRyvrMEivT4ApMMAQPGj25KYjvR7mE0HEh7KzEHZoU
-#EXTINF:0, KLI Marvel HD
+#EXTINF:0,KLI Marvel HD
 http://cdn.troya.one:80/ch2463/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKm05Qk11SHt8D65e1Do44I0WXacWvQLPzjNDUEdTJI_
-#EXTINF:0, KLI Netflix HD
+#EXTINF:0,KLI Marvel HD
+http://cdn.troya.one:80/ch2463/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKm05Qk11SHt8D65e1Do44I0WXacWvQLPzjNDUEdTJI_
+#EXTINF:0,KLI Millennium HD
+http://cdn.troya.one:80/ch2462/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGKxvF-poZ7xSEvhjeRBTbFWK046Gju5L5bv6imCTX8Z
+#EXTINF:0,KLI Netflix HD
 http://cdn.troya.one:80/ch2461/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHj-IBIOJV9g_06VInaWR84HxJKf1XXQbnGjinig4D8m
-#EXTINF:0, KLI Premium HD
+#EXTINF:0,KLI Premium HD
 http://cdn.troya.one:80/ch2266/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCfn4qkbCy9f5WDqOCz-gx9QDadyIS1vEmgoWmyGB-M9
-#EXTINF:0, KLI Relax HD
+#EXTINF:0,KLI Premium HD
+http://cdn.troya.one:80/ch2266/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCfn4qkbCy9f5WDqOCz-gx9QDadyIS1vEmgoWmyGB-M9
+#EXTINF:0,KLI Relax HD
 http://cdn.troya.one:80/ch2704/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iITY5kBE_qQFLH1fb1lI2_SfgAuYy0HQWh0Vqn8Wbfc7
-#EXTINF:0, KLI Russian HD
+#EXTINF:0,KLI Retro HD
+http://cdn.troya.one:80/ch2257/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLljF_nAKS4z3Hr3y3qa_pK0wDp07IOVpIbAXLOnJafa
+#EXTINF:0,KLI Retro HD
+http://cdn.troya.one:80/ch2257/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLljF_nAKS4z3Hr3y3qa_pK0wDp07IOVpIbAXLOnJafa
+#EXTINF:0,KLI Russian HD
 http://cdn.troya.one:80/ch2270/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ3wLGLGyNs96jeXE7qwxR-pAa1lXOppA7LsmzOPuqM7
-#EXTINF:0, KLI Thriller HD
+#EXTINF:0,KLI Thriller HD
 http://cdn.troya.one:80/ch2273/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC8bXkx3jwrNiYKZhYx3jGasmvINliYMd5rMiFWiFflu
-#EXTINF:0, KLI VHS HD
+#EXTINF:0,KLI Thriller HD
+http://cdn.troya.one:80/ch2273/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC8bXkx3jwrNiYKZhYx3jGasmvINliYMd5rMiFWiFflu
+#EXTINF:0,KLI VHS HD
 http://cdn.troya.one:80/ch2272/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEn0WaD4LtprBxvfv2LXeUc50hJqbNm2kqSa2zn68hGA
-#EXTINF:0, KLI Новинки HD
+#EXTINF:0,KLI VHS HD
+http://cdn.troya.one:80/ch2272/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEn0WaD4LtprBxvfv2LXeUc50hJqbNm2kqSa2zn68hGA
+#EXTINF:0,KLI Мультики HD
+http://cdn.troya.one:80/ch2265/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ5Re1PJYpi-zLZvLhK03gsJ9YUBTN50EcJS_PyGy7Ad
+#EXTINF:0,KLI Новинки HD
 http://cdn.troya.one:80/ch2464/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBRf1J4EIZi1rLuaTapna1SuckeeLMHzmPtsNIQj-0up
-#EXTINF:0, KLI Новинки UHD
+#EXTINF:0,KLI Новинки HD
+http://cdn.troya.one:80/ch2464/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBRf1J4EIZi1rLuaTapna1SuckeeLMHzmPtsNIQj-0up
+#EXTINF:0,KLI Новинки UHD
 http://cdn.troya.one:80/ch2154/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAWYQTxNobw2wVUcPBP5Z61otvvZqBtZvRB2iUfMEWOS
-#EXTINF:0, KLI Орел и Решка
+#EXTINF:0,KLI Орел и Решка
 http://cdn.troya.one:80/ch2933/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOUJkLWtoMyO30UUj1trcP08-zk2W_4bRyIF82jfj3qG
-#EXTINF:0, KLI Сериал HD
+#EXTINF:0,KLI Сериал HD
 http://cdn.troya.one:80/ch2932/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIj2CWnJdaGdlQgKDFjtLuQUmYR-RZUTxX5_V3d0oSTr
-#EXTINF:25, Liberty BBC FHD
+#EXTINF:0,KLI Сериал HD
+http://cdn.troya.one:80/ch2932/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIj2CWnJdaGdlQgKDFjtLuQUmYR-RZUTxX5_V3d0oSTr
+#EXTINF:0,KLI Шансон HD
+http://cdn.troya.one:80/ch2261/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNdACPvJbKBQ_wCMYrvASRB0adAKyBNvSmuregMMm_dm
+#EXTINF:0,Liberty BBC FHD
 http://cdn.troya.one:80/ch1750/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCDC5Dj-kRDg6OxyKxduLzPMa-dGHEd73mYoCR_FgI3r
-#EXTINF:0, Liberty Criminal 4K
+#EXTINF:0,Liberty Criminal 4K
 http://cdn.troya.one:80/ch2342/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNWXGtsY9COO3_Makkiha0FyCZc6Fm8x0hQI1ZxdP8ur
-#EXTINF:0, Liberty DC FHD
+#EXTINF:0,Liberty DC FHD
 http://cdn.troya.one:80/ch1741/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEBnsodojLKYbefO7HaBPqNmtxusju8z-Rkyp71mqo7u
-#EXTINF:0, Liberty Dreamworks 4K
-http://cdn.troya.one:80/ch2788/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCLv-h0E2GSZQeO2hMu5L-mmWjkX88b_3-Qn46hYuHw8
-#EXTINF:0, Liberty Fan FHD
+#EXTINF:0,Liberty DC FHD
+http://cdn.troya.one:80/ch1741/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEBnsodojLKYbefO7HaBPqNmtxusju8z-Rkyp71mqo7u
+#EXTINF:0,Liberty Disney FHD
+http://cdn.troya.one:80/ch1747/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPlBe9JrsrdnlOlIveyBf_g-tc08kCVg8qwqPUurnZ2l
+#EXTINF:0,Liberty Fan FHD
 http://cdn.troya.one:80/ch1574/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMPxsXUdFK8yCay6DnuTz2iD0aMtepbCdf4A9suDsn3t
-#EXTINF:0, Liberty Marvel FHD
+#EXTINF:0,Liberty Fan FHD
+http://cdn.troya.one:80/ch1574/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMPxsXUdFK8yCay6DnuTz2iD0aMtepbCdf4A9suDsn3t
+#EXTINF:0,Liberty Indi FHD
+http://cdn.troya.one:80/ch2798/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGSUfBryz4IyjOFA_fhOCWkMimGPr7BoUAxY1-tb6Qrp
+#EXTINF:25,Liberty latino FHD
+http://cdn.troya.one:80/ch2797/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHe2WIQV5HEDanSTSYQTjt5qxE-IH1KDjTWkwR2viZ8U
+#EXTINF:0,Liberty Marvel FHD
 http://cdn.troya.one:80/ch1744/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDDK-e7T9HiRppnyhWBBliRd0Kj2jgzJWiZB_cswwP-1
-#EXTINF:0, Liberty Netflix 4K
+#EXTINF:0,Liberty Marvel FHD
+http://cdn.troya.one:80/ch1744/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDDK-e7T9HiRppnyhWBBliRd0Kj2jgzJWiZB_cswwP-1
+#EXTINF:0,Liberty Netflix 4K
 http://cdn.troya.one:80/ch1773/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHQgHpQN-ybfAvPF6RRuXqFzby7uBDJzib4CM4Us-f_b
-#EXTINF:0, Liberty Serialy 4K
+#EXTINF:0,Liberty Netflix 4K
+http://cdn.troya.one:80/ch1773/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHQgHpQN-ybfAvPF6RRuXqFzby7uBDJzib4CM4Us-f_b
+#EXTINF:0,Liberty Pixar FHD
+http://cdn.troya.one:80/ch1746/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJyu1AsusK_4rrEKL2SnR4J4P7FxEVmwSKcpualxFi_z
+#EXTINF:0,Liberty Pop FHD
+http://cdn.troya.one:80/ch2796/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLUFTxB5YrmeeTXIXiafr6MTyXijY-UR5GUICCRSruET
+#EXTINF:0,Liberty Rock FHD
+http://cdn.troya.one:80/ch2791/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDArYcD6y2T-KcMXweSOA1BerVpnJ4kc3hBa6AgxN4ri
+#EXTINF:0,Liberty Serialy 4K
 http://cdn.troya.one:80/ch2787/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGDjrhYwI7gKQOkerHkgL8Q7EKg_KG6kedf0v9_gyXNa
-#EXTINF:0, Liberty XX Век 4K
+#EXTINF:0,Liberty Serialy 4K
+http://cdn.troya.one:80/ch2787/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGDjrhYwI7gKQOkerHkgL8Q7EKg_KG6kedf0v9_gyXNa
+#EXTINF:0,Liberty South Park FHD
+http://cdn.troya.one:80/ch1753/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBqG1AC-9YBqaSxUIfi4UMJM_XOLYomPqs646lJwhG9l
+#EXTINF:0,Liberty XX Век 4K
 http://cdn.troya.one:80/ch2458/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDFonanrzoW1iDbyAlpgqqAS9eMyKHsL623RwC2hmnpq
-#EXTINF:0, Liberty Аванпост 4K
+#EXTINF:0,Liberty Аванпост 4K
 http://cdn.troya.one:80/ch2590/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJcgoNiYFfowVV4aUU8DgWP9aTOXH8Wr1gMMu02wUesV
-#EXTINF:0, Liberty Аниме FHD
+#EXTINF:0,Liberty Аниме FHD
 http://cdn.troya.one:80/ch1761/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPruZwBtbrm33qfE9zJFHykaEaJY8895nW8tfsBV0jYX
-#EXTINF:0, Liberty Боевики FHD
+#EXTINF:0,Liberty Боевики FHD
 http://cdn.troya.one:80/ch1749/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL1h9PXj8mQcD7DyGVSE6-2wyhGQNf_eEBrxdCs8LBw9
-#EXTINF:0, Liberty Занавес FHD
+#EXTINF:0,Liberty Боевики FHD
+http://cdn.troya.one:80/ch1749/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL1h9PXj8mQcD7DyGVSE6-2wyhGQNf_eEBrxdCs8LBw9
+#EXTINF:0,Liberty Джаз FHD
+http://cdn.troya.one:80/ch2792/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN4XI_Cl-zfowyp8O84Xk8zycmIbZRO7Is-RpTzw9UEU
+#EXTINF:0,Liberty Занавес FHD
 http://cdn.troya.one:80/ch1760/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIT1yg27Kt-xtaNvMWlREC3hw5tliP_2wPMm-zDPWB1u
-#EXTINF:0, Liberty Кино Микс 4K
+#EXTINF:0,Liberty Кино Микс 4K
 http://cdn.troya.one:80/ch1770/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGm-VunU0SePz5BIkFie59HtkULt62ca7aIb6mTbyWs5
-#EXTINF:0, Liberty Комедии FHD
+#EXTINF:0,Liberty КиноENG 4K
+http://cdn.troya.one:80/ch1763/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF8Zz3rlw-Hd2DpAZDtqbpEsMqNzmVWdTuhMIAsLD096
+#EXTINF:0,Liberty КиноENG 4K
+http://cdn.troya.one:80/ch1763/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF8Zz3rlw-Hd2DpAZDtqbpEsMqNzmVWdTuhMIAsLD096
+#EXTINF:0,Liberty Комедии FHD
 http://cdn.troya.one:80/ch1754/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBALt9jqDRPVCiWFSA6gHj3JDkgd-8rK1RhuTALrvlhV
-#EXTINF:0, Liberty Короткометражный FHD
+#EXTINF:0,Liberty Комедии FHD
+http://cdn.troya.one:80/ch1754/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBALt9jqDRPVCiWFSA6gHj3JDkgd-8rK1RhuTALrvlhV
+#EXTINF:0,Liberty Короткометражный FHD
 http://cdn.troya.one:80/ch1745/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGdecSzyB26-H7tCfI5mk2sPvdJOaVBBpK_OQtjC0-PD
-#EXTINF:0, Liberty Куб 4K
+#EXTINF:0,Liberty Короткометражный FHD
+http://cdn.troya.one:80/ch1745/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGdecSzyB26-H7tCfI5mk2sPvdJOaVBBpK_OQtjC0-PD
+#EXTINF:0,Liberty Крош FHD
+http://cdn.troya.one:80/ch2620/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPPXEXRk36ZdqzZI7iXIwHfrgZKCJ1EOjvUflopM8ZMr
+#EXTINF:0,Liberty Куб 4K
 http://cdn.troya.one:80/ch1774/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCIZt1JWhiAGPzZGpajYkhn7fVI_v3okzMuC7NtrnWOo
-#EXTINF:0, Liberty Легенда 4K
+#EXTINF:0,Liberty Куб 4K
+http://cdn.troya.one:80/ch1774/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCIZt1JWhiAGPzZGpajYkhn7fVI_v3okzMuC7NtrnWOo
+#EXTINF:0,Liberty Легенда 4K
 http://cdn.troya.one:80/ch1765/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMoF1xSWTEdnOTdZjyvvxvqhSHapBcs-ltJJEE8-_z7R
-#EXTINF:0, Liberty Мелодрамы FHD
-http://cdn.troya.one:80/ch1748/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB5pWEGlMeq-0MO19dcFlgF1rYuiZxViuiT8hcEssjGy
-#EXTINF:0, Liberty Мульт 4K
-http://cdn.troya.one:80/ch1771/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPhgZFh-dE_cc-A5j1CR2GR5tNcJIAic6oCt4ZLUMrQP
-#EXTINF:0, Liberty МультENG 4K
-http://cdn.troya.one:80/ch1764/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH3bM2hlr8c390dTl-sSpysf-rnkGeTZZx1a3r1sgD2R
-#EXTINF:25, Liberty Мюзикл 4K
-http://cdn.troya.one:80/ch2789/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKUTzsd2QO0YxSgOBJLCaZoJnBWOdyXSK_lLlXthH48z
-#EXTINF:0, Liberty Планета360 FHD
-http://cdn.troya.one:80/ch1758/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJEQSDUewczZjvPOGtgAmO-Yxh5slfpG7Z7H4QrJ7hq0
-#EXTINF:25, LIBERTYRUSFILM4K
-http://cdn.troya.one:80/ch1769/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPw65bFvbk0B_qLRbnw5gnqxIeyUQ4Js9e5fXkO33LQz
-#EXTINF:0, Liberty Семейный 4K
-http://cdn.troya.one:80/ch1775/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEOoLfa-fpjAC26y_FwoovjvcQDxqRmWEfrZBj6UwB5h
-#EXTINF:0, Liberty Сериалы FHD
-http://cdn.troya.one:80/ch1755/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIgsDg-Mcd_9S3nzTSxOepmYQn2HOHsfCfY-JKFWYuEi
-#EXTINF:0, Liberty Союз 4K
-http://cdn.troya.one:80/ch1780/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOCJmErQp8Rsgmw2tK7neLxUgc8ArVw6YlAwUx8Lud7V
-#EXTINF:0, Liberty Триллеры 4K
-http://cdn.troya.one:80/ch1743/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIYNkQ7GhfLLYoSYzzzw4JFZMetlrF9yh8ZFTT_-j99Z
-#EXTINF:25,LIBERTYTURKFILM4K
-http://cdn.troya.one:80/ch1776/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOtheB1CDepkHF1SaMBtFf3bqq8qqPBNt3IU5TQ6w2Pj
-#EXTINF:0, Liberty Ужасы 4K
-http://cdn.troya.one:80/ch1742/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL8sbXFzjooV8BWhH5wVSDOPOZQPwQqP3LkpJIYBhRw-
-#EXTINF:0, Liberty Шоу FHD
-http://cdn.troya.one:80/ch1762/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFVVmHDS2-LzyLlzXMZT8U89RXEyB3XOEKDHnB7KbL6c
-#EXTINF:0, Magic Action
-http://cdn.troya.one:80/ch1556/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMQcG2cWcUgY6wkvESPghU60ucSgO7CHqd3bAPwqHoRd
-#EXTINF:0, Magic Adventure
-http://cdn.troya.one:80/ch2203/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ1cgPWYxmdp1-vhnMgACCkG8yJZbtTuWCTALdU59D5H
-#EXTINF:0, Magic Comedy
-http://cdn.troya.one:80/ch1557/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFChsjfcnm_HEBFQD0B5fgKubR4ZQXC7_sxNCRQlzUET
-#EXTINF:0, Magic Family
-http://cdn.troya.one:80/ch1582/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIoWHvnmNiTxiBQfhwMOWgWcJaLydaxJb5f9HVb1pFHx
-#EXTINF:0, Magic Galaxy
-http://cdn.troya.one:80/ch1559/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDFbZAPsv1mDO39TJ_Ds2w-pDpIb5_2DVQZTpObcqwuc
-#EXTINF:0, Magic Horror
-http://cdn.troya.one:80/ch1560/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCFJS4eq_IAZGGx3WCIecHlu25MDP37oKIk1n51uLZnX
-#EXTINF:0, Magic Karate
-http://cdn.troya.one:80/ch1561/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKa0Cno2U3Qwc5C7UlFp8iCi9sayEtelooPGtRUb9dA1
-#EXTINF:0, Magic Love
-http://cdn.troya.one:80/ch1581/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDlfNuMsGiyIQ0IJ7D1dRN7ESWUcM2abGvPdYRHnDJDa
-#EXTINF:0, Magic Russian
-http://cdn.troya.one:80/ch992/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPzeiZcnKP2iL_67OxClA3OCABlrhlPw2R-5vnhel4ue
-#EXTINF:0, Magic Thriller
-http://cdn.troya.one:80/ch1562/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNEdHmHLzrReXCqY_JOMMOxiLePv9nuGLKzXafmnD5F3
-#EXTINF:0, Magic VHS
-http://cdn.troya.one:80/ch1563/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKmJYO-qC8zIgDrUk4FDtglix0cKIVQakjI3UtcjHBEZ
-#EXTINF:0, MM 007 HD
-http://cdn.troya.one:80/ch1214/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGQ2HlNh9xz7-4FueJR4mialiLNbELi4NEH5lR_ngTk5
-#EXTINF:0, MM Celebrity HD
-http://cdn.troya.one:80/ch1286/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJYryKw3AYO-Em7dDzv9DcjG6PswOfxpJx98FeKV110_
-#EXTINF:0, MM Classic HD
-http://cdn.troya.one:80/ch1323/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBCeBF7B-_OoayHWbedIVQqSyTU-EzhlhWZx_mt-l84Z
-#EXTINF:24, MM Experiment HD
-http://cdn.troya.one:80/ch1952/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNfvIEtH0hIdAx9TOGhP7lwaVngz3Woiao2FFAX5w53z
-#EXTINF:0, MM Flip UHD
-http://cdn.troya.one:80/ch1262/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGvdWf1BbPmD-qMFB4DzQYhp7MI6fwJf_wjhCiW17O5x
-#EXTINF:0, MM Live Planet HD
-http://cdn.troya.one:80/ch1271/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJpzN0iI0t2wIjof2_X-433rEXrFI5_TaykOtktd2OIX
-#EXTINF:0, MM Love HD
-http://cdn.troya.one:80/ch1215/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP9VRU9v47dSQbIyp1nqpBIY1GCacTGltfmUo9ua5sZ4
-#EXTINF:0, MM NewFilm 1 HD
-http://cdn.troya.one:80/ch1216/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNUpQvtzWD1NowxBveqFItRjxYOsudVJm-sYNJ2atVfl
-#EXTINF:0, MM NewFilm 2 HD
-http://cdn.troya.one:80/ch1217/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDyDEY7RkzeMOSUH-MgNbkQSi23R8YdSHxqHbAbuLmPb
-#EXTINF:0, MM NewFilm 3 HD
-http://cdn.troya.one:80/ch1218/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC6jSro7jZXVXwJe5Zshqqhm0AuRySl_EGEryxf2DMq2
-#EXTINF:0, MM NewFilm RU HD
-http://cdn.troya.one:80/ch1219/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBuW5ufX_owsA1l9c3aQcYKRKjJHR3EQPSnF-wM9BK1z
-#EXTINF:24, MM OldSchool HD
-http://cdn.troya.one:80/ch1953/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBEYxVESi7xGOp6foFHbMuZ3KOfNdp5TMmkt6OKRKhrJ
-#EXTINF:20, MM Relax HD
-http://cdn.troya.one:80/ch1235/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLXQzChafBuQTwvl5fUN935UWthtCHfWoexfeweVSutm
-#EXTINF:0, MM Translation HD
-http://cdn.troya.one:80/ch1621/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLkwESJZ9FV4CANYTiKg74loAQRL1H_YNne1pvQNj_RW
-#EXTINF:0, MM UFO HD
-http://cdn.troya.one:80/ch1222/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH2tfmIzkzQzUd1jttpoghThvodWc4NAC0eu7CCulcrs
-#EXTINF:0, MM Боевик Classic HD
-http://cdn.troya.one:80/ch1232/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLE9yVFoo4yeX-4h7RJvtfnQ8gGLbAEAhjUWPHixDXgh
-#EXTINF:0, MM Боевик HD
-http://cdn.troya.one:80/ch1233/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDh06T72RVtIFfNStEeUAypRLtWwpYxzkcGiqWLgzOau
-#EXTINF:0, MM Вестерн HD
-http://cdn.troya.one:80/ch1234/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKd8VekUzChYT53BtJ-wJHsiDpQYzqMdHvwJmc_o9jF7
-#EXTINF:0, MM Драма HD
-http://cdn.troya.one:80/ch1324/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNBP_1OT9FkGfbhow5efyVKq92RqlQMIrbRht0K7ODfk
-#EXTINF:0, MM Затмение HD
-http://cdn.troya.one:80/ch1237/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPa_SUtaTd1tjTFhr7p88HXRobM8qZEGOO1E4yiC_Gdz
-#EXTINF:0, MM История HD
-http://cdn.troya.one:80/ch1238/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJVAnloDFjZ4g1LFjxtD3NGGVk4ho39KaXkD6DCHK89W
-#EXTINF:0, MM Катастрофа HD
-http://cdn.troya.one:80/ch1239/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIIiaC8SrE8EwLIo0njfoPi9upvdN5UQEJlLva7KvAzL
-#EXTINF:0, MM Киберпанк HD
-http://cdn.troya.one:80/ch1241/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBdkNCZ9p2OonEhYhA5ptfszdJ5pmjqziSk92eUlVDMU
-#EXTINF:0, MM Кинофестиваль HD
-http://cdn.troya.one:80/ch2501/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ26WyMspFWJMcItJgrzekC7FHAuM0EHpQM2XYvyjQvE
-#EXTINF:23, MM Комедия Classic HD
-http://cdn.troya.one:80/ch1242/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNZNuYW6kSHDDAZFbtuDktq8zQNDsC4-TmwQVeA48Wfy
-#EXTINF:0, MM Комедия HD
-http://cdn.troya.one:80/ch1243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGaEszy11g90f08S9mg8of2BCaTX7AYuNmmlcSiwCzeN
-#EXTINF:0, MM Криминал HD
-http://cdn.troya.one:80/ch1244/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPr_zjiO2QJVxH1Hn7BvQBRx1Riua1R86hyxUSDltZhG
-#EXTINF:0, MM Макромир HD
-http://cdn.troya.one:80/ch1586/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNY2OQY4vFvKLEXlV6r-1i_Y41vCRxzxozcaBGqjOyGZ
-#EXTINF:0, MM Мегамир HD
-http://cdn.troya.one:80/ch1587/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDqaE02xCzuYMKA40SalRTaiaOHl1zypaZcs7mOk4eHT
-#EXTINF:0, MM Микромир HD
-http://cdn.troya.one:80/ch1585/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNiX4erdl5jZ8HcEj2Yw3y5pR5h0JecDuoV-lhAdLohE
-#EXTINF:0, MM Мифология HD
-http://cdn.troya.one:80/ch1249/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOq-sG9r3pK8fhFpDBCYtmDNTiwN-Tbcq5uKbsWUiLdl
-#EXTINF:0, MM Нуар HD
-http://cdn.troya.one:80/ch1250/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iApgogFKJPjruSrr-w99mOHtRHzQ33AdrW-MAVAzMSJw
-#EXTINF:23, MM Открытия HD
-http://cdn.troya.one:80/ch1955/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC3O3AixiMhK-pjBNPyJphsW5xM6aRXnJECGoxEVBceR
-#EXTINF:0, MM Погружение HD
-http://cdn.troya.one:80/ch1252/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFZRRgdIrjhz4VThgojaQ4kPIUgmNndQEz5p4ACpIr8Z
-#EXTINF:0, MM Приключения HD
-http://cdn.troya.one:80/ch1254/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCh_E5VC-ujxfEUkoX8Iwuy_VOnNSNtIKNDPAMi5LNU8
-#EXTINF:0, MM Роскино HD
-http://cdn.troya.one:80/ch1255/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIsG-WrMJT3zMwTQeqcZUfLAarR9tArCjlYIpkn3vnhl
-#EXTINF:0, MM Семейный 1 HD
-http://cdn.troya.one:80/ch1274/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKg3LUdh59RzSpAJn25SpyYan2bNNM7lzqKA4hVlgwVp
-#EXTINF:0, MM Семейный 2 HD
-http://cdn.troya.one:80/ch1270/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOZGfudu4UTKvVr_VBu9FJkq9BVqQ2vunmyQ0UliL-rv
-#EXTINF:0, MM Синематограф HD
-http://cdn.troya.one:80/ch1266/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP7ZiQhRXelwRhD-uKKlUmPUQNRpW1DNtfwnC_b-o_Ei
-#EXTINF:0, MM Ситком HD
-http://cdn.troya.one:80/ch1257/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE1t7TtLF3cG9UTHZi4Xx6lEywi_jdyN7ZvpcMdnqG7B
-#EXTINF:0, MM Скорость HD
-http://cdn.troya.one:80/ch1258/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNsG46l2JBE2nrhjks0UBr4FRaZMzlpjB_t2GmbZW3SG
-#EXTINF:0, MM Спорт HD
-http://cdn.troya.one:80/ch1259/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEhkTr4EFP8R812FME_hEyCZFVd6OZkEB9TPQkklG-sp
-#EXTINF:0, MM Стивен Кинг HD
-http://cdn.troya.one:80/ch1260/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMEucbo8udHdz8pcd25OvEWJxx-VCqDRE84odAYKL77I
-#EXTINF:0, MM Супергерои HD
-http://cdn.troya.one:80/ch1261/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFV1PT2U4WVP7K6d4cc-oBFa1WAqvx8ozBCziWprhJFt
-#EXTINF:0, MM Триллер HD
-http://cdn.troya.one:80/ch1263/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJrKE-ynQwquT0rLaBednD9Qg6fozXTyn5pj2ivUONDN
-#EXTINF:0, MM Ужастик HD
-http://cdn.troya.one:80/ch1264/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI1nAPqKEP9tlKdUQ5iH1WvWVexvX2Ewd-ksqgK5J4VC
-#EXTINF:0, MM Ужасы Classic HD
-http://cdn.troya.one:80/ch1275/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB1uOfcM29HpuRsbAj82aiNM6bTvaEpMoD6b2WZtUQ5P
-#EXTINF:0, MM Ужасы HD
-http://cdn.troya.one:80/ch1276/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLLi32NJ-jegIg6LmHM9EGQ66T5NB_43E9UepcufKC2N
-#EXTINF:0, MM Фантастика HD
-http://cdn.troya.one:80/ch1267/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFuW5kCo_Npy2BnktqFrnl9Ooy4VMyCNXaCLXD4MM2Wi
-#EXTINF:0, MM Фобия HD
-http://cdn.troya.one:80/ch1268/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFvie9KSr7bj1qXjsZum8NTLwao4epQDRXgjv_hjzcQs
-#EXTINF:0, Motor Trend HD
-http://cdn.troya.one:80/ch720/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJUcLSRbNRSqs3xoKJ-eCi4Xtniiuu-QycpwvrixmlrC
-#EXTINF:0, MS Crime HD
-http://cdn.troya.one:80/ch1288/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBwzADH42lHdAHgG8rxxfaUSHDNfTzR24hk9C3WO_LPt
-#EXTINF:0, MS Magic HD
-http://cdn.troya.one:80/ch3038/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPE2gFhGZFXqvb8Gx1_quSpnSuwpz2Qa_cz6Rrlpte3j
-#EXTINF:0, MS Prisons HD
-http://cdn.troya.one:80/ch1289/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBpcfnlrfgAA38dK9RPeU2FZHr2eWDMg-X0cZtaa459A
-#EXTINF:0, MS Young Blood HD
-http://cdn.troya.one:80/ch1291/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA234WJCRAaVU2NuJgG5FEn1E194fFfUkM4OCa4NUGXa
-#EXTINF:0, Nat Geo Wild HD
-http://cdn.troya.one:80/ch047/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPjcSEALhfX7gSO6yVahi0USz-WoKLxcnDfWwOJJCDHY
-#EXTINF:0, Oasis Action
-http://cdn.troya.one:80/ch2510/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iInw8rCjwl3-eicWumazKwkWXkDdQzOQpw9EvGzw0H9l
-#EXTINF:0, Oasis Alien and Predator
-http://cdn.troya.one:80/ch2647/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBTSCUX-dBYYgN7tj2FGaaRJk-J2lxwT4G15sVwVvD4y
-#EXTINF:0, Oasis Animals
-http://cdn.troya.one:80/ch2648/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEgtMF4xJrDmv3yke9bxmHxqf1hyQ8qY7OOZ3LYn_C3S
-#EXTINF:0, Oasis Anime
-http://cdn.troya.one:80/ch2649/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP92PASiFlNOg7vOXw5TguO3hi34WU2CzAoLufbJPbe9
-#EXTINF:0, Oasis Biography
-http://cdn.troya.one:80/ch2650/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOGvdbHpD6QTetHevzUAK8sq-IF0SbKEckzBPWGi9vA4
-#EXTINF:0, Oasis Celentano Brando Connery
-http://cdn.troya.one:80/ch2652/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBf8BQfDYOpfpZr1Se-mlATtKV_t9GqalRGCWbrnivr9
-#EXTINF:0, Oasis Comedy
-http://cdn.troya.one:80/ch2653/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFJB3PHa9JRUdGakzNS3Wnkek86crDXRErea6o2y35uc
-#EXTINF:0, Oasis Comedy Horrors
-http://cdn.troya.one:80/ch2654/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFFry_uSW3Hvc8i1yh1s-tJNVGY0udIAFpuPEo0WUo5b
-#EXTINF:0, Oasis DC
-http://cdn.troya.one:80/ch2655/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA6d49G2AEjeguQo6TDGwxGJSDS3YLNku0aXKHXe6syK
-#EXTINF:0, Oasis Demon Slayer and Dororo
-http://cdn.troya.one:80/ch2656/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPrETpi7aeB-exX3e3QduZB5UF_FLf7w-tzEQvCDPmmj
-#EXTINF:0, Oasis Detective
-http://cdn.troya.one:80/ch2657/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMo15eLfq-7ENV3KcGE0aW36ZzJTOIfHKDKsLivXbw_j
-#EXTINF:0, Oasis Drama
-http://cdn.troya.one:80/ch2660/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAv8SMUK71zXlHdWURV-DxAnLlYTHUGohoEJK5OAzjVF
-#EXTINF:0, Oasis Family
-http://cdn.troya.one:80/ch2662/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHWm-0vJWomosYxRtuvF1EQOO6Xn2xybQQeI69F_-V7w
-#EXTINF:0, Oasis Horror
-http://cdn.troya.one:80/ch2666/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHtL4NXF4GqeNSOrQCIfqF97f9BDx70_ed_7yuFNvkvQ
-#EXTINF:0, Oasis Mafia
-http://cdn.troya.one:80/ch2674/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLlk2fgUbD000C5wOYCSTvrfl2TOvMLgx--VZrVwQHKo
-#EXTINF:0, Oasis Marvel
-http://cdn.troya.one:80/ch2675/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPgChgBv2eZnoAq-IDi_7GYHbc10IPZ5_2n9Lh0fHm3p
-#EXTINF:0, Oasis Old Horrors
-http://cdn.troya.one:80/ch2678/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPkHFXn0r84FZ14A8pcjT-sk-Y8ZLaoYgeJknEJRQvcl
-#EXTINF:0, Oasis Superheroes Сериалы
-http://cdn.troya.one:80/ch2690/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFEyuHPZYB2ml3GmT-P6c4FVbGSRxOSNoPwUGxHA9_oZ
-#EXTINF:0, Oasis Ufo And Aliens
-http://cdn.troya.one:80/ch1442/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNReRQD3j1vReurx7E_q0V2TkxonmJnj2FCh-8WDDuFD
-#EXTINF:0, Oasis UK Series
-http://cdn.troya.one:80/ch2918/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHvwzCyvYw7uZqArUzWrcAjX27lfDTRC81hTKlGL5Wvx
-#EXTINF:0, Oasis USA Series
-http://cdn.troya.one:80/ch2694/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOr_qpfuK1FJH7T_UJRO2AFHm-kdzqS57aeVJqe76KeP
-#EXTINF:25, Oasis WWE In English
-http://cdn.troya.one:80/ch2695/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMPWoGRocb7dqJqXiEMD7Az7uSJt2-c9rCePU_vgBjXA
-#EXTINF:25, Oasis Выживание
-http://cdn.troya.one:80/ch2691/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE0-8oEPwf11tC_dGn_aVZSEU_JqvqBd2DpRomfNTX0u
-#EXTINF:0, Oasis Выжить Вместе
-http://cdn.troya.one:80/ch2692/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB2UhMqcBnWIIibZByTH87R6owRHI9fGTKXLbZyv63-a
-#EXTINF:0, Oasis Корейские Сериалы
-http://cdn.troya.one:80/ch2667/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD68Et42PIWKPrAn9hghfj321uJ5F9zX8c0qQMHl9lHE
-#EXTINF:25, Oasis Кухня Отель
-http://cdn.troya.one:80/ch2668/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIFR-DylGlvD3jCBQNuQZcdpFAoRT22SHa27zUORzLHU
-#EXTINF:0, Oasis Латиноамериканские Сериалы
-http://cdn.troya.one:80/ch2669/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLba4Ju4-06nsHaZPSPgBzzKaEc3n392jesUdFyAqPGw
-#EXTINF:0, Oasis Мелодрама
-http://cdn.troya.one:80/ch2676/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9RLANqIe4v4mBhHX-1N0jxHUxn0IKWKxCkl50OP99v
-#EXTINF:25, Oasis Миядзаки
-http://cdn.troya.one:80/ch2677/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKdq8j6xiMNcPB8I-ZQC50hlkGcUS6_x_aUM6UznSO4n
-#EXTINF:25, Oasis Наша Планета
-http://cdn.troya.one:80/ch2679/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHmEgfmygFfP4M3XJV108Izw5qHXGJYmZ4WiNzBVS3cr
-#EXTINF:0, Oasis Рыбалка
-http://cdn.troya.one:80/ch2664/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFiSnnF1ibexNzpAWMDVSTvyWL4FvTUEXDi260sl7nHJ
-#EXTINF:0, Oasis Тайны Смолвиля
-http://cdn.troya.one:80/ch2687/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-doi44aYw0cD8_M-kkywimYBot3lxLTSpbIXWa9snq
-#EXTINF:0, Oasis Фантастика
-http://cdn.troya.one:80/ch2663/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDQDrHgyInZkcobl_UnlUEgnvcJWA571I4w6WEmBYF5w
-#EXTINF:0, Oasis Фитнес
-http://cdn.troya.one:80/ch2665/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKYFxFYS27dAldNjuSrA-uo4wY0RBV2DpIOx46AJF-IW
-#EXTINF:0, Ocean TV
-http://cdn.troya.one:80/ch728/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLoniaQz2mJGf16wGaDPaXcc8amVbFiKnw8wfh7gh8wd
-#EXTINF:0, Plan B HD
-http://cdn.troya.one:80/ch459/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMejCZkgfP6pQYPr-s8qj9Jwnp49jvK_9gQ0PaZ4HAf_
-#EXTINF:0, Prokop TV Cinema 4K
-http://cdn.troya.one:80/ch2877/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBIrRTOq8lDuKWYTOKG983gqhWNqY97JF_zP91jd-2Wr
-#EXTINF:0, Prokop TV Cinema 60 FPS
-http://cdn.troya.one:80/ch2860/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDPBZlOjD8r7Yrky_VZcU_YCEl_MnkvM-YVS8E7WRxzp
-#EXTINF:0, Prokop TV Cinema Best HD
-http://cdn.troya.one:80/ch2880/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGHl4qHpQVm_AQm-27d7gcUZiTCuBfOHn73fEW5Cn3n_
-#EXTINF:0, Prokop TV Comedy HD
-http://cdn.troya.one:80/ch2874/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC3ZOmfPpeg79dnyMj8_ThJpiABCxXE5tg82Ddn2mLJM
-#EXTINF:0, Prokop TV Criminal HD
-http://cdn.troya.one:80/ch2866/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF_SrR2d9F9bJ1O3tXWrp8DyTRXrwscc6A6kjYxcHEY9
-#EXTINF:0, Prokop TV Detektiv HD
-http://cdn.troya.one:80/ch2857/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKpvlho4UloPtTusVXOKuJDy-KlbJ6e-OfvB0BOYkM1K
-#EXTINF:34, Prokop TV Docu HD
-http://cdn.troya.one:80/ch2861/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJx4fByvJKSsgy-i6EcNcSDWzVAg0x-7JR7vU6LI4kcW
-#EXTINF:0, Prokop TV Fantazy HD
-http://cdn.troya.one:80/ch2869/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD1ugdvELNDy08SOd2-QeXOFoq4QbDVhApSFJiGIzFiB
-#EXTINF:0, Prokop TV History HD
-http://cdn.troya.one:80/ch2868/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4_BqosRQ7CB74p57d6t7ucOz5F0CfGFZUWIg-XEO2B
-#EXTINF:0, Prokop TV Horror HD
-http://cdn.troya.one:80/ch2870/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJkgH8qYCW_LPeDIQq0ADRytj_T7cqdGwR912-WnpVeN
-#EXTINF:0, Prokop TV Kung Fu
-http://cdn.troya.one:80/ch2876/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLfP-lJNQPRFiwlNUqnY9KHajSmc3wmnOdqy7xOo86Av
-#EXTINF:0, Prokop TV Netflix HD
-http://cdn.troya.one:80/ch2872/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFP05xc_94c25RNt_7RnSFFke-F9al5tZ8X5GDtIhwMm
-#EXTINF:0, Prokop TV New Films HD
-http://cdn.troya.one:80/ch2875/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFegJ2lqP3iKfyrSC-Tl6EE7kXWlY6sfR8VcFp-wwwYO
-#EXTINF:0, Prokop TV Serial HD
-http://cdn.troya.one:80/ch2871/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMvCf_kuOj-fGFxcYZEv30q5-nkSIbKJ-kHVjYw0lbjq
-#EXTINF:0, Prokop TV Show HD
-http://cdn.troya.one:80/ch2878/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpE5Hksj2FiKB53-V9RlJ4O4QbanJLKvsPuw1Hz_NsF
-#EXTINF:0, Prokop TV Кулинар HD
-http://cdn.troya.one:80/ch2881/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAlM7z-IHFYWSpSO3aBs-zdK0602fVpeWR_G6KZ8CCDx
-#EXTINF:0, Quadro 4K
-http://cdn.troya.one:80/ch1041/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHN0cxGMysP2OUHLtYzg7tO9nmtu2hFzFMQWtuts5Z-7
-#EXTINF:0, RTG HD
-http://cdn.troya.one:80/ch444/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNOZa4bsqN9js69MSnA0E_syeikAlJ041b5IgHQVJPXZ
-#EXTINF:0, RTG TV
-http://cdn.troya.one:80/ch629/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHq4HXL8uLl_MRbX67nvf95cGG1wg_vhn1-cLcFkAwYM
-#EXTINF:0, RTVI
-http://cdn.troya.one:80/ch100/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCV_NsoOhOGSZhOlVFXQ0-sL5N0jRupAcqNhUfgAneWg
-#EXTINF:0, Scream
-http://cdn.troya.one:80/ch470/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKrxa00bKt2QzItSv0TpWvHKA2pY7HXFQJoYrN57uqCd
-#EXTINF:0, Shot
-http://cdn.troya.one:80/ch712/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEWtUOAD3DM4V2wXsqfSmholCHpAH39eSyhjqVi7wLdV
-#EXTINF:0, Sky High 3D
-http://cdn.troya.one:80/ch1977/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFkjFwVTcFn7mPNe4-VdTUmRZ2kSZiUgA--wXeUtBLui
-#EXTINF:0, Sky High Anime HD
-http://cdn.troya.one:80/ch1970/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGZZtj2WC4Hg1XRHS5JhjBJYRksDuuzyevUKSujFzT1C
-#EXTINF:0, Sky High Brain HD
-http://cdn.troya.one:80/ch1984/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDYUsqlfHFPqZxAIekgdoxOIOov2TxlTcQPMIKVnkEZN
-#EXTINF:24, Sky High Doc UHD
-http://cdn.troya.one:80/ch1983/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI_bviDWgsJuJsF9rOVEkcBZvLj7zcFqXm6zy9ENv0vb
-#EXTINF:0, Sky High Epoch HD
-http://cdn.troya.one:80/ch1962/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP5-17dZB-bEYQfmCS7e3f5gZAChqeYpWvKQS6xHRJDl
-#EXTINF:0, Sky High Fresh HD
-http://cdn.troya.one:80/ch1963/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIbs6ZB8XZ_2qd5hwFGrVUcpEo_on6SSB7-lRQaeTB27
-#EXTINF:0, Sky High Fresh HDR
-http://cdn.troya.one:80/ch1974/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNGn0mjFR0B_ZeK7i0uU_FmzI7zrIJiYLOvT6eio8pRY
-#EXTINF:0, Sky High Future HD
-http://cdn.troya.one:80/ch1968/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMk4QJZyGM2cHSCr7LtRwwIfy2r_fbvjn6_mKeN2dbJX
-#EXTINF:0, Sky High Heroes HD
-http://cdn.troya.one:80/ch1961/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIpmxbUr5z-KDlSgcXLVT822Q2VYBn2REw03MMSt16Rk
-#EXTINF:0, Sky High Man HD
-http://cdn.troya.one:80/ch1964/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDlM-2GKGOFq_su9_mnOKE9AUvGlRck1x6tyke_3Lkpu
-#EXTINF:0, Sky High Mix 4K
-http://cdn.troya.one:80/ch1971/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDokQtRRMK_JbX37AcFPWca2L8aTH-iOoD8Bg7uxbz0R
-#EXTINF:0, Sky High Nature 4K
-http://cdn.troya.one:80/ch1978/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA6UJruKYKlZHHb5-8Rr0GqQhEKGYOLE07TiZVwMxkS9
-#EXTINF:0, Sky High Nature 4K HDR
-http://cdn.troya.one:80/ch1980/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBzY2uPd0tER0y5Rsv4uUWoFJMjhVxIRIujw0orJLqVD
-#EXTINF:0, Sky High Nature HD
-http://cdn.troya.one:80/ch1979/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGwKpZzzKUDEVstEcrzJ9cZPirxEFXVi_FxbeS9KAZFJ
-#EXTINF:0, Sky High Noir HD
-http://cdn.troya.one:80/ch1973/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM1WC5v_Ntf8Zxz6rCdlFbLkssLvkNOt3Mgx1yko2q_g
-#EXTINF:0, Sky High Orig HD
-http://cdn.troya.one:80/ch1976/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAdoWTRehbzprgvr6reHKnwSYxSxNY34TF0KbV6Y5Wmt
-#EXTINF:0, Sky High Russian HD
-http://cdn.troya.one:80/ch1966/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDwNNoGzYiXmCREeROevJMDSHGSYFGTqDQISTntoO7lT
-#EXTINF:0, Sky High Series HD
-http://cdn.troya.one:80/ch1965/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHoSu9OxQTmeQpg1cesZz_v7j6lojGYvHZDzU21EwpP3
-#EXTINF:0, Sky High Spirit HD
-http://cdn.troya.one:80/ch1969/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPCF9V_zOT3_ibDvFfNyV4gNPhFGFV6dmWZiJQQcNgIh
-#EXTINF:0, Sky High UHD HDR
-http://cdn.troya.one:80/ch1975/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIog63a-stIfS6a9NBjqB_blBaU89MT9zlujEUzdg5kN
-#EXTINF:0, Sky High VHS UHD
-http://cdn.troya.one:80/ch1972/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKXhRV-8oT1g2hq4OMKL4KAHEDIQU9fbwpe2N3AdB3qP
-#EXTINF:0, Sky High Чбу HD
-http://cdn.troya.one:80/ch1967/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDXivNCA2CPi25FaMLwGqCdeBnZ2xHMd_noSDb6EeE3_
-#EXTINF:0, Smartzone HD
-http://cdn.troya.one:80/ch718/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCe83yFxXXU-Kp3qwZBM7bt100qpmJfFALcFqX3CuMAh
-#EXTINF:0, Star Family HD
-http://cdn.troya.one:80/ch585/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKWpzn0jgJpItCmYQbIoXaJxb-pAg67ywhBbcOLFnEzh
-#EXTINF:0, Start Air HD
-http://cdn.troya.one:80/ch506/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDMzDZczeKri99V-ZhLnPb1Q6j7QIDdST43ITXd4PEiG
-#EXTINF:0, Start World HD
-http://cdn.troya.one:80/ch495/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKNXtOwoioYiLktdmDCr5KveN2w-cy37YOOSE7bMaiI-
-#EXTINF:23, Terra HD
-http://cdn.troya.one:80/ch2078/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGGbWcfGA39tcXEGJmir7xn_SHGo6WELJv1d_ULLcN2n
-#EXTINF:6, TOP 80
-http://cdn.troya.one:80/ch1069/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCB4wTmYdU6O8ccWiDYr06XU-oNVRacCHc38wQzSvKxG
-#EXTINF:0, TOP BUDO HD
-http://cdn.troya.one:80/ch1070/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCv1mYk1bFDoG1G0zan8pvKd0sPfddfEiFIExqzkHJq3
-#EXTINF:0, TOP CINEMA HD
-http://cdn.troya.one:80/ch1071/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIuxeK68aExvXoZEDRyyqF4zLUh2Vob1dIGw8EKtutQt
-#EXTINF:0, TOP MIX HD
-http://cdn.troya.one:80/ch1073/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMyxaCaC0RTvH0gYy7auyBvJkV23WXY1iVU79xn9QfLL
-#EXTINF:0, Trash HD
-http://cdn.troya.one:80/ch730/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLV1kazJVdAt3s3y_ttN6jdCMgCbfiRV-LgaCNQeIRj5
-#EXTINF:0, Travel Channel HD
-http://cdn.troya.one:80/ch445/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK3drJXfFXRo2yM8z0gasbLtdCNxnwWXnMK2HcuW6sam
-#EXTINF:0, Travel+Adventure HD
-http://cdn.troya.one:80/ch446/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDat9VbL0ong6oG-MI2_kq8MHkFvZ3SPYXGIex0pggFh
-#EXTINF:0, Travelxp 4K
-http://cdn.troya.one:80/ch613/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPMF26AKTq4feWZvGFJsxOWKet31SMQENw8YRm2q3IbK
-#EXTINF:0, TV XXI Век
-http://cdn.troya.one:80/ch469/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB24OmUVJsZ-IlTZ_GNQMo6Z8kUIQddsZlvxUT0kiN3t
-#EXTINF:0, VeleS 60FPS
-http://cdn.troya.one:80/ch2591/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iME78L6oJ9dC_HN2AI5oVDdXWbx7xwC-VCdhbugX39pV
-#EXTINF:0, VeleS Movie Hits
-http://cdn.troya.one:80/ch2598/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPd9gJDfvxiMHwZU97z9u3Xoqpl5OqVasG4pZEbeE3qY
-#EXTINF:0, VeleS Premiere
-http://cdn.troya.one:80/ch2595/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLV61Oj4fKR9sNPUrTnYg88xGt-MSTyWZtEcA-RUaJ6r
-#EXTINF:0, VeleS Аниме
-http://cdn.troya.one:80/ch2612/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBtAP0trjdCeyEWCjNwBHw0wbvMEGLwAeCPfl2raiedu
-#EXTINF:0, VeleS Вестерн
-http://cdn.troya.one:80/ch2801/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNUSWt7wSWWdkqXFUJcubIATJQ051ArzZqPFWDZEzl7_
-#EXTINF:0, VeleS Кинопленка
-http://cdn.troya.one:80/ch2592/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA-EwHFNPC8qKLQt_kTTQhhmUHb0p6ANvVwqae1FNvao
-#EXTINF:0, VeleS Киносерия
-http://cdn.troya.one:80/ch2594/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLKAkrm_n6Gti5dO6A5Rqes1mAeHZ5ToHhkLZNmsjNfi
-#EXTINF:0, VeleS Комедия
-http://cdn.troya.one:80/ch2314/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFjbxT7gY-mJfaNK7ct-HB2fRUn-k0YctRVQaqEYNDQB
-#EXTINF:0, Veles Криминальный
-http://cdn.troya.one:80/ch2696/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF5CGhSP1OwOUHzEPE2z_d1qKDhkWjML9nCHvYuc8UF0
-#EXTINF:40, VeleS Наше Кино
-http://cdn.troya.one:80/ch2802/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHfgqU7vVG-sUHN0ejmrUnzBBZhyXcAbqgONvjLUJT_p
-#EXTINF:0, VeleS Семейный
-http://cdn.troya.one:80/ch2800/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBT5DqRuWbD2p4pWhAf10Qu9Ky9QXlfjNypepKGfz1wH
-#EXTINF:0, VeleS Страшное
-http://cdn.troya.one:80/ch2596/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP1gHrAxyylESTeZu0XalOa3_1LqYLMy-CBY9DM0xZPK
-#EXTINF:0, VeleS Триллер
-http://cdn.troya.one:80/ch2799/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNPW5MVtVJ3ucb0YuNmKuaAinZcECYP-yiW0mFS6I_xF
-#EXTINF:24, VHS-ка HD
-http://cdn.troya.one:80/ch383/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHFgvME2zHvbX6z_-qn44cl-oQ9sa2z9biZj110UJugn
-#EXTINF:0, Viasat Kino World HD
-http://cdn.troya.one:80/ch651/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD9hwibwMCeVBO9G3zr2TdBW4W4dtzDT_Ld6BYgjOKQi
-#EXTINF:0, Viju Explore HD
-http://cdn.troya.one:80/ch011/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPyXUmnsalUMymFyeDtYFlr7nsadJkwxuwGtI9q9ri9F
-#EXTINF:0, Viju History `HD
-http://cdn.troya.one:80/ch126/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPkEthgWhFnaAFHqXjstAg_AP2iGbgXIHe7saGAxYQzU
-#EXTINF:0, Viju Nature HD
-http://cdn.troya.one:80/ch012/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKhtbZF0NsV7fnSy2bXfIvzB7xVXRIDgemZmqxooUbiO
-#EXTINF:0, Viju TV 1000 Action HD
-http://cdn.troya.one:80/ch018/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJIQaGRxTCnitcuPnFmhAdsTLA3lUZssgiiZ9fVbDiW5
-#EXTINF:0, Viju TV 1000 HD
-http://cdn.troya.one:80/ch017/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL4fx4rZ7F5HIFf_iX-32vK4WBWVSvKLF0x3xujnWiSw
-#EXTINF:0, Viju TV 1000 Русское HD
-http://cdn.troya.one:80/ch013/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPQM2WVanEjbLZ_Dhik80V6pbSWwTWwh555YCOL5X1qE
-#EXTINF:0, Viju+ Comedy HD
-http://cdn.troya.one:80/ch058/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGFUHAfpWXIwE6hdTyGoJEuOP7TJjiHIorqo2StIi5jx
-#EXTINF:0, Viju+ Megahit HD
-http://cdn.troya.one:80/ch059/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC8Rrbccei-xof3m8vEdq8PsaddpGcUi4NxO24crB192
-#EXTINF:0, Viju+ Planet HD
-http://cdn.troya.one:80/ch2454/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDFLgQ3M1HtLVdkI1Dg84Hb0QAhT4N1WNS5fqUpvc9Zz
-#EXTINF:0, Viju+ Premiere HD
-http://cdn.troya.one:80/ch060/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCLofflkxA27_0hwptuE3_TDp5s10r0H0kgyfQ1AVcJu
-#EXTINF:0, Viju+ Serial HD
-http://cdn.troya.one:80/ch701/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPHLYdmMQ6Cg1mrZ1zD8Oq08PnkfLmZJ-jLVdoDkEQ8n
-#EXTINF:0, Yosso 4K
-http://cdn.troya.one:80/ch1316/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMlpdSyo4NGQJY3uhnfrfwJNg14oAlOqw4sQ5fMXcqkP
-#EXTINF:0, Yosso TV 4K HDR
-http://cdn.troya.one:80/ch496/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL_9y3_KEUsiCvMPk7I5bh-cwtBUPHZht-mB_pOgCD18
-#EXTINF:0, Yosso TV Adrenaline
-http://cdn.troya.one:80/ch1310/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFrrTaq6cAdIR2voDU4xdOt-aC0ZAoC3bVDiMOQUXX8r
-#EXTINF:0, Yosso TV Adventure
-http://cdn.troya.one:80/ch1312/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLhiAPBiVzFu5sVvXw33AblAF-c_ofE6w6MmcaBQZdvD
-#EXTINF:0, Yosso TV Best
-http://cdn.troya.one:80/ch1308/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBzw7coWokOTPkBJek09BilT_2QKAehDquoZC3ba2hH9
-#EXTINF:0, Yosso TV Best 60fps
-http://cdn.troya.one:80/ch2457/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6Z9iZLF2HFt9WWgdCsKZn0yIz3b6ZbqFehb4zefp7F
-#EXTINF:0, Yosso TV C-Comedy
-http://cdn.troya.one:80/ch1002/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKR4vDf6mg8CmWVqSTer_U1wHz1LYGpqZoOTGHcFOY3c
-#EXTINF:0, Yosso TV C-History HD
-http://cdn.troya.one:80/ch1575/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKtjt0gLoyR9sF8aq2qzhSkMNHh1KAZnBNI4LgStQsSl
-#EXTINF:0, Yosso TV C-Holiday
-http://cdn.troya.one:80/ch394/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHGjOSX1cl1xznw2__yL_KkvmbXmeGYp4G1-_1NRW1Ah
-#EXTINF:0, Yosso TV C-Inquest
-http://cdn.troya.one:80/ch1001/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCCp3-Vgimo4pALBojw3BgkhaJ6b7z-LyRII-BxbnuZr
-#EXTINF:0, Yosso TV C-Marvel
-http://cdn.troya.one:80/ch1315/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO9ET-KEW4Qil0TagQkIqqTOdsa058qPBwjuJpL---lt
-#EXTINF:0, Yosso TV Food
-http://cdn.troya.one:80/ch2603/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKdA7AOmhXGGxgEOBgxSSurds-jCTaRbVTInTqaAdZqS
-#EXTINF:0, Yosso TV Grand
-http://cdn.troya.one:80/ch1297/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBLxVOU66TFx1L6J-lUGk2L_pjqoobN_gSaqEbt6Gm4W
-#EXTINF:0, Yosso TV Nature
-http://cdn.troya.one:80/ch2604/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHIOhe8WMhRBEKJhgRJAE5MwN-VSRBD0yUhFLmdYlz3s
-#EXTINF:0, Yosso TV Netflix
-http://cdn.troya.one:80/ch2455/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMS1GCC_D4x57R3B8Hj6n4aPgz2th5C6zk1Fx19JQJLL
-#EXTINF:0, Yosso TV New Кино
-http://cdn.troya.one:80/ch1303/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOxH08HcXS9sQ6o_DjB5cCQnkBnlhFZPCwtzJCdtDkEM
-#EXTINF:0, Yosso TV Oblivion
-http://cdn.troya.one:80/ch1311/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFh3uAlpKMZ5uJs7gpwokrkJsq09Ujlcxw9LMz0qV5XV
-#EXTINF:0, Yosso TV Science
-http://cdn.troya.one:80/ch2605/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDxKwiH_Ou_xR7PXw8iD4Bst9wq7pQzTkvrVp5L64lEy
-#EXTINF:0, Yosso TV Thriller
-http://cdn.troya.one:80/ch1313/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDo0ZAWUmT-rM0t23LojRF2m2MmlnNruxJ7Pyfjz7Wb1
-#EXTINF:0, Yosso TV Travel
-http://cdn.troya.one:80/ch2606/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBLl0M_Izwu03AW3Tk9ZxJbS-AK1YJrWnEaUr99dIkBj
-#EXTINF:0, Yosso TV VHS
-http://cdn.troya.one:80/ch1298/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOiZ7OTvM0Fwzw3m2l_1bGGQZXSh1-BDBpmN5VbGeW4Z
-#EXTINF:0, Yosso TV Забавное
-http://cdn.troya.one:80/ch1307/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHbB9RB2sLq_kNWP898YdBguBridv0h5F0POLpvu-XQc
-#EXTINF:0, Yosso TV Ковбойское
-http://cdn.troya.one:80/ch1309/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ4q9WMkArLBhYl65JSCP0PtpM14C0Wl7Y9M1uSAx6wJ
-#EXTINF:0, Yosso TV Мелодрама
-http://cdn.troya.one:80/ch2062/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB9ty2u2qv_PzbVhrFjsW8s5ffeMqrYLdeAy6oyPwytb
-#EXTINF:0, Yosso TV Трагичное
-http://cdn.troya.one:80/ch1306/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHN9EjVHXCo9lVfUwC9fQ8yheISnkcvIamqg7cEIDAff
-#EXTINF:0, Арсенал HD
-http://cdn.troya.one:80/ch614/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNm3rnCueRKoDdMl9snZHwK1XlGIv00j5iYasXeWKAqX
-#EXTINF:0, Блокбастер HD
-http://cdn.troya.one:80/ch689/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBCj_vTzrHlBqVbZgKhueQAWuj9KBEnFiq78LOHP_8jN
-#EXTINF:0, Болт
-http://cdn.troya.one:80/ch604/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJbPCunMCyOjo-6mRG2zN6iyzsaHNMAvGzEcJr3rBpOC
-#EXTINF:0, Большая Азия HD
-http://cdn.troya.one:80/ch533/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBf6_9vTRP2DJ38b1QzWVYQDhm-DorgFAmb2LDzQcD61
-#EXTINF:0, В мире животных HD
-http://cdn.troya.one:80/ch141/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC2YUSzkH8sfp8pA3YYud7x1N7WE_LzxOY8fEkksoPsz
-#EXTINF:0, Глазами туриста 4K
-http://cdn.troya.one:80/ch566/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJzZsP447SeiWARL_DTPLRgq7nyu9QUfLjQvMknZWw9S
-#EXTINF:0, Глазами туриста HD
-http://cdn.troya.one:80/ch632/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAe58ye-yuTZuf5Vk2WRA3lQvacGizTT6Gt_dYWHcWjx
-#EXTINF:0, День Победы HD
-http://cdn.troya.one:80/ch703/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLpqbFQudkTirqiIsspj5P2fnSlybcQRCOOALAJtglj9
-#EXTINF:0, Дикая Рыбалка HD
-http://cdn.troya.one:80/ch450/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK_ucCaAP-pl63J4cMDyCNZDNTtt9QKahIxxaz-6tvay
-#EXTINF:0, Дождь
-http://cdn.troya.one:80/ch088/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIkhZMVjiJg-Fw8HzDvyoiMczkT091ETM20kcyX5Pblf
-#EXTINF:0, Доктор
-http://cdn.troya.one:80/ch440/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOb73afpN8D_cS31vLdZa29EkvG4xd_kfg5ql6nE2z7f
-#EXTINF:0, Дом Кино
-http://cdn.troya.one:80/ch078/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIpbvXvSabDQJaSuLfpnUhRuACUgM1ChKVFxPr6X8BT3
-#EXTINF:0, Дом Кино Премиум HD
-http://cdn.troya.one:80/ch080/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNVL-9uxKT7oghPOWzVZbSurausc9IbpwXL9NjZbtrCQ
-#EXTINF:0, Домашние животные
-http://cdn.troya.one:80/ch626/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAbLlhBrhFZyqWxEzePmMbO36t4wFS7nx-f8L2m65wTT
-#EXTINF:0, Дорама HD
-http://cdn.troya.one:80/ch535/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJcVDzqwtSG0tmftu8kxHNzr1BzGKiMFnDT6XUkMwhmU
-#EXTINF:20, Душевное HD
-http://cdn.troya.one:80/ch140/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEc57fEvlvb3ab2Rx7U-_mH-yWu43vCtqBJFK_7zlMs-
-#EXTINF:0, ЕвроКино
-http://cdn.troya.one:80/ch033/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF9AZ36-E5739Bk24nF_o_0o2OUVjU484VUUm3Q7upX7
-#EXTINF:0, Еврокино HD
-http://cdn.troya.one:80/ch537/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMZwcu5VRAGL8JW6QCjbR9Pm3IYcIWJIaxWZEd5rDBQu
-#EXTINF:0, Еда
-http://cdn.troya.one:80/ch538/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHmMUT9HiU-yw1f9pbINKlQ0uuATkkyoTiRrPFBvicl0
-#EXTINF:0, Иллюзион+
-http://cdn.troya.one:80/ch114/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDsmlDpM6OKyyvSqnmX5zouvtUesNb153cpZcoqV_Lp7
-#EXTINF:0, Камеди HD
-http://cdn.troya.one:80/ch692/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOv7bFDwEBGMFxTUGFSYPae3rjs4fL72LRk0u9UJJ-am
-#EXTINF:0, Кинеко HD
-http://cdn.troya.one:80/ch2079/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAFSpYlr1Nt1GG7koJTNxSpjNJdI9JRrtY1RFxicRCny
-#EXTINF:0, Кино UHD
-http://cdn.troya.one:80/ch511/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPA83Iz2dxnS9-CA-i5rz6cmNXDbvmMFLO5zsfGTYZR6
-#EXTINF:0, Кино ТВ HD
-http://cdn.troya.one:80/ch077/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMVLzLhaLVhmZOGmbO9Xq3z0K-x42w-bAjEsEwGtgy5a
-#EXTINF:0, Киноджем 1 HD
-http://cdn.troya.one:80/ch542/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-_rJLeRL55eUT3C6xk1EbR56iXFM31zfv9Skt4eTrh
-#EXTINF:0, Киноджем 2 HD
-http://cdn.troya.one:80/ch521/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMB3fvCzOGDcJK6oNB6-EW1RQEKvOEtklqaFI01ENUeI
-#EXTINF:0, Кинокомедия HD
-http://cdn.troya.one:80/ch460/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKmLn5QKwAlB-ygcGCU2EgJaDaLjwnbIF-l81IX5_-Cc
-#EXTINF:0, Киноман
-http://cdn.troya.one:80/ch619/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH0plmIL5dri3lu497dGi7bgQBFe7XUHSbtYOf0fURfj
-#EXTINF:0, Киномикс HD
-http://cdn.troya.one:80/ch079/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG9tNuRia04SuMtB8R9wvSxc0ltNEiNxXQQiO07-ewfT
-#EXTINF:0, Кинопоказ
-http://cdn.troya.one:80/ch466/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAa8M7jfa4nF9DO16wjgdHj4x7lTIbuogcL9lXtVrZBi
-#EXTINF:0, Кинопремьера HD
-http://cdn.troya.one:80/ch054/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJUGLyFpN9uXSJ5Q1rmSbK48ilLqM9D6-Sitm_K2JMj2
-#EXTINF:0, Киносвидание HD
-http://cdn.troya.one:80/ch010/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA69iY_4L6N49HV8_WeThZE4KqFQicbch3TETzsTuzRn
-#EXTINF:0, Киносемья HD
-http://cdn.troya.one:80/ch008/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9yC0dpkbR7fCo0NCxYz-79TMI15Wqd0DCFlVAbVeWT
-#EXTINF:0, Киносерия HD
-http://cdn.troya.one:80/ch668/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF8UtJdVLp9SLYQXChnVA3lTfs7cc_3LXowt2FUAJMz3
-#EXTINF:0, Киноужас HD
-http://cdn.troya.one:80/ch652/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCDoqxWfe02s3SvySGQm3cJyuXK8HHAGs1yPih6L_PdK
-#EXTINF:0, Кинохит HD
-http://cdn.troya.one:80/ch009/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ4rl0GVUrGKBHol93R0D-pI-MuDF8in9VE-aFeNbXx_
-#EXTINF:0, Комедийное HD
-http://cdn.troya.one:80/ch136/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB1fmtt9BbwqjKYGfPivcOUlisCj5QFNrMgF-ImYuw3K
-#EXTINF:0, Комедия
-http://cdn.troya.one:80/ch105/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFG9ePHfNGpEboWtjF8dCFTgr0BRzxJFEw4jzcmCeTqt
-#EXTINF:0, Криминальное HD
-http://cdn.troya.one:80/ch2127/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJlZuIHU6KiE79-DQisuLNtyAcjEcWwFttqBDpxt6tXz
-#EXTINF:0, КтоКуда
-http://cdn.troya.one:80/ch719/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH6ja8Qgp2U1kL8of4nIxbq9z-bfaaGmbqjKHMvzsLj6
-#EXTINF:0, Кухня ТВ
-http://cdn.troya.one:80/ch046/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGAoK7kdgwQF1tnotvrPzB73U5MX75xgAGCjdpQ5iN6O
-#EXTINF:0, Мир Вокруг HD
-http://cdn.troya.one:80/ch664/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJA_1v9-KJD4xRsFr49bS56XBW7347kYUsDhIa4ay4_R
-#EXTINF:0, Мир сериала
-http://cdn.troya.one:80/ch636/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPwLwLjSH-j1YqKGkMocbkE6L-MTp_jFynKt7DU6IvqJ
-#EXTINF:0, Мосфильм HD
-http://cdn.troya.one:80/ch336/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMWWbOQ0y4va9dogTDbS6M4lEwJCpaHffYe6tBHJsfrD
-#EXTINF:0, Моя Планета HD
-http://cdn.troya.one:80/ch142/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCtlm8Ty7RGtxGWjZ_dJYIiRlB6jQqRpSPPFInGQ77Bk
-#EXTINF:0, Мужское кино HD
-http://cdn.troya.one:80/ch112/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4CNF-RoyqQdWmApygU3knX9oJxIDdRvZ3iPdK3GBio
-#EXTINF:0, Мужской
-http://cdn.troya.one:80/ch522/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDrRPZ73mn6QYwOAmmBQ1vkUNgFg_-0cmrvpBvSXppCH
-#EXTINF:0, Нaстоящее время HD
-http://cdn.troya.one:80/ch528/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJsI4ud7NFEHJmswjCAUBNXcBsKv5MEJgKCQ9RJHnVC2
-#EXTINF:0, НСТ
-http://cdn.troya.one:80/ch117/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDKg1TOXHkgnGWgYkCgH9dPSXzvESbjN66Dc5PfOCcxw
-#EXTINF:0, Нано HD
-http://cdn.troya.one:80/ch437/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOLE6MwKezWcgRnrsJHTt_rdDLq1uZyekW2dICs5COvo
-#EXTINF:0, Наш Кинопоказ HD
-http://cdn.troya.one:80/ch714/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBRIO3yWm8AiWugrf6GUyVWO-V0e0FZ0SS-EYVY6eJnJ
-#EXTINF:20, Наше HD
-http://cdn.troya.one:80/ch131/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLYpT5NkjYZGSap2CKj8cs3NGfqLD975XRJJ2EplZ8b-
-#EXTINF:0, Наше Мужское HD
-http://cdn.troya.one:80/ch589/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGzf-b8k1c4RXHpj24W4DlnzSqOu9-Fr1WGcNO_YieT4
-#EXTINF:0, Наше новое кино
-http://cdn.troya.one:80/ch015/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHPm38WTVAO7P-QcKSZU6-RDR9MErJsp4N5lqhIw4M3N
-#EXTINF:0, Остросюжетное HD
-http://cdn.troya.one:80/ch072/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDy_4NqreZYcNPIAvW4LPDNaGzSa8uWB_MGMIJy6FbrB
-#EXTINF:0, Поехали! HD
-http://cdn.troya.one:80/ch710/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMssHiAkVHw_6DwryyNsFWlao4k-S6AHvA1v4xu-VwsR
-#EXTINF:0, Премиальное HD
-http://cdn.troya.one:80/ch084/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPoPmA-dvQzKgsvtTKitcFnY8ozUJSnhtMEJ39TPXn9J
-#EXTINF:0, Приключения HD
-http://cdn.troya.one:80/ch143/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN-8xda8xluP_jN7ZYlW14htLfhoZa9nLh0QXLZUDx9n
-#EXTINF:0, Про Любовь HD
-http://cdn.troya.one:80/ch690/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKSk2jQW-n6CMjrcmcIkOibvYRwVp7TRfFZJvRkAIIXk
-#EXTINF:0, Пёс и Ко
-http://cdn.troya.one:80/ch520/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNtuEaI-rIr5rJUHoW4FvfbEnOzBi6ap7U0s1i9MdZnx
-#EXTINF:0, Родное кино
-http://cdn.troya.one:80/ch116/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLoBBQse8h0EfdzIzBp5BUFW70z7iYYqpZb78_ELJ2gK
-#EXTINF:0, Романтичное HD
-http://cdn.troya.one:80/ch098/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPl1gQhynfnxUkNRGZhZ9yS5Lxdxra4DhBDPI_oFM9bc
-#EXTINF:0, Русский Иллюзион
-http://cdn.troya.one:80/ch101/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHoAEizwAnLfbKPYyrrE1J8SYLM4-CwfH6WynMgdklSH
-#EXTINF:0, Сапфир HD
-http://cdn.troya.one:80/ch2077/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCPfPzRhe5k1LFn9W_1vktL69BUezYkHWywA7yFzj2H8
-#EXTINF:0, Сериал UHD
-http://cdn.troya.one:80/ch642/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE5f-1JAHLeO-A_Njqh9UzP8-WmMmKCSSYj1HlqVwjiO
-#EXTINF:0, Синема HD
-http://cdn.troya.one:80/ch467/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMwGs8PpNB4AXVdpHrhgFi_SMMsicemW3JeEhBkTzjfc
-#EXTINF:0, Страшное HD
-http://cdn.troya.one:80/ch468/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPyxEoAxmOh0Z07wTXlRFzfdYjbrGcLljU7Z8tqnRQmq
-#EXTINF:24, Тайна
-http://cdn.troya.one:80/ch543/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iErdgxkeOo4QXRO63LWpE08Ce7JYlknyinFbsHRRoYDa
-#EXTINF:0, Телекафе
-http://cdn.troya.one:80/ch630/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCLRDYXzffX6vViB8ZoWmSVuo0WSUOpXf380BlL1-uVM
-#EXTINF:0, Телепутешествия
-http://cdn.troya.one:80/ch659/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPU3V7o4qjFzF4uS703t7tFA0CEuTVfthip1Ez0l2zvF
-#EXTINF:0, Усадьба
-http://cdn.troya.one:80/ch504/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGMfssfi3DnvydM6dL_jr5fG1WsYp1k4OXY6VhPks7Mu
-#EXTINF:0, Феникс+ Кино
-http://cdn.troya.one:80/ch505/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKtISZ6nKfbFhiYnstJcHHCWnlZkd4FPnQ1nZoET-emx
-#EXTINF:0, Хит HD
-http://cdn.troya.one:80/ch691/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLoEDTWkJKnePjco6D4XbHHD7Jf4ZsyivqDGZlxZNfDF
-#EXTINF:0, Шокирующее HD
-http://cdn.troya.one:80/ch134/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK2dS8CzBQe60i8d4B0w9ynfJCrAvnWEPdsDyQmxvBPc
-#EXTINF:25,LIBERTYNAUKAFHD
+#EXTINF:0,Liberty Мим FHD
+http://cdn.troya.one:80/ch1779/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGk_dJp3rbUyugfD4yVBQCw-NMAXrUHaPFyE24ELr4OP
+#EXTINF:0,Liberty Мим FHD
+http://cdn.troya.one:80/ch1779/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGk_dJp3rbUyugfD4yVBQCw-NMAXrUHaPFyE24ELr4OP
+#EXTINF:0,Liberty Наука FHD
 http://cdn.troya.one:80/ch1777/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCIdVnH3FeeQpDgXghCOl6BaW6YdharPo9Cy89TV1fDf
+#EXTINF:0,Liberty Планета360 FHD
+http://cdn.troya.one:80/ch1758/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJEQSDUewczZjvPOGtgAmO-Yxh5slfpG7Z7H4QrJ7hq0
+#EXTINF:0,Liberty Семейный 4K
+http://cdn.troya.one:80/ch1775/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEOoLfa-fpjAC26y_FwoovjvcQDxqRmWEfrZBj6UwB5h
+#EXTINF:0,Liberty Сериалы FHD
+http://cdn.troya.one:80/ch1755/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIgsDg-Mcd_9S3nzTSxOepmYQn2HOHsfCfY-JKFWYuEi
+#EXTINF:0,Liberty Сериалы FHD
+http://cdn.troya.one:80/ch1755/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIgsDg-Mcd_9S3nzTSxOepmYQn2HOHsfCfY-JKFWYuEi
+#EXTINF:0,Liberty Сказки FHD
+http://cdn.troya.one:80/ch1778/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGPKgVisiNe8HkGjNiQFpaMkgvAUNgpVKOii7lS3xGEi
+#EXTINF:0,Liberty Союз 4K
+http://cdn.troya.one:80/ch1780/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOCJmErQp8Rsgmw2tK7neLxUgc8ArVw6YlAwUx8Lud7V
+#EXTINF:0,Liberty Триллеры 4K
+http://cdn.troya.one:80/ch1743/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIYNkQ7GhfLLYoSYzzzw4JFZMetlrF9yh8ZFTT_-j99Z
+#EXTINF:0,Liberty Ужасы 4K
+http://cdn.troya.one:80/ch1742/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL8sbXFzjooV8BWhH5wVSDOPOZQPwQqP3LkpJIYBhRw-
+#EXTINF:0,Liberty Шоу FHD
+http://cdn.troya.one:80/ch1762/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFVVmHDS2-LzyLlzXMZT8U89RXEyB3XOEKDHnB7KbL6c
+#EXTINF:0,Liberty Шоу FHD
+http://cdn.troya.one:80/ch1762/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFVVmHDS2-LzyLlzXMZT8U89RXEyB3XOEKDHnB7KbL6c
+#EXTINF:25,LIBERTYDREAMWORKS4K
+http://cdn.troya.one:80/ch2788/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCLv-h0E2GSZQeO2hMu5L-mmWjkX88b_3-Qn46hYuHw8
+#EXTINF:25,LIBERTYDREAMWORKS4K
+http://cdn.troya.one:80/ch2788/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCLv-h0E2GSZQeO2hMu5L-mmWjkX88b_3-Qn46hYuHw8
+#EXTINF:0,Live
+http://cdn.troya.one:80/ch1518/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI6rnZdtcaYMpKuAJYF2G9yCIV5095m6_lGgYg0FyRMp
+#EXTINF:0,Love Nature 4K
+http://cdn.troya.one:80/ch654/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHp6yL3M5dMB91uPahG7Exr67b29n7P0bL1ly1AkoK-y
+#EXTINF:0,Love Nature 4K
+http://cdn.troya.one:80/ch654/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHp6yL3M5dMB91uPahG7Exr67b29n7P0bL1ly1AkoK-y
+#EXTINF:0,Magic Action
+http://cdn.troya.one:80/ch1556/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMQcG2cWcUgY6wkvESPghU60ucSgO7CHqd3bAPwqHoRd
+#EXTINF:0,Magic Adventure
+http://cdn.troya.one:80/ch2203/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ1cgPWYxmdp1-vhnMgACCkG8yJZbtTuWCTALdU59D5H
+#EXTINF:0,Magic Comedy
+http://cdn.troya.one:80/ch1557/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFChsjfcnm_HEBFQD0B5fgKubR4ZQXC7_sxNCRQlzUET
+#EXTINF:0,Magic Comedy
+http://cdn.troya.one:80/ch1557/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFChsjfcnm_HEBFQD0B5fgKubR4ZQXC7_sxNCRQlzUET
+#EXTINF:0,Magic Disney
+http://cdn.troya.one:80/ch1558/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFPWj404cTSjr5_OOFLb5wc2dY5LMuc2GpxbRAqwVFjk
+#EXTINF:0,Magic Family
+http://cdn.troya.one:80/ch1582/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIoWHvnmNiTxiBQfhwMOWgWcJaLydaxJb5f9HVb1pFHx
+#EXTINF:0,Magic Family
+http://cdn.troya.one:80/ch1582/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIoWHvnmNiTxiBQfhwMOWgWcJaLydaxJb5f9HVb1pFHx
+#EXTINF:0,Magic Galaxy
+http://cdn.troya.one:80/ch1559/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDFbZAPsv1mDO39TJ_Ds2w-pDpIb5_2DVQZTpObcqwuc
+#EXTINF:0,Magic Galaxy
+http://cdn.troya.one:80/ch1559/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDFbZAPsv1mDO39TJ_Ds2w-pDpIb5_2DVQZTpObcqwuc
+#EXTINF:0,Magic Horror
+http://cdn.troya.one:80/ch1560/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCFJS4eq_IAZGGx3WCIecHlu25MDP37oKIk1n51uLZnX
+#EXTINF:0,Magic Karate
+http://cdn.troya.one:80/ch1561/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKa0Cno2U3Qwc5C7UlFp8iCi9sayEtelooPGtRUb9dA1
+#EXTINF:0,Magic Love
+http://cdn.troya.one:80/ch1581/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDlfNuMsGiyIQ0IJ7D1dRN7ESWUcM2abGvPdYRHnDJDa
+#EXTINF:0,Magic Love
+http://cdn.troya.one:80/ch1581/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDlfNuMsGiyIQ0IJ7D1dRN7ESWUcM2abGvPdYRHnDJDa
+#EXTINF:0,Magic Russian
+http://cdn.troya.one:80/ch992/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPzeiZcnKP2iL_67OxClA3OCABlrhlPw2R-5vnhel4ue
+#EXTINF:0,Magic Russian
+http://cdn.troya.one:80/ch992/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPzeiZcnKP2iL_67OxClA3OCABlrhlPw2R-5vnhel4ue
+#EXTINF:0,Magic Thriller
+http://cdn.troya.one:80/ch1562/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNEdHmHLzrReXCqY_JOMMOxiLePv9nuGLKzXafmnD5F3
+#EXTINF:0,Magic VHS
+http://cdn.troya.one:80/ch1563/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKmJYO-qC8zIgDrUk4FDtglix0cKIVQakjI3UtcjHBEZ
+#EXTINF:0,Mezzo Live HD
+http://cdn.troya.one:80/ch130/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLr5sDRz0Ha2IdPsbDqtDW46hJSWozdLqgr6mvNAjeLF
+#EXTINF:0,MM Celebrity HD
+http://cdn.troya.one:80/ch1286/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJYryKw3AYO-Em7dDzv9DcjG6PswOfxpJx98FeKV110_
+#EXTINF:0,MM Classic HD
+http://cdn.troya.one:80/ch1323/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBCeBF7B-_OoayHWbedIVQqSyTU-EzhlhWZx_mt-l84Z
+#EXTINF:0,MM Experiment HD
+http://cdn.troya.one:80/ch1952/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNfvIEtH0hIdAx9TOGhP7lwaVngz3Woiao2FFAX5w53z
+#EXTINF:0,MM Flip UHD
+http://cdn.troya.one:80/ch1262/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGvdWf1BbPmD-qMFB4DzQYhp7MI6fwJf_wjhCiW17O5x
+#EXTINF:0,MM Honey HD
+http://cdn.troya.one:80/ch1231/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAfydSdt2W6JSIIVBl9sHA4RylEi2wh4viHt5Z_RIk-_
+#EXTINF:0,MM Lesson HD
+http://cdn.troya.one:80/ch1247/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK5KSbva3y1C6SwtqOCHxc9IEdf8TrGTLhXz5iEY4u9d
+#EXTINF:0,MM Lesson HD
+http://cdn.troya.one:80/ch1247/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK5KSbva3y1C6SwtqOCHxc9IEdf8TrGTLhXz5iEY4u9d
+#EXTINF:0,MM Live Planet HD
+http://cdn.troya.one:80/ch1271/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJpzN0iI0t2wIjof2_X-433rEXrFI5_TaykOtktd2OIX
+#EXTINF:0,MM Live Planet HD
+http://cdn.troya.one:80/ch1271/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJpzN0iI0t2wIjof2_X-433rEXrFI5_TaykOtktd2OIX
+#EXTINF:0,MM Love HD
+http://cdn.troya.one:80/ch1215/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP9VRU9v47dSQbIyp1nqpBIY1GCacTGltfmUo9ua5sZ4
+#EXTINF:0,MM NewFilm 1 HD
+http://cdn.troya.one:80/ch1216/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNUpQvtzWD1NowxBveqFItRjxYOsudVJm-sYNJ2atVfl
+#EXTINF:0,MM NewFilm 1 HD
+http://cdn.troya.one:80/ch1216/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNUpQvtzWD1NowxBveqFItRjxYOsudVJm-sYNJ2atVfl
+#EXTINF:0,MM NewFilm 2 HD
+http://cdn.troya.one:80/ch1217/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDyDEY7RkzeMOSUH-MgNbkQSi23R8YdSHxqHbAbuLmPb
+#EXTINF:0,MM NewFilm 2 HD
+http://cdn.troya.one:80/ch1217/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDyDEY7RkzeMOSUH-MgNbkQSi23R8YdSHxqHbAbuLmPb
+#EXTINF:0,MM NewFilm 3 HD
+http://cdn.troya.one:80/ch1218/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC6jSro7jZXVXwJe5Zshqqhm0AuRySl_EGEryxf2DMq2
+#EXTINF:0,MM NewFilm RU HD
+http://cdn.troya.one:80/ch1219/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBuW5ufX_owsA1l9c3aQcYKRKjJHR3EQPSnF-wM9BK1z
+#EXTINF:0,MM NewFilm RU HD
+http://cdn.troya.one:80/ch1219/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBuW5ufX_owsA1l9c3aQcYKRKjJHR3EQPSnF-wM9BK1z
+#EXTINF:0,MM OldSchool HD
+http://cdn.troya.one:80/ch1953/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBEYxVESi7xGOp6foFHbMuZ3KOfNdp5TMmkt6OKRKhrJ
+#EXTINF:0,MM Relax HD
+http://cdn.troya.one:80/ch1235/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLXQzChafBuQTwvl5fUN935UWthtCHfWoexfeweVSutm
+#EXTINF:0,MM Translation HD
+http://cdn.troya.one:80/ch1621/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLkwESJZ9FV4CANYTiKg74loAQRL1H_YNne1pvQNj_RW
+#EXTINF:0,MM Translation HD
+http://cdn.troya.one:80/ch1621/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLkwESJZ9FV4CANYTiKg74loAQRL1H_YNne1pvQNj_RW
+#EXTINF:23,MM UFO HD
+http://cdn.troya.one:80/ch1222/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH2tfmIzkzQzUd1jttpoghThvodWc4NAC0eu7CCulcrs
+#EXTINF:0,MM World Hits HD
+http://cdn.troya.one:80/ch1228/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNQ-8HRcsz3pVYoeDczLksMUpTcV4-UzMGIMhEo2XUiq
+#EXTINF:24,MM Агата Кристи HD
+http://cdn.troya.one:80/ch1229/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAS7jXTLNjoi35GI2ZeG0bP8OT5XRFh-tDjKa6HNrv3D
+#EXTINF:0,MM Боевик Classic HD
+http://cdn.troya.one:80/ch1232/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLE9yVFoo4yeX-4h7RJvtfnQ8gGLbAEAhjUWPHixDXgh
+#EXTINF:0,MM Боевик Classic HD
+http://cdn.troya.one:80/ch1232/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLE9yVFoo4yeX-4h7RJvtfnQ8gGLbAEAhjUWPHixDXgh
+#EXTINF:0,MM Боевик HD
+http://cdn.troya.one:80/ch1233/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDh06T72RVtIFfNStEeUAypRLtWwpYxzkcGiqWLgzOau
+#EXTINF:0,MM Вестерн HD
+http://cdn.troya.one:80/ch1234/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKd8VekUzChYT53BtJ-wJHsiDpQYzqMdHvwJmc_o9jF7
+#EXTINF:0,MM Драма HD
+http://cdn.troya.one:80/ch1324/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNBP_1OT9FkGfbhow5efyVKq92RqlQMIrbRht0K7ODfk
+#EXTINF:0,MM Затмение HD
+http://cdn.troya.one:80/ch1237/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPa_SUtaTd1tjTFhr7p88HXRobM8qZEGOO1E4yiC_Gdz
+#EXTINF:0,MM История HD
+http://cdn.troya.one:80/ch1238/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJVAnloDFjZ4g1LFjxtD3NGGVk4ho39KaXkD6DCHK89W
+#EXTINF:0,MM Катастрофа HD
+http://cdn.troya.one:80/ch1239/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIIiaC8SrE8EwLIo0njfoPi9upvdN5UQEJlLva7KvAzL
+#EXTINF:24,MM Квартирник HD
+http://cdn.troya.one:80/ch1240/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN4SULe1QJao8meu4hGNUuQlVGZ43HUjrRXBwWo29LFY
+#EXTINF:24,MM Киберпанк HD
+http://cdn.troya.one:80/ch1241/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBdkNCZ9p2OonEhYhA5ptfszdJ5pmjqziSk92eUlVDMU
+#EXTINF:0,MM Киберпанк HD
+http://cdn.troya.one:80/ch1241/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBdkNCZ9p2OonEhYhA5ptfszdJ5pmjqziSk92eUlVDMU
+#EXTINF:0,MM Кинофестиваль HD
+http://cdn.troya.one:80/ch2501/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ26WyMspFWJMcItJgrzekC7FHAuM0EHpQM2XYvyjQvE
+#EXTINF:0,MM Комедия Classic HD
+http://cdn.troya.one:80/ch1242/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNZNuYW6kSHDDAZFbtuDktq8zQNDsC4-TmwQVeA48Wfy
+#EXTINF:0,MM Комедия HD
+http://cdn.troya.one:80/ch1243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGaEszy11g90f08S9mg8of2BCaTX7AYuNmmlcSiwCzeN
+#EXTINF:0,MM Криминал HD
+http://cdn.troya.one:80/ch1244/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPr_zjiO2QJVxH1Hn7BvQBRx1Riua1R86hyxUSDltZhG
+#EXTINF:0,MM Кунг-Фу HD
+http://cdn.troya.one:80/ch1246/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKkT67EUMjEj0MyEOUrmBdwnlkvixW96zoxEmSmTxHhs
+#EXTINF:0,MM Макромир HD
+http://cdn.troya.one:80/ch1586/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNY2OQY4vFvKLEXlV6r-1i_Y41vCRxzxozcaBGqjOyGZ
+#EXTINF:0,MM Мегамир HD
+http://cdn.troya.one:80/ch1587/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDqaE02xCzuYMKA40SalRTaiaOHl1zypaZcs7mOk4eHT
+#EXTINF:0,MM Мегамир HD
+http://cdn.troya.one:80/ch1587/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDqaE02xCzuYMKA40SalRTaiaOHl1zypaZcs7mOk4eHT
+#EXTINF:0,MM Микромир HD
+http://cdn.troya.one:80/ch1585/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNiX4erdl5jZ8HcEj2Yw3y5pR5h0JecDuoV-lhAdLohE
+#EXTINF:0,MM Мифология HD
+http://cdn.troya.one:80/ch1249/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOq-sG9r3pK8fhFpDBCYtmDNTiwN-Tbcq5uKbsWUiLdl
+#EXTINF:0,MM Нуар HD
+http://cdn.troya.one:80/ch1250/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iApgogFKJPjruSrr-w99mOHtRHzQ33AdrW-MAVAzMSJw
+#EXTINF:0,MM Нуар HD
+http://cdn.troya.one:80/ch1250/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iApgogFKJPjruSrr-w99mOHtRHzQ33AdrW-MAVAzMSJw
+#EXTINF:0,MM Открытия HD
+http://cdn.troya.one:80/ch1955/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC3O3AixiMhK-pjBNPyJphsW5xM6aRXnJECGoxEVBceR
+#EXTINF:0,MM Погружение HD
+http://cdn.troya.one:80/ch1252/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFZRRgdIrjhz4VThgojaQ4kPIUgmNndQEz5p4ACpIr8Z
+#EXTINF:0,MM Приключения HD
+http://cdn.troya.one:80/ch1254/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCh_E5VC-ujxfEUkoX8Iwuy_VOnNSNtIKNDPAMi5LNU8
+#EXTINF:0,MM Приключения HD
+http://cdn.troya.one:80/ch1254/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCh_E5VC-ujxfEUkoX8Iwuy_VOnNSNtIKNDPAMi5LNU8
+#EXTINF:0,MM Синематограф HD
+http://cdn.troya.one:80/ch1266/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP7ZiQhRXelwRhD-uKKlUmPUQNRpW1DNtfwnC_b-o_Ei
+#EXTINF:0,MM Синематограф HD
+http://cdn.troya.one:80/ch1266/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP7ZiQhRXelwRhD-uKKlUmPUQNRpW1DNtfwnC_b-o_Ei
+#EXTINF:0,MM Ситком 2.0 HD
+http://cdn.troya.one:80/ch1251/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iInr3qX2q4UXchyy5Pr1n5pw_7FFYTgicIJuGWVaeqFu
+#EXTINF:23,MM Ситком 2.0 HD
+http://cdn.troya.one:80/ch1251/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iInr3qX2q4UXchyy5Pr1n5pw_7FFYTgicIJuGWVaeqFu
+#EXTINF:0,MM Ситком HD
+http://cdn.troya.one:80/ch1257/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE1t7TtLF3cG9UTHZi4Xx6lEywi_jdyN7ZvpcMdnqG7B
+#EXTINF:0,MM Ситком HD
+http://cdn.troya.one:80/ch1257/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE1t7TtLF3cG9UTHZi4Xx6lEywi_jdyN7ZvpcMdnqG7B
+#EXTINF:0,MM Скорость HD
+http://cdn.troya.one:80/ch1258/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNsG46l2JBE2nrhjks0UBr4FRaZMzlpjB_t2GmbZW3SG
+#EXTINF:0,MM Скорость HD
+http://cdn.troya.one:80/ch1258/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNsG46l2JBE2nrhjks0UBr4FRaZMzlpjB_t2GmbZW3SG
+#EXTINF:0,MM Спорт HD
+http://cdn.troya.one:80/ch1259/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEhkTr4EFP8R812FME_hEyCZFVd6OZkEB9TPQkklG-sp
+#EXTINF:0,MM Спорт HD
+http://cdn.troya.one:80/ch1259/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEhkTr4EFP8R812FME_hEyCZFVd6OZkEB9TPQkklG-sp
+#EXTINF:0,MM Стивен Кинг HD
+http://cdn.troya.one:80/ch1260/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMEucbo8udHdz8pcd25OvEWJxx-VCqDRE84odAYKL77I
+#EXTINF:0,MM Супергерои HD
+http://cdn.troya.one:80/ch1261/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFV1PT2U4WVP7K6d4cc-oBFa1WAqvx8ozBCziWprhJFt
+#EXTINF:0,MM Супергерои HD
+http://cdn.troya.one:80/ch1261/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFV1PT2U4WVP7K6d4cc-oBFa1WAqvx8ozBCziWprhJFt
+#EXTINF:0,MM Триллер HD
+http://cdn.troya.one:80/ch1263/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJrKE-ynQwquT0rLaBednD9Qg6fozXTyn5pj2ivUONDN
+#EXTINF:0,MM Ужастик HD
+http://cdn.troya.one:80/ch1264/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI1nAPqKEP9tlKdUQ5iH1WvWVexvX2Ewd-ksqgK5J4VC
+#EXTINF:0,MM Ужастик HD
+http://cdn.troya.one:80/ch1264/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI1nAPqKEP9tlKdUQ5iH1WvWVexvX2Ewd-ksqgK5J4VC
+#EXTINF:0,MM Ужасы Classic HD
+http://cdn.troya.one:80/ch1275/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB1uOfcM29HpuRsbAj82aiNM6bTvaEpMoD6b2WZtUQ5P
+#EXTINF:0,MM Ужасы Classic HD
+http://cdn.troya.one:80/ch1275/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB1uOfcM29HpuRsbAj82aiNM6bTvaEpMoD6b2WZtUQ5P
+#EXTINF:0,MM Ужасы HD
+http://cdn.troya.one:80/ch1276/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLLi32NJ-jegIg6LmHM9EGQ66T5NB_43E9UepcufKC2N
+#EXTINF:0,MM Фантастика HD
+http://cdn.troya.one:80/ch1267/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFuW5kCo_Npy2BnktqFrnl9Ooy4VMyCNXaCLXD4MM2Wi
+#EXTINF:0,MM Фантастика HD
+http://cdn.troya.one:80/ch1267/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFuW5kCo_Npy2BnktqFrnl9Ooy4VMyCNXaCLXD4MM2Wi
+#EXTINF:0,MM Фобия HD
+http://cdn.troya.one:80/ch1268/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFvie9KSr7bj1qXjsZum8NTLwao4epQDRXgjv_hjzcQs
+#EXTINF:0,MS Animated HD
+http://cdn.troya.one:80/ch1287/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKea278RMWgDtliSVvWiFdTbDTjr3ccTTAqJC5fWtm4e
+#EXTINF:0,MS Animated HD
+http://cdn.troya.one:80/ch1287/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKea278RMWgDtliSVvWiFdTbDTjr3ccTTAqJC5fWtm4e
+#EXTINF:0,MS Crime HD
+http://cdn.troya.one:80/ch1288/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBwzADH42lHdAHgG8rxxfaUSHDNfTzR24hk9C3WO_LPt
+#EXTINF:0,MS Magic HD
+http://cdn.troya.one:80/ch3038/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPE2gFhGZFXqvb8Gx1_quSpnSuwpz2Qa_cz6Rrlpte3j
+#EXTINF:0,MS Prisons HD
+http://cdn.troya.one:80/ch1289/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBpcfnlrfgAA38dK9RPeU2FZHr2eWDMg-X0cZtaa459A
+#EXTINF:0,MS Toons HD
+http://cdn.troya.one:80/ch1290/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIBwI5prpZEQuXg_5sxLBdaRrqwZ4f5JUJSpIu5yt-VH
+#EXTINF:0,MS Young Blood HD
+http://cdn.troya.one:80/ch1291/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA234WJCRAaVU2NuJgG5FEn1E194fFfUkM4OCa4NUGXa
+#EXTINF:0,Nat Geo Wild HD
+http://cdn.troya.one:80/ch047/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPjcSEALhfX7gSO6yVahi0USz-WoKLxcnDfWwOJJCDHY
+#EXTINF:0,Nat Geo Wild HD
+http://cdn.troya.one:80/ch047/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPjcSEALhfX7gSO6yVahi0USz-WoKLxcnDfWwOJJCDHY
+#EXTINF:0,National Geographic HD
+http://cdn.troya.one:80/ch125/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLPTun9a9x8V_V8LCgBuwzXQLilAmFEdktnN3SrNuPmw
+#EXTINF:0,National Geographic HD
+http://cdn.troya.one:80/ch125/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLPTun9a9x8V_V8LCgBuwzXQLilAmFEdktnN3SrNuPmw
+#EXTINF:0,Oasis Action
+http://cdn.troya.one:80/ch2510/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iInw8rCjwl3-eicWumazKwkWXkDdQzOQpw9EvGzw0H9l
+#EXTINF:25,Oasis Alien and Predator
+http://cdn.troya.one:80/ch2647/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBTSCUX-dBYYgN7tj2FGaaRJk-J2lxwT4G15sVwVvD4y
+#EXTINF:0,Oasis Animals
+http://cdn.troya.one:80/ch2648/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEgtMF4xJrDmv3yke9bxmHxqf1hyQ8qY7OOZ3LYn_C3S
+#EXTINF:0,Oasis Anime
+http://cdn.troya.one:80/ch2649/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP92PASiFlNOg7vOXw5TguO3hi34WU2CzAoLufbJPbe9
+#EXTINF:0,Oasis Anime
+http://cdn.troya.one:80/ch2649/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP92PASiFlNOg7vOXw5TguO3hi34WU2CzAoLufbJPbe9
+#EXTINF:0,Oasis Biography
+http://cdn.troya.one:80/ch2650/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOGvdbHpD6QTetHevzUAK8sq-IF0SbKEckzBPWGi9vA4
+#EXTINF:25,Oasis Blocks
+http://cdn.troya.one:80/ch2651/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG1vIb3F213vppTcaqrVWRvJTgQbrSohfAqoDcr3jR-L
+#EXTINF:25,Oasis Celentano Brando Connery
+http://cdn.troya.one:80/ch2652/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBf8BQfDYOpfpZr1Se-mlATtKV_t9GqalRGCWbrnivr9
+#EXTINF:0,Oasis Comedy
+http://cdn.troya.one:80/ch2653/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFJB3PHa9JRUdGakzNS3Wnkek86crDXRErea6o2y35uc
+#EXTINF:0,Oasis Comedy Horrors
+http://cdn.troya.one:80/ch2654/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFFry_uSW3Hvc8i1yh1s-tJNVGY0udIAFpuPEo0WUo5b
+#EXTINF:0,Oasis Comedy Horrors
+http://cdn.troya.one:80/ch2654/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFFry_uSW3Hvc8i1yh1s-tJNVGY0udIAFpuPEo0WUo5b
+#EXTINF:0,Oasis DC
+http://cdn.troya.one:80/ch2655/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA6d49G2AEjeguQo6TDGwxGJSDS3YLNku0aXKHXe6syK
+#EXTINF:0,Oasis Demon Slayer and Dororo
+http://cdn.troya.one:80/ch2656/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPrETpi7aeB-exX3e3QduZB5UF_FLf7w-tzEQvCDPmmj
+#EXTINF:0,Oasis Detective
+http://cdn.troya.one:80/ch2657/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMo15eLfq-7ENV3KcGE0aW36ZzJTOIfHKDKsLivXbw_j
+#EXTINF:0,Oasis Detective
+http://cdn.troya.one:80/ch2657/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMo15eLfq-7ENV3KcGE0aW36ZzJTOIfHKDKsLivXbw_j
+#EXTINF:0,Oasis Disney Classic
+http://cdn.troya.one:80/ch2658/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIoFmvE0IT05JWc4dbHSAOMdp7N5RxV9NgdEqoSbokj8
+#EXTINF:0,Oasis Drama
+http://cdn.troya.one:80/ch2660/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAv8SMUK71zXlHdWURV-DxAnLlYTHUGohoEJK5OAzjVF
+#EXTINF:0,Oasis Drama
+http://cdn.troya.one:80/ch2660/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAv8SMUK71zXlHdWURV-DxAnLlYTHUGohoEJK5OAzjVF
+#EXTINF:0,Oasis Family
+http://cdn.troya.one:80/ch2662/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHWm-0vJWomosYxRtuvF1EQOO6Xn2xybQQeI69F_-V7w
+#EXTINF:0,Oasis Horror
+http://cdn.troya.one:80/ch2666/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHtL4NXF4GqeNSOrQCIfqF97f9BDx70_ed_7yuFNvkvQ
+#EXTINF:0,Oasis In English
+http://cdn.troya.one:80/ch1443/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGn6oO1p91tMms292zUq3Veb_ysDAiEX1j_g0mImkAPG
+#EXTINF:0,Oasis Mafia
+http://cdn.troya.one:80/ch2674/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLlk2fgUbD000C5wOYCSTvrfl2TOvMLgx--VZrVwQHKo
+#EXTINF:0,Oasis Marvel
+http://cdn.troya.one:80/ch2675/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPgChgBv2eZnoAq-IDi_7GYHbc10IPZ5_2n9Lh0fHm3p
+#EXTINF:0,Oasis Marvel
+http://cdn.troya.one:80/ch2675/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPgChgBv2eZnoAq-IDi_7GYHbc10IPZ5_2n9Lh0fHm3p
+#EXTINF:0,Oasis Old Horrors
+http://cdn.troya.one:80/ch2678/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPkHFXn0r84FZ14A8pcjT-sk-Y8ZLaoYgeJknEJRQvcl
+#EXTINF:0,Oasis Old Horrors
+http://cdn.troya.one:80/ch2678/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPkHFXn0r84FZ14A8pcjT-sk-Y8ZLaoYgeJknEJRQvcl
+#EXTINF:0,Oasis Pixar
+http://cdn.troya.one:80/ch2680/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPX3KGhX2XdFj-kXBUBOWqycDwNrlTb5VO2xbppyqJHP
+#EXTINF:0,Oasis Pixar
+http://cdn.troya.one:80/ch2680/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPX3KGhX2XdFj-kXBUBOWqycDwNrlTb5VO2xbppyqJHP
+#EXTINF:0,Oasis RUS Драма
+http://cdn.troya.one:80/ch2682/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJA6LYElzmjjEEzshj2TC83sWdAQwXX8cayaLutvhAk4
+#EXTINF:0,Oasis Serkan Bolat
+http://cdn.troya.one:80/ch2686/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHZC5UA07AMnpFfAv1dPUTMREHHAPbQ15IFeYkwjRGMg
+#EXTINF:0,Oasis Serkan Bolat
+http://cdn.troya.one:80/ch2686/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHZC5UA07AMnpFfAv1dPUTMREHHAPbQ15IFeYkwjRGMg
+#EXTINF:0,Oasis Soviet Comedy
+http://cdn.troya.one:80/ch2688/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGP4x55Bl0y_PZHcpIwHs448JrFEgYqs9QWaNgwVjsRI
+#EXTINF:0,Oasis Soviet Comedy
+http://cdn.troya.one:80/ch2688/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGP4x55Bl0y_PZHcpIwHs448JrFEgYqs9QWaNgwVjsRI
+#EXTINF:0,Oasis Superheroes Сериалы
+http://cdn.troya.one:80/ch2690/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFEyuHPZYB2ml3GmT-P6c4FVbGSRxOSNoPwUGxHA9_oZ
+#EXTINF:0,Oasis Superheroes Сериалы
+http://cdn.troya.one:80/ch2690/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFEyuHPZYB2ml3GmT-P6c4FVbGSRxOSNoPwUGxHA9_oZ
+#EXTINF:0,Oasis Ufo And Aliens
+http://cdn.troya.one:80/ch1442/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNReRQD3j1vReurx7E_q0V2TkxonmJnj2FCh-8WDDuFD
+#EXTINF:0,Oasis UK Series
+http://cdn.troya.one:80/ch2918/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHvwzCyvYw7uZqArUzWrcAjX27lfDTRC81hTKlGL5Wvx
+#EXTINF:0,Oasis USA Series
+http://cdn.troya.one:80/ch2694/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOr_qpfuK1FJH7T_UJRO2AFHm-kdzqS57aeVJqe76KeP
+#EXTINF:0,Oasis Выживание
+http://cdn.troya.one:80/ch2691/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE0-8oEPwf11tC_dGn_aVZSEU_JqvqBd2DpRomfNTX0u
+#EXTINF:0,Oasis Выжить Вместе
+http://cdn.troya.one:80/ch2692/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB2UhMqcBnWIIibZByTH87R6owRHI9fGTKXLbZyv63-a
+#EXTINF:0,Oasis Друзья Друзя
+http://cdn.troya.one:80/ch2661/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJISHdEoE5F44Gw33qcRgvchAuSsETGMQCXmFwJffe42
+#EXTINF:0,Oasis Кухня Отель
+http://cdn.troya.one:80/ch2668/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIFR-DylGlvD3jCBQNuQZcdpFAoRT22SHa27zUORzLHU
+#EXTINF:0,Oasis Кухня Отель
+http://cdn.troya.one:80/ch2668/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIFR-DylGlvD3jCBQNuQZcdpFAoRT22SHa27zUORzLHU
+#EXTINF:0,Oasis Латиноамериканские Сериалы
+http://cdn.troya.one:80/ch2669/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLba4Ju4-06nsHaZPSPgBzzKaEc3n392jesUdFyAqPGw
+#EXTINF:0,Oasis Мелодрама
+http://cdn.troya.one:80/ch2676/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9RLANqIe4v4mBhHX-1N0jxHUxn0IKWKxCkl50OP99v
+#EXTINF:0,Oasis Миядзаки
+http://cdn.troya.one:80/ch2677/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKdq8j6xiMNcPB8I-ZQC50hlkGcUS6_x_aUM6UznSO4n
+#EXTINF:0,Oasis Миядзаки
+http://cdn.troya.one:80/ch2677/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKdq8j6xiMNcPB8I-ZQC50hlkGcUS6_x_aUM6UznSO4n
+#EXTINF:0,Oasis Сквидвард
+http://cdn.troya.one:80/ch2689/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEydAob1QNM9B6ircQDXigAMq5o6PXaKuN08BmRDDJ6Q
+#EXTINF:0,Oasis Сквидвард
+http://cdn.troya.one:80/ch2689/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEydAob1QNM9B6ircQDXigAMq5o6PXaKuN08BmRDDJ6Q
+#EXTINF:0,Oasis Тайны Смолвиля
+http://cdn.troya.one:80/ch2687/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-doi44aYw0cD8_M-kkywimYBot3lxLTSpbIXWa9snq
+#EXTINF:0,Oasis Фантастика
+http://cdn.troya.one:80/ch2663/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDQDrHgyInZkcobl_UnlUEgnvcJWA571I4w6WEmBYF5w
+#EXTINF:0,Oasis Фитнес
+http://cdn.troya.one:80/ch2665/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKYFxFYS27dAldNjuSrA-uo4wY0RBV2DpIOx46AJF-IW
+#EXTINF:0,Oasis Черепашки Нинзя
+http://cdn.troya.one:80/ch2917/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLtc2WtbCi4esBuLebECJQgeDIRJ7Pyb_BQa-3c8b9dy
+#EXTINF:0,Ocean TV
+http://cdn.troya.one:80/ch728/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLoniaQz2mJGf16wGaDPaXcc8amVbFiKnw8wfh7gh8wd
+#EXTINF:0,Plan B HD
+http://cdn.troya.one:80/ch459/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMejCZkgfP6pQYPr-s8qj9Jwnp49jvK_9gQ0PaZ4HAf_
+#EXTINF:0,Pornbox Adult Time
+http://cdn.troya.one:80/ch248/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOa9tNkK84Wc4-baQWq-QjYOXd64fYArSRoLT54eGSiB
+#EXTINF:0,Pornbox Babes
+http://cdn.troya.one:80/ch051/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGROMbWdNiwTaPWbyc1ojfZFEa6_BjrkaQwBSf14R20z
+#EXTINF:0,Pornbox Blacked
+http://cdn.troya.one:80/ch246/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFlHMhihDmfYTLuzYNjj_x_e-QKtotScszVHfGS7eQYm
+#EXTINF:0,Pornbox Bratty Sis
+http://cdn.troya.one:80/ch792/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB-vKCSUh1eFx9ueUcXtW6A3V3HULu3-yhPxPOxhkg2a
+#EXTINF:0,Pornbox Bums Bus
+http://cdn.troya.one:80/ch793/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBU23SoQ86JdKXmESJDneBFMPEVDaCElocUhLr-8PLXi
+#EXTINF:33,Pornbox Casting Couch
+http://cdn.troya.one:80/ch795/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLYwvIwFSOGF1dow_uapHyVa3iJirUozbBSBHn-111nI
+#EXTINF:0,Pornbox Cum 4K
+http://cdn.troya.one:80/ch053/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAKHVW7_cwamVqIL5J_UsLerdw5fgJb1M2qlZZq5azCh
+#EXTINF:0,Pornbox Fake Hostel
+http://cdn.troya.one:80/ch794/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAcHwHcVBlzmmD-Gw_T1AfHrI0JMjZxGQw94Ocnd0Tmg
+#EXTINF:0,Pornbox Fake Taxi
+http://cdn.troya.one:80/ch803/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJerggo2_LLejfZ8-B_jPlwbFzH3dNKzy1uc9eXYLDgf
+#EXTINF:0,Pornbox Family Strokes
+http://cdn.troya.one:80/ch801/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLYtrg0Jns-DsJVVJqqEGH_2vOfFmByPdtNQxYPjI502
+#EXTINF:0,Pornbox Fapadoo
+http://cdn.troya.one:80/ch800/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBl_QYQatw3deBfVCZz3yrlWPuoQTMPOAkUnBocZhF86
+#EXTINF:31,Pornbox Fit 18
+http://cdn.troya.one:80/ch798/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFgCBnFv_Jp5x5y0H6646FcVAM37JnM7_VorDG7W194B
+#EXTINF:0,Pornbox Gender X Films
+http://cdn.troya.one:80/ch052/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iERg4fvqM9EsW3fScI6jvIrHJsjcTc1htFreSv3MJ0mX
+#EXTINF:0,Pornbox Interracial Pass
+http://cdn.troya.one:80/ch823/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFR_vtpA25d0yhVdr2pyKRlksgwC_GYbSBG2F-EhEr_G
+#EXTINF:0,Pornbox Jays Pov
+http://cdn.troya.one:80/ch290/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIbHK8L4aWVrkG2nU_sf-qJCwjzTzBxnQ-AKu2bm4Zgr
+#EXTINF:0,Pornbox Jesh By Jesh
+http://cdn.troya.one:80/ch375/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD27DzkpBappIyhfD3IdlVR-eZ7ulMCeFYtOCnS4GNbn
+#EXTINF:0,Pornbox Jules Jordan
+http://cdn.troya.one:80/ch249/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIou6RC_E6QJKGzy7BO5IuTqGOqhVw-Y_5cWyVVn9Aj-
+#EXTINF:0,Pornbox Kinky Family
+http://cdn.troya.one:80/ch289/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBGcqHSYsoQ3ZNTo-793USQQg3DPfx2JEimMYOe4-GRo
+#EXTINF:0,Pornbox Lets Do It
+http://cdn.troya.one:80/ch809/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPbbhQL82IrY7qu9bqwWk-WL6RAYX-FGgYTlby10ay7U
+#EXTINF:0,Pornbox Love Her Feet
+http://cdn.troya.one:80/ch813/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCoiKc9u0afhYAMfGngE2Uzmr86wzj-kgg9goOLSHDiY
+#EXTINF:0,Pornbox Love Home Porn
+http://cdn.troya.one:80/ch807/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBD6Q-E1b2TpyupsG_PqIYRUiTYZt3yyAj-nk6yzvnI-
+#EXTINF:0,Pornbox Mamacitaz
+http://cdn.troya.one:80/ch802/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLby7r0MF3JKki9PNuu-geHo4cL2zSVvOJ5kXefFJXUt
+#EXTINF:0,Pornbox Massage Rooms
+http://cdn.troya.one:80/ch850/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOJNXNPZK77MOLgbGRQIpwHHsRCwVdSYRWMrxsr6PCGy
+#EXTINF:0,Pornbox Model Media Asia
+http://cdn.troya.one:80/ch292/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFCO0T-pNvSg9Bp0ss8Bg1s_ivzJRKF2J7VLTdXl-RXT
+#EXTINF:0,Pornbox Mom Teach Sex
+http://cdn.troya.one:80/ch816/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHNgjqh-MVoc0CVOBISKfuY3oS3YyF7fhyGRcaUHf4bS
+#EXTINF:0,Pornbox Must Not Fap
+http://cdn.troya.one:80/ch806/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBqO1ymCPRO2T6qa9-b-usPx_NIhAIkEL6188OK5i5ct
+#EXTINF:0,Pornbox My Dirty Hobby
+http://cdn.troya.one:80/ch814/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEI-UrZGhzgnHUrMH5H2Qn0XM-a92aVTGAudrTlioF7p
+#EXTINF:0,Pornbox My Family Pies
+http://cdn.troya.one:80/ch817/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOV9hLkIlZBUEa6DonCh0y34fAc9zSwZUoC_4Ynfccki
+#EXTINF:0,Pornbox Passion
+http://cdn.troya.one:80/ch820/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDJrg4Z4GEByKM-IOAhWyiR8mUAkwHEM_0bviKf2JqoR
+#EXTINF:0,Pornbox Princess Cum
+http://cdn.troya.one:80/ch812/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH34g8OM9QEi43Zn_qSvI5wyexi35HN-JCpv7mDwEpIy
+#EXTINF:0,Pornbox Reality Junkies
+http://cdn.troya.one:80/ch821/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMxsdBVah4GROgiH8y1k9qGBLU3vrSyRhd6CW5jNPBDS
+#EXTINF:0,Pornbox Reality Kings
+http://cdn.troya.one:80/ch822/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFsz8R08mBwca2FHKo381I1PT-Vqa2cMrv0wnJrJEFa7
+#EXTINF:0,Pornbox Riley Reid Pornstar
+http://cdn.troya.one:80/ch808/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJn8LWGAT625Lhjs54ly5GsxX6Bc9-Kyt-caJbMY50L0
+#EXTINF:0,Pornbox Slim 4K
+http://cdn.troya.one:80/ch796/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDWgffaBbuY29mmhKgHwcPMbqXUxIzj5KqvymK3FX1wu
+#EXTINF:0,Pornbox Strokies
+http://cdn.troya.one:80/ch818/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO17qXolEvcdSsyqzAe21PbOeUuY11HUEFOFdDKFfhlq
+#EXTINF:0,Pornbox True Amatuers
+http://cdn.troya.one:80/ch825/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOU6sm1TWD-DKnfBP4s1xUB9LFHeoQak0NNHX4MSmVtA
+#EXTINF:0,Private TV HD
+http://cdn.troya.one:80/ch094/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHZ_zQYmRj3L9CYC9--JOjqsYYg5gRFh-Crx7n_UQyt-
+#EXTINF:0,Prokop TV Cinema 4K
+http://cdn.troya.one:80/ch2877/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBIrRTOq8lDuKWYTOKG983gqhWNqY97JF_zP91jd-2Wr
+#EXTINF:0,Prokop TV Cinema 60 FPS
+http://cdn.troya.one:80/ch2860/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDPBZlOjD8r7Yrky_VZcU_YCEl_MnkvM-YVS8E7WRxzp
+#EXTINF:0,Prokop TV Cinema 60 FPS
+http://cdn.troya.one:80/ch2860/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDPBZlOjD8r7Yrky_VZcU_YCEl_MnkvM-YVS8E7WRxzp
+#EXTINF:0,Prokop TV Cinema Best HD
+http://cdn.troya.one:80/ch2880/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGHl4qHpQVm_AQm-27d7gcUZiTCuBfOHn73fEW5Cn3n_
+#EXTINF:0,Prokop TV Comedy HD
+http://cdn.troya.one:80/ch2874/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC3ZOmfPpeg79dnyMj8_ThJpiABCxXE5tg82Ddn2mLJM
+#EXTINF:0,Prokop TV Comedy HD
+http://cdn.troya.one:80/ch2874/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC3ZOmfPpeg79dnyMj8_ThJpiABCxXE5tg82Ddn2mLJM
+#EXTINF:0,Prokop TV Criminal HD
+http://cdn.troya.one:80/ch2866/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF_SrR2d9F9bJ1O3tXWrp8DyTRXrwscc6A6kjYxcHEY9
+#EXTINF:0,Prokop TV Criminal HD
+http://cdn.troya.one:80/ch2866/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF_SrR2d9F9bJ1O3tXWrp8DyTRXrwscc6A6kjYxcHEY9
+#EXTINF:0,Prokop TV Detektiv HD
+http://cdn.troya.one:80/ch2857/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKpvlho4UloPtTusVXOKuJDy-KlbJ6e-OfvB0BOYkM1K
+#EXTINF:0,Prokop TV Docu HD
+http://cdn.troya.one:80/ch2861/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJx4fByvJKSsgy-i6EcNcSDWzVAg0x-7JR7vU6LI4kcW
+#EXTINF:0,Prokop TV Docu HD
+http://cdn.troya.one:80/ch2861/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJx4fByvJKSsgy-i6EcNcSDWzVAg0x-7JR7vU6LI4kcW
+#EXTINF:0,Prokop TV Fantazy HD
+http://cdn.troya.one:80/ch2869/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD1ugdvELNDy08SOd2-QeXOFoq4QbDVhApSFJiGIzFiB
+#EXTINF:0,Prokop TV Fantazy HD
+http://cdn.troya.one:80/ch2869/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD1ugdvELNDy08SOd2-QeXOFoq4QbDVhApSFJiGIzFiB
+#EXTINF:0,Prokop TV Hip Hop
+http://cdn.troya.one:80/ch2855/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO4f9ugvy8H-kCmLgnGS2rBZshVSRe6b1BUX9tq_OSOt
+#EXTINF:0,Prokop TV History HD
+http://cdn.troya.one:80/ch2868/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4_BqosRQ7CB74p57d6t7ucOz5F0CfGFZUWIg-XEO2B
+#EXTINF:0,Prokop TV Horror HD
+http://cdn.troya.one:80/ch2870/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJkgH8qYCW_LPeDIQq0ADRytj_T7cqdGwR912-WnpVeN
+#EXTINF:0,Prokop TV Kung Fu
+http://cdn.troya.one:80/ch2876/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLfP-lJNQPRFiwlNUqnY9KHajSmc3wmnOdqy7xOo86Av
+#EXTINF:0,Prokop TV Netflix HD
+http://cdn.troya.one:80/ch2872/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFP05xc_94c25RNt_7RnSFFke-F9al5tZ8X5GDtIhwMm
+#EXTINF:0,Prokop TV New Films HD
+http://cdn.troya.one:80/ch2875/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFegJ2lqP3iKfyrSC-Tl6EE7kXWlY6sfR8VcFp-wwwYO
+#EXTINF:0,Prokop TV Peters Pop Show
+http://cdn.troya.one:80/ch2864/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPEacixFcgg5PNqKgRRbS1zzKZPwArf4yEFkNE22TGbO
+#EXTINF:0,Prokop TV Serial HD
+http://cdn.troya.one:80/ch2871/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMvCf_kuOj-fGFxcYZEv30q5-nkSIbKJ-kHVjYw0lbjq
+#EXTINF:0,Prokop TV Serial HD
+http://cdn.troya.one:80/ch2871/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMvCf_kuOj-fGFxcYZEv30q5-nkSIbKJ-kHVjYw0lbjq
+#EXTINF:0,Prokop TV Show HD
+http://cdn.troya.one:80/ch2878/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpE5Hksj2FiKB53-V9RlJ4O4QbanJLKvsPuw1Hz_NsF
+#EXTINF:0,Prokop TV XXX
+http://cdn.troya.one:80/ch2859/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAkjEZzoYRC_wx2hx_tV1FtvrjHqR2VlsoA33l0SBcK4
+#EXTINF:0,Prokop TV Кулинар HD
+http://cdn.troya.one:80/ch2881/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAlM7z-IHFYWSpSO3aBs-zdK0602fVpeWR_G6KZ8CCDx
+#EXTINF:0,PT: Dazn 1 UHD
+http://cdn.troya.one:80/ch2104/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6qZRQ3uGlbXuNVkiLXK6CigCDzQTbcd7wHzrOHMMil
+#EXTINF:0,PT: Dazn 2 HD
+http://cdn.troya.one:80/ch2099/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCm8eBnNN53bMj6APeYHSRGNvReIFyMG9LQ_7ZEqvDiY
+#EXTINF:0,PT: Dazn 5 HD
+http://cdn.troya.one:80/ch2102/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCRBOlVUtPbUHQD9SF8_uDZucM1h8Sh-QJCG8TgYHmzK
+#EXTINF:0,Quadro 4K
+http://cdn.troya.one:80/ch1041/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHN0cxGMysP2OUHLtYzg7tO9nmtu2hFzFMQWtuts5Z-7
+#EXTINF:20,Quadro 4K
+http://cdn.troya.one:80/ch1041/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHN0cxGMysP2OUHLtYzg7tO9nmtu2hFzFMQWtuts5Z-7
+#EXTINF:20,RT HD
+http://cdn.troya.one:80/ch127/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIHgaS5yB7MTHYtSoJ3aIx1MTsYumZY_b1C_34oxtEOW
+#EXTINF:0,RTG HD
+http://cdn.troya.one:80/ch444/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNOZa4bsqN9js69MSnA0E_syeikAlJ041b5IgHQVJPXZ
+#EXTINF:0,RTG TV
+http://cdn.troya.one:80/ch629/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHq4HXL8uLl_MRbX67nvf95cGG1wg_vhn1-cLcFkAwYM
+#EXTINF:0,RTG TV
+http://cdn.troya.one:80/ch629/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHq4HXL8uLl_MRbX67nvf95cGG1wg_vhn1-cLcFkAwYM
+#EXTINF:0,RTVI
+http://cdn.troya.one:80/ch100/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCV_NsoOhOGSZhOlVFXQ0-sL5N0jRupAcqNhUfgAneWg
+#EXTINF:0,RTVI
+http://cdn.troya.one:80/ch100/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCV_NsoOhOGSZhOlVFXQ0-sL5N0jRupAcqNhUfgAneWg
+#EXTINF:0,RTД HD
+http://cdn.troya.one:80/ch439/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAvaeeNGpzLvUPBssgJlRGR-GJR8xVyyzVbCO3PXgBb-
+#EXTINF:0,RTД HD
+http://cdn.troya.one:80/ch439/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAvaeeNGpzLvUPBssgJlRGR-GJR8xVyyzVbCO3PXgBb-
+#EXTINF:0,RU.TV
+http://cdn.troya.one:80/ch027/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA0KDhKegS9uj3njtGuArA0u-r5SxIzwuR5EZRNmvWmd
+#EXTINF:0,Russian Extreme Ultra
+http://cdn.troya.one:80/ch378/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iECsvRFlHJe1AHKehhaGzl8l-X344Ll1s6oOQCk3ELTP
+#EXTINF:0,Scream
+http://cdn.troya.one:80/ch470/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKrxa00bKt2QzItSv0TpWvHKA2pY7HXFQJoYrN57uqCd
+#EXTINF:0,Scream
+http://cdn.troya.one:80/ch470/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKrxa00bKt2QzItSv0TpWvHKA2pY7HXFQJoYrN57uqCd
+#EXTINF:20,Shot TV
+http://cdn.troya.one:80/ch712/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEWtUOAD3DM4V2wXsqfSmholCHpAH39eSyhjqVi7wLdV
+#EXTINF:0,Sky High 3D
+http://cdn.troya.one:80/ch1977/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFkjFwVTcFn7mPNe4-VdTUmRZ2kSZiUgA--wXeUtBLui
+#EXTINF:0,Sky High 3D
+http://cdn.troya.one:80/ch1977/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFkjFwVTcFn7mPNe4-VdTUmRZ2kSZiUgA--wXeUtBLui
+#EXTINF:0,Sky High Adult HD
+http://cdn.troya.one:80/ch1986/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJHP6DkYauHa_mFSumC7cYLkUHIsgj0ca13ubI08BdDn
+#EXTINF:0,Sky High Anime HD
+http://cdn.troya.one:80/ch1970/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGZZtj2WC4Hg1XRHS5JhjBJYRksDuuzyevUKSujFzT1C
+#EXTINF:0,Sky High Anime HD
+http://cdn.troya.one:80/ch1970/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGZZtj2WC4Hg1XRHS5JhjBJYRksDuuzyevUKSujFzT1C
+#EXTINF:0,Sky High Brain HD
+http://cdn.troya.one:80/ch1984/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDYUsqlfHFPqZxAIekgdoxOIOov2TxlTcQPMIKVnkEZN
+#EXTINF:0,Sky High Bunny HD
+http://cdn.troya.one:80/ch1956/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMOtZngcmj5649Sb1JZ9vPXjJoZAKluysqoh6zPSSHb5
+#EXTINF:0,Sky High Classic HD
+http://cdn.troya.one:80/ch1960/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAYJYC9UfGJGRuPL9bnUytQSBcw7jhlnM7LpORlwdiT2
+#EXTINF:0,Sky High Classic HD
+http://cdn.troya.one:80/ch1960/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAYJYC9UfGJGRuPL9bnUytQSBcw7jhlnM7LpORlwdiT2
+#EXTINF:0,Sky High Concert HD
+http://cdn.troya.one:80/ch1957/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN0iKyaX0IML_l713gXimzGfrSJhoI0SU-EkvhZTsBsl
+#EXTINF:0,Sky High Dance HD
+http://cdn.troya.one:80/ch1958/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCV3Lyjt5z6wlihEk_CGT2WQRNTyoH90iFbL29auBy8-
+#EXTINF:0,Sky High Dance HD
+http://cdn.troya.one:80/ch1958/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCV3Lyjt5z6wlihEk_CGT2WQRNTyoH90iFbL29auBy8-
+#EXTINF:0,Sky High Doc UHD
+http://cdn.troya.one:80/ch1983/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI_bviDWgsJuJsF9rOVEkcBZvLj7zcFqXm6zy9ENv0vb
+#EXTINF:0,Sky High Fight+ HD
+http://cdn.troya.one:80/ch1981/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIRZuMGYxqWzwRvDlR_q_Ol5tHCNlMS-hCiFc8U93vC-
+#EXTINF:0,Sky High Fresh HD
+http://cdn.troya.one:80/ch1963/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIbs6ZB8XZ_2qd5hwFGrVUcpEo_on6SSB7-lRQaeTB27
+#EXTINF:0,Sky High Fresh HDR
+http://cdn.troya.one:80/ch1974/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNGn0mjFR0B_ZeK7i0uU_FmzI7zrIJiYLOvT6eio8pRY
+#EXTINF:0,Sky High Future HD
+http://cdn.troya.one:80/ch1968/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMk4QJZyGM2cHSCr7LtRwwIfy2r_fbvjn6_mKeN2dbJX
+#EXTINF:0,Sky High Heroes HD
+http://cdn.troya.one:80/ch1961/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIpmxbUr5z-KDlSgcXLVT822Q2VYBn2REw03MMSt16Rk
+#EXTINF:0,Sky High LO FI HD
+http://cdn.troya.one:80/ch1959/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLMpSzhcWb8L6TR1db1tmgIWWrNYPnkmidJTtTiSEPS3
+#EXTINF:0,Sky High LO FI HD
+http://cdn.troya.one:80/ch1959/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLMpSzhcWb8L6TR1db1tmgIWWrNYPnkmidJTtTiSEPS3
+#EXTINF:0,Sky High Man HD
+http://cdn.troya.one:80/ch1964/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDlM-2GKGOFq_su9_mnOKE9AUvGlRck1x6tyke_3Lkpu
+#EXTINF:0,Sky High Mix 4K
+http://cdn.troya.one:80/ch1971/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDokQtRRMK_JbX37AcFPWca2L8aTH-iOoD8Bg7uxbz0R
+#EXTINF:0,Sky High Mix 4K
+http://cdn.troya.one:80/ch1971/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDokQtRRMK_JbX37AcFPWca2L8aTH-iOoD8Bg7uxbz0R
+#EXTINF:0,Sky High Nature 4K
+http://cdn.troya.one:80/ch1978/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA6UJruKYKlZHHb5-8Rr0GqQhEKGYOLE07TiZVwMxkS9
+#EXTINF:0,Sky High Nature 4K
+http://cdn.troya.one:80/ch1978/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA6UJruKYKlZHHb5-8Rr0GqQhEKGYOLE07TiZVwMxkS9
+#EXTINF:0,Sky High Nature 4K HDR
+http://cdn.troya.one:80/ch1980/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBzY2uPd0tER0y5Rsv4uUWoFJMjhVxIRIujw0orJLqVD
+#EXTINF:0,Sky High Nature HD
+http://cdn.troya.one:80/ch1979/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGwKpZzzKUDEVstEcrzJ9cZPirxEFXVi_FxbeS9KAZFJ
+#EXTINF:0,Sky High Noir HD
+http://cdn.troya.one:80/ch1973/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM1WC5v_Ntf8Zxz6rCdlFbLkssLvkNOt3Mgx1yko2q_g
+#EXTINF:0,Sky High Noir HD
+http://cdn.troya.one:80/ch1973/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM1WC5v_Ntf8Zxz6rCdlFbLkssLvkNOt3Mgx1yko2q_g
+#EXTINF:0,Sky High Orig HD
+http://cdn.troya.one:80/ch1976/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAdoWTRehbzprgvr6reHKnwSYxSxNY34TF0KbV6Y5Wmt
+#EXTINF:0,Sky High Orig HD
+http://cdn.troya.one:80/ch1976/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAdoWTRehbzprgvr6reHKnwSYxSxNY34TF0KbV6Y5Wmt
+#EXTINF:0,Sky High Russian HD
+http://cdn.troya.one:80/ch1966/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDwNNoGzYiXmCREeROevJMDSHGSYFGTqDQISTntoO7lT
+#EXTINF:0,Sky High Series HD
+http://cdn.troya.one:80/ch1965/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHoSu9OxQTmeQpg1cesZz_v7j6lojGYvHZDzU21EwpP3
+#EXTINF:0,Sky High Sex VR
+http://cdn.troya.one:80/ch1987/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLJycwmgvL5O0dzpBiqGgXcWpPWKgSHAONNF4jaO--1f
+#EXTINF:0,Sky High Spirit HD
+http://cdn.troya.one:80/ch1969/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPCF9V_zOT3_ibDvFfNyV4gNPhFGFV6dmWZiJQQcNgIh
+#EXTINF:25,Sky High Standup HD
+http://cdn.troya.one:80/ch1985/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNn3gjwM5OzagoX_YfwPuijfxnb0bbchnFv-AVfeThRt
+#EXTINF:0,Sky High Standup HD
+http://cdn.troya.one:80/ch1985/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNn3gjwM5OzagoX_YfwPuijfxnb0bbchnFv-AVfeThRt
+#EXTINF:0,Sky High UHD HDR
+http://cdn.troya.one:80/ch1975/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIog63a-stIfS6a9NBjqB_blBaU89MT9zlujEUzdg5kN
+#EXTINF:0,Sky High VHS UHD
+http://cdn.troya.one:80/ch1972/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKXhRV-8oT1g2hq4OMKL4KAHEDIQU9fbwpe2N3AdB3qP
+#EXTINF:0,Sky High VHS UHD
+http://cdn.troya.one:80/ch1972/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKXhRV-8oT1g2hq4OMKL4KAHEDIQU9fbwpe2N3AdB3qP
+#EXTINF:20,Sky High Чбу HD
+http://cdn.troya.one:80/ch1967/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDXivNCA2CPi25FaMLwGqCdeBnZ2xHMd_noSDb6EeE3_
+#EXTINF:20,SKYHIGHEPOCHHD
+http://cdn.troya.one:80/ch1962/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP5-17dZB-bEYQfmCS7e3f5gZAChqeYpWvKQS6xHRJDl
+#EXTINF:22,Smartzone HD orig
+http://cdn.troya.one:80/ch718/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCe83yFxXXU-Kp3qwZBM7bt100qpmJfFALcFqX3CuMAh
+#EXTINF:0,Star Family HD
+http://cdn.troya.one:80/ch585/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKWpzn0jgJpItCmYQbIoXaJxb-pAg67ywhBbcOLFnEzh
+#EXTINF:20,Star Family HD UA
+http://cdn.troya.one:80/ch585/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKWpzn0jgJpItCmYQbIoXaJxb-pAg67ywhBbcOLFnEzh
+#EXTINF:0,Start Air HD
+http://cdn.troya.one:80/ch506/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDMzDZczeKri99V-ZhLnPb1Q6j7QIDdST43ITXd4PEiG
+#EXTINF:0,Start World HD
+http://cdn.troya.one:80/ch495/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKNXtOwoioYiLktdmDCr5KveN2w-cy37YOOSE7bMaiI-
+#EXTINF:0,Start World HD
+http://cdn.troya.one:80/ch495/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKNXtOwoioYiLktdmDCr5KveN2w-cy37YOOSE7bMaiI-
+#EXTINF:0,Stingray Greatest Hits
+http://cdn.troya.one:80/ch2754/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM3TYobTLswooKvwTPgeYjtODTSjZnMXubmbsNPdWZNr
+#EXTINF:0,Stingray Hot Country
+http://cdn.troya.one:80/ch2756/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iECrbZdps1oToVQKVW4y8OXamLACOO5PNkw9na734z5b
+#EXTINF:0,Stingray Lite TV
+http://cdn.troya.one:80/ch2759/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMrVELowq1q9P2utB6WD_bKAOMR1PMXVpcsqX3rjK-ur
+#EXTINF:0,Stingray Nature
+http://cdn.troya.one:80/ch2760/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNU5tQnmhjAHZCqbF1bJOkKnKQgo3kCZjeFN7VfA8gJh
+#EXTINF:24,Stingray Pop Adult
+http://cdn.troya.one:80/ch2761/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFvFLZegyGTx1tLB157FugAPlRadRXLOWAVbwtgdnKxa
+#EXTINF:24,Stingray Romance Latino
+http://cdn.troya.one:80/ch2763/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEZBtcMmecrF09xcGg_IjSFXcdKQtyn-G8wt7s2j5DFf
+#EXTINF:24,Stingray Smooth Jazz
+http://cdn.troya.one:80/ch2764/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEe5xh6OIH-lhU2_i9-nanWYmhC3Aez28H5LKbJW2saP
+#EXTINF:0,Stingray Soul Storm
+http://cdn.troya.one:80/ch2765/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF6UDmkR2JZA2dV_ts0VAlpDjZWoAqcE2LHbANMuziFH
+#EXTINF:24,Stingray Todays K-Pop
+http://cdn.troya.one:80/ch2757/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBAA8OqrwgELNq9OJIj1f7wV7bdxc3tAct3y5cvyRLo6
+#EXTINF:0,Stingray Todays Latin Pop
+http://cdn.troya.one:80/ch2767/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBivYUXK0MkiyttIbs3VMiu7m2-Epe4_GOZmRR4aRz59
+#EXTINF:0,Stingray Todays Latin Pop
+http://cdn.troya.one:80/ch2767/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBivYUXK0MkiyttIbs3VMiu7m2-Epe4_GOZmRR4aRz59
+#EXTINF:0,Stingray Urban Beats
+http://cdn.troya.one:80/ch2768/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKAmQaoPbL9bLPfiCIaZ1GIT3yPnBER4ee-h9js10XkA
+#EXTINF:23,Terra HD
+http://cdn.troya.one:80/ch2078/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGGbWcfGA39tcXEGJmir7xn_SHGo6WELJv1d_ULLcN2n
+#EXTINF:21,TLC HD orig
+http://cdn.troya.one:80/ch435/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOqk8kHbIgZpX-TIMMZsrG6r7EQ3vrxA543zcSqd-m0y
+#EXTINF:20,TOP BUDO HD
+http://cdn.troya.one:80/ch1070/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCv1mYk1bFDoG1G0zan8pvKd0sPfddfEiFIExqzkHJq3
+#EXTINF:20,TOP CINEMA HD
+http://cdn.troya.one:80/ch1071/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIuxeK68aExvXoZEDRyyqF4zLUh2Vob1dIGw8EKtutQt
+#EXTINF:0,TOP MIX HD
+http://cdn.troya.one:80/ch1073/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMyxaCaC0RTvH0gYy7auyBvJkV23WXY1iVU79xn9QfLL
+#EXTINF:0,TOP Великолепный Век
+http://cdn.troya.one:80/ch1068/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBaBrPkKEXUx9cMjljHVxxdnG9l3S99cbysThe9TcCm3
+#EXTINF:0,Trace urban
+http://cdn.troya.one:80/ch402/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKlo2OVi3amUwD_sth0K5p2K2IOsDloC3nGHMKl4ybZP
+#EXTINF:0,Trash HD
+http://cdn.troya.one:80/ch730/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLV1kazJVdAt3s3y_ttN6jdCMgCbfiRV-LgaCNQeIRj5
+#EXTINF:0,Travel Channel HD
+http://cdn.troya.one:80/ch445/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK3drJXfFXRo2yM8z0gasbLtdCNxnwWXnMK2HcuW6sam
+#EXTINF:0,Travel+Adventure HD
+http://cdn.troya.one:80/ch446/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDat9VbL0ong6oG-MI2_kq8MHkFvZ3SPYXGIex0pggFh
+#EXTINF:0,Travel+Adventure HD
+http://cdn.troya.one:80/ch446/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDat9VbL0ong6oG-MI2_kq8MHkFvZ3SPYXGIex0pggFh
+#EXTINF:0,Travelxp 4K
+http://cdn.troya.one:80/ch613/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPMF26AKTq4feWZvGFJsxOWKet31SMQENw8YRm2q3IbK
+#EXTINF:0,Travelxp 4K
+http://cdn.troya.one:80/ch613/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPMF26AKTq4feWZvGFJsxOWKet31SMQENw8YRm2q3IbK
+#EXTINF:20,TV XXI
+http://cdn.troya.one:80/ch469/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB24OmUVJsZ-IlTZ_GNQMo6Z8kUIQddsZlvxUT0kiN3t
+#EXTINF:20,VeleS 60FPS
+http://cdn.troya.one:80/ch2591/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iME78L6oJ9dC_HN2AI5oVDdXWbx7xwC-VCdhbugX39pV
+#EXTINF:0,VeleS Dj Set
+http://cdn.troya.one:80/ch2593/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLMITcswLcS_ix72TU_VN5s974lpJmfuUg0otS7zHiiY
+#EXTINF:0,VeleS Movie Hits
+http://cdn.troya.one:80/ch2598/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPd9gJDfvxiMHwZU97z9u3Xoqpl5OqVasG4pZEbeE3qY
+#EXTINF:0,VeleS Premiere
+http://cdn.troya.one:80/ch2595/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLV61Oj4fKR9sNPUrTnYg88xGt-MSTyWZtEcA-RUaJ6r
+#EXTINF:0,VeleS Аниме
+http://cdn.troya.one:80/ch2612/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBtAP0trjdCeyEWCjNwBHw0wbvMEGLwAeCPfl2raiedu
+#EXTINF:0,VeleS Вестерн
+http://cdn.troya.one:80/ch2801/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNUSWt7wSWWdkqXFUJcubIATJQ051ArzZqPFWDZEzl7_
+#EXTINF:24,VeleS Вестерн
+http://cdn.troya.one:80/ch2801/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNUSWt7wSWWdkqXFUJcubIATJQ051ArzZqPFWDZEzl7_
+#EXTINF:0,VeleS Кинопленка
+http://cdn.troya.one:80/ch2592/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA-EwHFNPC8qKLQt_kTTQhhmUHb0p6ANvVwqae1FNvao
+#EXTINF:0,VeleS Киносерия
+http://cdn.troya.one:80/ch2594/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLKAkrm_n6Gti5dO6A5Rqes1mAeHZ5ToHhkLZNmsjNfi
+#EXTINF:0,VeleS Комедия
+http://cdn.troya.one:80/ch2314/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFjbxT7gY-mJfaNK7ct-HB2fRUn-k0YctRVQaqEYNDQB
+#EXTINF:0,Veles Криминальный
+http://cdn.troya.one:80/ch2696/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF5CGhSP1OwOUHzEPE2z_d1qKDhkWjML9nCHvYuc8UF0
+#EXTINF:20,VeleS Магнитофон
+http://cdn.troya.one:80/ch2599/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iODJ_xW2rcFI04KVz3VYpfwBVeyVBEE2GNoQlHoJ9bHW
+#EXTINF:0,VeleS Магнитофон
+http://cdn.troya.one:80/ch2599/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iODJ_xW2rcFI04KVz3VYpfwBVeyVBEE2GNoQlHoJ9bHW
+#EXTINF:0,VeleS Наше Кино
+http://cdn.troya.one:80/ch2802/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHfgqU7vVG-sUHN0ejmrUnzBBZhyXcAbqgONvjLUJT_p
+#EXTINF:0,VeleS Наше Кино
+http://cdn.troya.one:80/ch2802/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHfgqU7vVG-sUHN0ejmrUnzBBZhyXcAbqgONvjLUJT_p
+#EXTINF:0,VeleS Семейный
+http://cdn.troya.one:80/ch2800/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBT5DqRuWbD2p4pWhAf10Qu9Ky9QXlfjNypepKGfz1wH
+#EXTINF:0,VeleS Семейный
+http://cdn.troya.one:80/ch2800/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBT5DqRuWbD2p4pWhAf10Qu9Ky9QXlfjNypepKGfz1wH
+#EXTINF:0,VeleS Страшное
+http://cdn.troya.one:80/ch2596/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP1gHrAxyylESTeZu0XalOa3_1LqYLMy-CBY9DM0xZPK
+#EXTINF:0,VeleS Триллер
+http://cdn.troya.one:80/ch2799/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNPW5MVtVJ3ucb0YuNmKuaAinZcECYP-yiW0mFS6I_xF
+#EXTINF:0,VeleS Триллер
+http://cdn.troya.one:80/ch2799/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNPW5MVtVJ3ucb0YuNmKuaAinZcECYP-yiW0mFS6I_xF
+#EXTINF:24,VHS-ка HD
+http://cdn.troya.one:80/ch383/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHFgvME2zHvbX6z_-qn44cl-oQ9sa2z9biZj110UJugn
+#EXTINF:0,Viasat Kino World HD
+http://cdn.troya.one:80/ch651/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD9hwibwMCeVBO9G3zr2TdBW4W4dtzDT_Ld6BYgjOKQi
+#EXTINF:0,Viasat Kino World HD
+http://cdn.troya.one:80/ch651/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD9hwibwMCeVBO9G3zr2TdBW4W4dtzDT_Ld6BYgjOKQi
+#EXTINF:0,Viju Explore HD
+http://cdn.troya.one:80/ch011/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPyXUmnsalUMymFyeDtYFlr7nsadJkwxuwGtI9q9ri9F
+#EXTINF:0,Viju History `HD
+http://cdn.troya.one:80/ch126/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPkEthgWhFnaAFHqXjstAg_AP2iGbgXIHe7saGAxYQzU
+#EXTINF:0,Viju Nature HD
+http://cdn.troya.one:80/ch012/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKhtbZF0NsV7fnSy2bXfIvzB7xVXRIDgemZmqxooUbiO
+#EXTINF:0,Viju TV 1000 Action HD
+http://cdn.troya.one:80/ch018/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJIQaGRxTCnitcuPnFmhAdsTLA3lUZssgiiZ9fVbDiW5
+#EXTINF:0,Viju TV 1000 HD
+http://cdn.troya.one:80/ch017/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL4fx4rZ7F5HIFf_iX-32vK4WBWVSvKLF0x3xujnWiSw
+#EXTINF:0,Viju TV 1000 Русское HD
+http://cdn.troya.one:80/ch013/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPQM2WVanEjbLZ_Dhik80V6pbSWwTWwh555YCOL5X1qE
+#EXTINF:0,Viju+ Comedy HD
+http://cdn.troya.one:80/ch058/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGFUHAfpWXIwE6hdTyGoJEuOP7TJjiHIorqo2StIi5jx
+#EXTINF:0,Viju+ Megahit HD
+http://cdn.troya.one:80/ch059/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC8Rrbccei-xof3m8vEdq8PsaddpGcUi4NxO24crB192
+#EXTINF:0,Viju+ Planet HD
+http://cdn.troya.one:80/ch2454/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDFLgQ3M1HtLVdkI1Dg84Hb0QAhT4N1WNS5fqUpvc9Zz
+#EXTINF:0,Viju+ Premiere HD
+http://cdn.troya.one:80/ch060/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCLofflkxA27_0hwptuE3_TDp5s10r0H0kgyfQ1AVcJu
+#EXTINF:0,Viju+ Serial HD
+http://cdn.troya.one:80/ch701/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPHLYdmMQ6Cg1mrZ1zD8Oq08PnkfLmZJ-jLVdoDkEQ8n
+#EXTINF:0,Yosso 4K
+http://cdn.troya.one:80/ch1316/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMlpdSyo4NGQJY3uhnfrfwJNg14oAlOqw4sQ5fMXcqkP
+#EXTINF:0,Yosso TV 4K HDR
+http://cdn.troya.one:80/ch496/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL_9y3_KEUsiCvMPk7I5bh-cwtBUPHZht-mB_pOgCD18
+#EXTINF:0,Yosso TV Adrenaline
+http://cdn.troya.one:80/ch1310/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFrrTaq6cAdIR2voDU4xdOt-aC0ZAoC3bVDiMOQUXX8r
+#EXTINF:0,Yosso TV Adventure
+http://cdn.troya.one:80/ch1312/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLhiAPBiVzFu5sVvXw33AblAF-c_ofE6w6MmcaBQZdvD
+#EXTINF:0,Yosso TV Adventure
+http://cdn.troya.one:80/ch1312/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLhiAPBiVzFu5sVvXw33AblAF-c_ofE6w6MmcaBQZdvD
+#EXTINF:0,Yosso TV Best
+http://cdn.troya.one:80/ch1308/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBzw7coWokOTPkBJek09BilT_2QKAehDquoZC3ba2hH9
+#EXTINF:0,Yosso TV Best
+http://cdn.troya.one:80/ch1308/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBzw7coWokOTPkBJek09BilT_2QKAehDquoZC3ba2hH9
+#EXTINF:0,Yosso TV Best 60fps
+http://cdn.troya.one:80/ch2457/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6Z9iZLF2HFt9WWgdCsKZn0yIz3b6ZbqFehb4zefp7F
+#EXTINF:0,Yosso TV Best 60fps
+http://cdn.troya.one:80/ch2457/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ6Z9iZLF2HFt9WWgdCsKZn0yIz3b6ZbqFehb4zefp7F
+#EXTINF:0,Yosso TV C-Comedy
+http://cdn.troya.one:80/ch1002/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKR4vDf6mg8CmWVqSTer_U1wHz1LYGpqZoOTGHcFOY3c
+#EXTINF:0,Yosso TV C-Comedy
+http://cdn.troya.one:80/ch1002/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKR4vDf6mg8CmWVqSTer_U1wHz1LYGpqZoOTGHcFOY3c
+#EXTINF:0,Yosso TV C-History HD
+http://cdn.troya.one:80/ch1575/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKtjt0gLoyR9sF8aq2qzhSkMNHh1KAZnBNI4LgStQsSl
+#EXTINF:0,Yosso TV C-History HD
+http://cdn.troya.one:80/ch1575/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKtjt0gLoyR9sF8aq2qzhSkMNHh1KAZnBNI4LgStQsSl
+#EXTINF:0,Yosso TV C-Holiday
+http://cdn.troya.one:80/ch394/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHGjOSX1cl1xznw2__yL_KkvmbXmeGYp4G1-_1NRW1Ah
+#EXTINF:0,Yosso TV C-Holiday
+http://cdn.troya.one:80/ch394/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHGjOSX1cl1xznw2__yL_KkvmbXmeGYp4G1-_1NRW1Ah
+#EXTINF:0,Yosso TV C-Inquest
+http://cdn.troya.one:80/ch1001/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCCp3-Vgimo4pALBojw3BgkhaJ6b7z-LyRII-BxbnuZr
+#EXTINF:0,Yosso TV C-Live
+http://cdn.troya.one:80/ch2064/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAJPm2RmfIy3qc_ipZznw618YW9LV3XOmkpCoWPMCcTR
+#EXTINF:0,Yosso TV C-Live
+http://cdn.troya.one:80/ch2064/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAJPm2RmfIy3qc_ipZznw618YW9LV3XOmkpCoWPMCcTR
+#EXTINF:0,Yosso TV C-Marvel
+http://cdn.troya.one:80/ch1315/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO9ET-KEW4Qil0TagQkIqqTOdsa058qPBwjuJpL---lt
+#EXTINF:0,Yosso TV Cartoon
+http://cdn.troya.one:80/ch1314/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBoptQGwedJIB3IyjP6oAKUClsYqgtiC1eWLcVC5iXn3
+#EXTINF:0,Yosso TV Cartoon
+http://cdn.troya.one:80/ch1314/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBoptQGwedJIB3IyjP6oAKUClsYqgtiC1eWLcVC5iXn3
+#EXTINF:0,Yosso TV Disney
+http://cdn.troya.one:80/ch2456/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOM8HeDk9ec-wqpj8-5Xpe7RJ0tFf0SbvmdJ2jtiKBuX
+#EXTINF:0,Yosso TV Food
+http://cdn.troya.one:80/ch2603/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKdA7AOmhXGGxgEOBgxSSurds-jCTaRbVTInTqaAdZqS
+#EXTINF:0,Yosso TV Grand
+http://cdn.troya.one:80/ch1297/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBLxVOU66TFx1L6J-lUGk2L_pjqoobN_gSaqEbt6Gm4W
+#EXTINF:0,Yosso TV Nature
+http://cdn.troya.one:80/ch2604/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHIOhe8WMhRBEKJhgRJAE5MwN-VSRBD0yUhFLmdYlz3s
+#EXTINF:0,Yosso TV Netflix
+http://cdn.troya.one:80/ch2455/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMS1GCC_D4x57R3B8Hj6n4aPgz2th5C6zk1Fx19JQJLL
+#EXTINF:0,Yosso TV New Кино
+http://cdn.troya.one:80/ch1303/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOxH08HcXS9sQ6o_DjB5cCQnkBnlhFZPCwtzJCdtDkEM
+#EXTINF:0,Yosso TV Oblivion
+http://cdn.troya.one:80/ch1311/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFh3uAlpKMZ5uJs7gpwokrkJsq09Ujlcxw9LMz0qV5XV
+#EXTINF:0,Yosso TV Science
+http://cdn.troya.one:80/ch2605/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDxKwiH_Ou_xR7PXw8iD4Bst9wq7pQzTkvrVp5L64lEy
+#EXTINF:0,Yosso TV Science
+http://cdn.troya.one:80/ch2605/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDxKwiH_Ou_xR7PXw8iD4Bst9wq7pQzTkvrVp5L64lEy
+#EXTINF:0,Yosso TV Sexy
+http://cdn.troya.one:80/ch1302/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPO3m8EkPq6Gg1h-2203qcN8Q_iGzDVlC7WQjeiXl8jm
+#EXTINF:0,Yosso TV Sexy
+http://cdn.troya.one:80/ch1302/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPO3m8EkPq6Gg1h-2203qcN8Q_iGzDVlC7WQjeiXl8jm
+#EXTINF:0,Yosso TV Thriller
+http://cdn.troya.one:80/ch1313/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDo0ZAWUmT-rM0t23LojRF2m2MmlnNruxJ7Pyfjz7Wb1
+#EXTINF:0,Yosso TV Travel
+http://cdn.troya.one:80/ch2606/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBLl0M_Izwu03AW3Tk9ZxJbS-AK1YJrWnEaUr99dIkBj
+#EXTINF:0,Yosso TV Travel
+http://cdn.troya.one:80/ch2606/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBLl0M_Izwu03AW3Tk9ZxJbS-AK1YJrWnEaUr99dIkBj
+#EXTINF:0,Yosso TV VHS
+http://cdn.troya.one:80/ch1298/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOiZ7OTvM0Fwzw3m2l_1bGGQZXSh1-BDBpmN5VbGeW4Z
+#EXTINF:0,Yosso TV VHS
+http://cdn.troya.one:80/ch1298/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOiZ7OTvM0Fwzw3m2l_1bGGQZXSh1-BDBpmN5VbGeW4Z
+#EXTINF:33,Yosso TV Забавное
+http://cdn.troya.one:80/ch1307/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHbB9RB2sLq_kNWP898YdBguBridv0h5F0POLpvu-XQc
+#EXTINF:0,Yosso TV Ковбойское
+http://cdn.troya.one:80/ch1309/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ4q9WMkArLBhYl65JSCP0PtpM14C0Wl7Y9M1uSAx6wJ
+#EXTINF:0,Yosso TV Мелодрама
+http://cdn.troya.one:80/ch2062/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB9ty2u2qv_PzbVhrFjsW8s5ffeMqrYLdeAy6oyPwytb
+#EXTINF:0,Yosso TV Трагичное
+http://cdn.troya.one:80/ch1306/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHN9EjVHXCo9lVfUwC9fQ8yheISnkcvIamqg7cEIDAff
+#EXTINF:0,Блокбастер HD
+http://cdn.troya.one:80/ch689/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBCj_vTzrHlBqVbZgKhueQAWuj9KBEnFiq78LOHP_8jN
+#EXTINF:24,Болт
+http://cdn.troya.one:80/ch604/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJbPCunMCyOjo-6mRG2zN6iyzsaHNMAvGzEcJr3rBpOC
+#EXTINF:0,Глазами туриста 4K
+http://cdn.troya.one:80/ch566/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJzZsP447SeiWARL_DTPLRgq7nyu9QUfLjQvMknZWw9S
+#EXTINF:0,Глазами туриста HD
+http://cdn.troya.one:80/ch632/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAe58ye-yuTZuf5Vk2WRA3lQvacGizTT6Gt_dYWHcWjx
+#EXTINF:0,Глазами туриста HD
+http://cdn.troya.one:80/ch632/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAe58ye-yuTZuf5Vk2WRA3lQvacGizTT6Gt_dYWHcWjx
+#EXTINF:0,Дождь
+http://cdn.troya.one:80/ch088/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIkhZMVjiJg-Fw8HzDvyoiMczkT091ETM20kcyX5Pblf
+#EXTINF:0,Дом Кино
+http://cdn.troya.one:80/ch078/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIpbvXvSabDQJaSuLfpnUhRuACUgM1ChKVFxPr6X8BT3
+#EXTINF:0,Дом Кино
+http://cdn.troya.one:80/ch078/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIpbvXvSabDQJaSuLfpnUhRuACUgM1ChKVFxPr6X8BT3
+#EXTINF:0,Дом Кино Премиум HD
+http://cdn.troya.one:80/ch080/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNVL-9uxKT7oghPOWzVZbSurausc9IbpwXL9NjZbtrCQ
+#EXTINF:0,Домашние животные
+http://cdn.troya.one:80/ch626/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAbLlhBrhFZyqWxEzePmMbO36t4wFS7nx-f8L2m65wTT
+#EXTINF:0,Дорама HD
+http://cdn.troya.one:80/ch535/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJcVDzqwtSG0tmftu8kxHNzr1BzGKiMFnDT6XUkMwhmU
+#EXTINF:0,Дорама HD
+http://cdn.troya.one:80/ch535/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJcVDzqwtSG0tmftu8kxHNzr1BzGKiMFnDT6XUkMwhmU
+#EXTINF:0,ЕвроКино
+http://cdn.troya.one:80/ch033/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF9AZ36-E5739Bk24nF_o_0o2OUVjU484VUUm3Q7upX7
+#EXTINF:0,Еврокино HD
+http://cdn.troya.one:80/ch537/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMZwcu5VRAGL8JW6QCjbR9Pm3IYcIWJIaxWZEd5rDBQu
+#EXTINF:0,Еврокино HD
+http://cdn.troya.one:80/ch537/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMZwcu5VRAGL8JW6QCjbR9Pm3IYcIWJIaxWZEd5rDBQu
+#EXTINF:0,Еда
+http://cdn.troya.one:80/ch538/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHmMUT9HiU-yw1f9pbINKlQ0uuATkkyoTiRrPFBvicl0
+#EXTINF:0,Жара HD
+http://cdn.troya.one:80/ch529/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIYxQbJEBiotdfpEmHFWDzO21EnCVlRnJLLuKGFAQpkF
+#EXTINF:0,Жара HD
+http://cdn.troya.one:80/ch529/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIYxQbJEBiotdfpEmHFWDzO21EnCVlRnJLLuKGFAQpkF
+#EXTINF:0,Загородный
+http://cdn.troya.one:80/ch624/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL5bflH2kqhnIMVsO3HEtxb-80gtGDtTd1oiQ3goOK6c
+#EXTINF:0,Загородный
+http://cdn.troya.one:80/ch624/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iL5bflH2kqhnIMVsO3HEtxb-80gtGDtTd1oiQ3goOK6c
+#EXTINF:0,Загородный int HD
+http://cdn.troya.one:80/ch667/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBvUHEqs6kgZtuLqBKJsOgp92HDE-3HAgJaEhYOKqnxQ
+#EXTINF:0,Здоровое ТВ
+http://cdn.troya.one:80/ch539/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJQHOskJ6HAwHwryPz1T7LJ8k4IBlIZF3OMLjLmZVaNb
+#EXTINF:0,Здоровое ТВ
+http://cdn.troya.one:80/ch539/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJQHOskJ6HAwHwryPz1T7LJ8k4IBlIZF3OMLjLmZVaNb
+#EXTINF:24,Иллюзион+
+http://cdn.troya.one:80/ch114/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDsmlDpM6OKyyvSqnmX5zouvtUesNb153cpZcoqV_Lp7
+#EXTINF:20,История
+http://cdn.troya.one:80/ch442/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMjhA9q9tT1Tc9xdhS7eS_rTpz16Adlx-Na8qT97CK3U
+#EXTINF:20,История
+http://cdn.troya.one:80/ch442/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMjhA9q9tT1Tc9xdhS7eS_rTpz16Adlx-Na8qT97CK3U
+#EXTINF:0,Камеди HD
+http://cdn.troya.one:80/ch692/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOv7bFDwEBGMFxTUGFSYPae3rjs4fL72LRk0u9UJJ-am
+#EXTINF:20,Камеди HD
+http://cdn.troya.one:80/ch692/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOv7bFDwEBGMFxTUGFSYPae3rjs4fL72LRk0u9UJJ-am
+#EXTINF:0,Кинеко HD
+http://cdn.troya.one:80/ch2079/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAFSpYlr1Nt1GG7koJTNxSpjNJdI9JRrtY1RFxicRCny
+#EXTINF:0,Кинеко HD
+http://cdn.troya.one:80/ch2079/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAFSpYlr1Nt1GG7koJTNxSpjNJdI9JRrtY1RFxicRCny
+#EXTINF:0,Кино UHD
+http://cdn.troya.one:80/ch511/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPA83Iz2dxnS9-CA-i5rz6cmNXDbvmMFLO5zsfGTYZR6
+#EXTINF:0,Кино ТВ HD
+http://cdn.troya.one:80/ch077/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMVLzLhaLVhmZOGmbO9Xq3z0K-x42w-bAjEsEwGtgy5a
+#EXTINF:0,Киноджем 1 HD
+http://cdn.troya.one:80/ch542/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ-_rJLeRL55eUT3C6xk1EbR56iXFM31zfv9Skt4eTrh
+#EXTINF:0,Киноджем 2 HD
+http://cdn.troya.one:80/ch521/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMB3fvCzOGDcJK6oNB6-EW1RQEKvOEtklqaFI01ENUeI
+#EXTINF:0,Киноджем 2 HD
+http://cdn.troya.one:80/ch521/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMB3fvCzOGDcJK6oNB6-EW1RQEKvOEtklqaFI01ENUeI
+#EXTINF:0,Кинокомедия HD
+http://cdn.troya.one:80/ch460/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKmLn5QKwAlB-ygcGCU2EgJaDaLjwnbIF-l81IX5_-Cc
+#EXTINF:0,Киноман
+http://cdn.troya.one:80/ch619/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH0plmIL5dri3lu497dGi7bgQBFe7XUHSbtYOf0fURfj
+#EXTINF:0,Киноман
+http://cdn.troya.one:80/ch619/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH0plmIL5dri3lu497dGi7bgQBFe7XUHSbtYOf0fURfj
+#EXTINF:0,Киномикс HD
+http://cdn.troya.one:80/ch079/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG9tNuRia04SuMtB8R9wvSxc0ltNEiNxXQQiO07-ewfT
+#EXTINF:0,Кинопоказ
+http://cdn.troya.one:80/ch466/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAa8M7jfa4nF9DO16wjgdHj4x7lTIbuogcL9lXtVrZBi
+#EXTINF:0,Кинопремьера HD
+http://cdn.troya.one:80/ch054/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJUGLyFpN9uXSJ5Q1rmSbK48ilLqM9D6-Sitm_K2JMj2
+#EXTINF:0,Кинопремьера HD
+http://cdn.troya.one:80/ch054/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJUGLyFpN9uXSJ5Q1rmSbK48ilLqM9D6-Sitm_K2JMj2
+#EXTINF:0,Киносвидание HD
+http://cdn.troya.one:80/ch010/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA69iY_4L6N49HV8_WeThZE4KqFQicbch3TETzsTuzRn
+#EXTINF:0,Киносвидание HD
+http://cdn.troya.one:80/ch010/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA69iY_4L6N49HV8_WeThZE4KqFQicbch3TETzsTuzRn
+#EXTINF:0,Киносемья HD
+http://cdn.troya.one:80/ch008/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9yC0dpkbR7fCo0NCxYz-79TMI15Wqd0DCFlVAbVeWT
+#EXTINF:0,Киносемья HD
+http://cdn.troya.one:80/ch008/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iI9yC0dpkbR7fCo0NCxYz-79TMI15Wqd0DCFlVAbVeWT
+#EXTINF:0,Киносерия HD
+http://cdn.troya.one:80/ch668/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF8UtJdVLp9SLYQXChnVA3lTfs7cc_3LXowt2FUAJMz3
+#EXTINF:0,Киноужас HD
+http://cdn.troya.one:80/ch652/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCDoqxWfe02s3SvySGQm3cJyuXK8HHAGs1yPih6L_PdK
+#EXTINF:0,Кинохит HD
+http://cdn.troya.one:80/ch009/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ4rl0GVUrGKBHol93R0D-pI-MuDF8in9VE-aFeNbXx_
+#EXTINF:24,Ключ ТВ
+http://cdn.troya.one:80/ch2307/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLq6EXn4dqAl1kgooHN2LNIXcJD-3yJ0BjLFbJEnrSDh
+#EXTINF:0,Комедийное HD
+http://cdn.troya.one:80/ch136/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB1fmtt9BbwqjKYGfPivcOUlisCj5QFNrMgF-ImYuw3K
+#EXTINF:0,Комедия
+http://cdn.troya.one:80/ch105/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFG9ePHfNGpEboWtjF8dCFTgr0BRzxJFEw4jzcmCeTqt
+#EXTINF:0,Комедия
+http://cdn.troya.one:80/ch105/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFG9ePHfNGpEboWtjF8dCFTgr0BRzxJFEw4jzcmCeTqt
+#EXTINF:0,Конный Мир HD
+http://cdn.troya.one:80/ch133/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEZ5fLctaMfnPCoOOG2VZuCgwyWIScp4HBrNiTEhjzGM
+#EXTINF:0,Космический HD
+http://cdn.troya.one:80/ch436/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLreMp6LHTe041wZrRtkias7p3OR_yMCsHiOGOOoYN28
+#EXTINF:0,Космический HD
+http://cdn.troya.one:80/ch436/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLreMp6LHTe041wZrRtkias7p3OR_yMCsHiOGOOoYN28
+#EXTINF:0,Красная линия
+http://cdn.troya.one:80/ch540/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJdfM-ZclYLUlOn3DOJeInwSh0h_MAAuzOZL0-t0t3jR
+#EXTINF:0,Криминальное HD
+http://cdn.troya.one:80/ch2127/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJlZuIHU6KiE79-DQisuLNtyAcjEcWwFttqBDpxt6tXz
+#EXTINF:0,Криминальное HD
+http://cdn.troya.one:80/ch2127/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJlZuIHU6KiE79-DQisuLNtyAcjEcWwFttqBDpxt6tXz
+#EXTINF:0,Кто есть кто
+http://cdn.troya.one:80/ch616/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNRTocNr4cZeG15ioYEhmRMUa9-iq3Ii6sx402gHdg3n
+#EXTINF:0,Кухня ТВ
+http://cdn.troya.one:80/ch046/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGAoK7kdgwQF1tnotvrPzB73U5MX75xgAGCjdpQ5iN6O
+#EXTINF:0,Кухня ТВ
+http://cdn.troya.one:80/ch046/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGAoK7kdgwQF1tnotvrPzB73U5MX75xgAGCjdpQ5iN6O
+#EXTINF:24,Любимое Кино
+http://cdn.troya.one:80/ch463/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPoQCfx1pScOcS1Vtg3aN7LSaBjiV0mmBsVsPkNzJLsV
+#EXTINF:24,Мир Вокруг HD
+http://cdn.troya.one:80/ch664/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJA_1v9-KJD4xRsFr49bS56XBW7347kYUsDhIa4ay4_R
+#EXTINF:0,Мир сериала
+http://cdn.troya.one:80/ch636/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPwLwLjSH-j1YqKGkMocbkE6L-MTp_jFynKt7DU6IvqJ
+#EXTINF:0,Моя Планета HD
+http://cdn.troya.one:80/ch142/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCtlm8Ty7RGtxGWjZ_dJYIiRlB6jQqRpSPPFInGQ77Bk
+#EXTINF:0,Мужское кино HD
+http://cdn.troya.one:80/ch112/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4CNF-RoyqQdWmApygU3knX9oJxIDdRvZ3iPdK3GBio
+#EXTINF:0,Мужское кино HD
+http://cdn.troya.one:80/ch112/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4CNF-RoyqQdWmApygU3knX9oJxIDdRvZ3iPdK3GBio
+#EXTINF:0,Нaстоящее время HD
+http://cdn.troya.one:80/ch528/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJsI4ud7NFEHJmswjCAUBNXcBsKv5MEJgKCQ9RJHnVC2
+#EXTINF:0,НСТ
+http://cdn.troya.one:80/ch117/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDKg1TOXHkgnGWgYkCgH9dPSXzvESbjN66Dc5PfOCcxw
+#EXTINF:0,Нано HD
+http://cdn.troya.one:80/ch437/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOLE6MwKezWcgRnrsJHTt_rdDLq1uZyekW2dICs5COvo
+#EXTINF:0,Нано HD
+http://cdn.troya.one:80/ch437/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOLE6MwKezWcgRnrsJHTt_rdDLq1uZyekW2dICs5COvo
+#EXTINF:20,Наука 2.0
+http://cdn.troya.one:80/ch073/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFT7y8vLfyDTGKlXH-3vbySi5DL86JR3PsZw23xqXesb
+#EXTINF:0,Наш Кинопоказ HD
+http://cdn.troya.one:80/ch714/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBRIO3yWm8AiWugrf6GUyVWO-V0e0FZ0SS-EYVY6eJnJ
+#EXTINF:0,Наш Кинопоказ HD
+http://cdn.troya.one:80/ch714/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBRIO3yWm8AiWugrf6GUyVWO-V0e0FZ0SS-EYVY6eJnJ
+#EXTINF:0,Наша сибирь 4K
+http://cdn.troya.one:80/ch640/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBrpkN3HNwXbqbds0Ov0_GHxgdRzJXr-mCZLrH1PCsR7
+#EXTINF:0,Наше HD
+http://cdn.troya.one:80/ch131/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLYpT5NkjYZGSap2CKj8cs3NGfqLD975XRJJ2EplZ8b-
+#EXTINF:0,Наше Мужское HD
+http://cdn.troya.one:80/ch589/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGzf-b8k1c4RXHpj24W4DlnzSqOu9-Fr1WGcNO_YieT4
+#EXTINF:0,Наше Мужское HD
+http://cdn.troya.one:80/ch589/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGzf-b8k1c4RXHpj24W4DlnzSqOu9-Fr1WGcNO_YieT4
+#EXTINF:0,Наше любимое HD
+http://cdn.troya.one:80/ch139/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLXHqC86xYjLWKRCJSXFbkh9kwcJt-eaY3XWwb8pgRwk
+#EXTINF:0,Наше новое кино
+http://cdn.troya.one:80/ch015/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHPm38WTVAO7P-QcKSZU6-RDR9MErJsp4N5lqhIw4M3N
+#EXTINF:0,Ностальгия
+http://cdn.troya.one:80/ch113/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCI6BH-LUiCcCSsxfzcZjAoCU9oGuWhH9lJ1dJ35g_nN
+#EXTINF:0,Остросюжетное HD
+http://cdn.troya.one:80/ch072/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDy_4NqreZYcNPIAvW4LPDNaGzSa8uWB_MGMIJy6FbrB
+#EXTINF:20,Поехали! HD
+http://cdn.troya.one:80/ch710/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMssHiAkVHw_6DwryyNsFWlao4k-S6AHvA1v4xu-VwsR
+#EXTINF:0,Премиальное HD
+http://cdn.troya.one:80/ch084/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPoPmA-dvQzKgsvtTKitcFnY8ozUJSnhtMEJ39TPXn9J
+#EXTINF:0,Приключения HD
+http://cdn.troya.one:80/ch143/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN-8xda8xluP_jN7ZYlW14htLfhoZa9nLh0QXLZUDx9n
+#EXTINF:0,Приключения HD
+http://cdn.troya.one:80/ch143/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN-8xda8xluP_jN7ZYlW14htLfhoZa9nLh0QXLZUDx9n
+#EXTINF:0,Радость Моя
+http://cdn.troya.one:80/ch487/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF3J8TEgX0umxEu-uQ3QNPD0zEqdyiZV2ZU_w5rUEK88
+#EXTINF:0,Родное кино
+http://cdn.troya.one:80/ch116/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLoBBQse8h0EfdzIzBp5BUFW70z7iYYqpZb78_ELJ2gK
+#EXTINF:25,Романтичное HD
+http://cdn.troya.one:80/ch098/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPl1gQhynfnxUkNRGZhZ9yS5Lxdxra4DhBDPI_oFM9bc
+#EXTINF:0,Романтичное HD
+http://cdn.troya.one:80/ch098/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPl1gQhynfnxUkNRGZhZ9yS5Lxdxra4DhBDPI_oFM9bc
+#EXTINF:0,Русский Иллюзион
+http://cdn.troya.one:80/ch101/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHoAEizwAnLfbKPYyrrE1J8SYLM4-CwfH6WynMgdklSH
+#EXTINF:0,Русский Иллюзион
+http://cdn.troya.one:80/ch101/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHoAEizwAnLfbKPYyrrE1J8SYLM4-CwfH6WynMgdklSH
+#EXTINF:0,Русский бестселлер
+http://cdn.troya.one:80/ch115/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC31f2vHlMcVFGMy5pw4qmp6aImGxsWpTpSY-CmdgXK2
+#EXTINF:0,Русский роман
+http://cdn.troya.one:80/ch132/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIZziWOV4PWIsZ9OxfK-atTRO3uVL_VQkLapwziLkbC6
+#EXTINF:0,Сапфир HD
+http://cdn.troya.one:80/ch2077/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCPfPzRhe5k1LFn9W_1vktL69BUezYkHWywA7yFzj2H8
+#EXTINF:0,Сапфир HD
+http://cdn.troya.one:80/ch2077/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCPfPzRhe5k1LFn9W_1vktL69BUezYkHWywA7yFzj2H8
+#EXTINF:0,Сарафан
+http://cdn.troya.one:80/ch026/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAmA7lc3pNiw1jCJJzLqnq9yHCk_Cl8GcCBaRxXIzOj4
+#EXTINF:24,Сериал UHD
+http://cdn.troya.one:80/ch642/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE5f-1JAHLeO-A_Njqh9UzP8-WmMmKCSSYj1HlqVwjiO
+#EXTINF:0,Сериал UHD
+http://cdn.troya.one:80/ch642/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE5f-1JAHLeO-A_Njqh9UzP8-WmMmKCSSYj1HlqVwjiO
+#EXTINF:0,Синема HD
+http://cdn.troya.one:80/ch467/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMwGs8PpNB4AXVdpHrhgFi_SMMsicemW3JeEhBkTzjfc
+#EXTINF:0,Страшное HD
+http://cdn.troya.one:80/ch468/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPyxEoAxmOh0Z07wTXlRFzfdYjbrGcLljU7Z8tqnRQmq
+#EXTINF:24,Тайна
+http://cdn.troya.one:80/ch543/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iErdgxkeOo4QXRO63LWpE08Ce7JYlknyinFbsHRRoYDa
+#EXTINF:24,Тайна
+http://cdn.troya.one:80/ch543/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iErdgxkeOo4QXRO63LWpE08Ce7JYlknyinFbsHRRoYDa
+#EXTINF:20,Тайны Галактики HD
+http://cdn.troya.one:80/ch148/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGM5k_YgIxqV8aCyzfhFk18tZIoOY2MXGfSzLmIh3T_S
+#EXTINF:24,Телепутешествия
+http://cdn.troya.one:80/ch659/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPU3V7o4qjFzF4uS703t7tFA0CEuTVfthip1Ez0l2zvF
+#EXTINF:20,Техно 24
+http://cdn.troya.one:80/ch438/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNV4ba6kZLMxfuIRqeqSFEPRK9u6EGdAqbnF-RN6cfT5
+#EXTINF:20,Техно 24
+http://cdn.troya.one:80/ch438/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNV4ba6kZLMxfuIRqeqSFEPRK9u6EGdAqbnF-RN6cfT5
+#EXTINF:20,Феникс+ Кино
+http://cdn.troya.one:80/ch505/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKtISZ6nKfbFhiYnstJcHHCWnlZkd4FPnQ1nZoET-emx
+#EXTINF:20,аЅаИб HD
+http://cdn.troya.one:80/ch691/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLoEDTWkJKnePjco6D4XbHHD7Jf4ZsyivqDGZlxZNfDF
+#EXTINF:0,Шокирующее HD
+http://cdn.troya.one:80/ch134/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK2dS8CzBQe60i8d4B0w9ynfJCrAvnWEPdsDyQmxvBPc
