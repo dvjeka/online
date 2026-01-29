@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://rostishkatv.space/iptv/epg.xml.gz"
 #EXTINF:0, .Sci-Fi
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:0, .Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:0, .Sci-Fi HD
+http://45.159.74.22/Kinoseriya/mono.m3u8
 #EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="124" ,Amedia 1 [FHD]
 https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/A1_FHD.m3u8
 #EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="125" ,Amedia 2 [FHD]
