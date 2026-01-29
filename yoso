@@ -1,1 +1,872 @@
-#EXTM3U
+#EXTM3U url-tvg="https://rostishkatv.space/iptv/epg.xml.gz"
+#EXTINF:0, .Sci-Fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="124" ,Amedia 1 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/A1_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="125" ,Amedia 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/A2_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="126" ,Amedia Hit
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/AmediaHit.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="126" ,Amedia Hit [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/AmediaHit_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="127" ,Viju TV1000
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="127" ,Viju TV1000 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="129" ,Viju TV1000 Action
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000_Action.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="129" ,Viju TV1000 Action [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000_Action_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="131" ,Viju TV1000 Русское
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000Rus.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="131" ,Viju TV1000 Русское [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000Rus_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="133" ,Viju Comedy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Comedy_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="134" ,Viju Megahit [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Megahit_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="135" ,Viju Premiere [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Premiere_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="136" ,Viju Serial [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Serial_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="noname" ,Viju TV1000 Новелла [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000_Novella_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="137" ,Viasat Kino Megahit [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viasat_Kino_Megahit_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="99" ,Viju TV1000 Romantica [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_TV1000_Romantica_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="138" ,Viasat Serial [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viasat_Serial_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="143" ,Start Air [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/StartAir_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="144" ,Start World [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/StartWorld_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="145" ,Кино ТВ
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KinoTV.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="145" ,Кино ТВ [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kino_TV_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="148" ,Сапфир [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Sapfir_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="149" ,Кинеко
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kineko.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="149" ,Кинеко [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kineko_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="150" ,Дом Кино Премиум [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/DomKinoPremium_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="151" ,Дом кино
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/DomKino.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="158" ,Киносерия
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_KinoSeriya.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="158" ,Киносерия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_KinoSeriya_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="160" ,Наше новое кино [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_NasheNovoeKino_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="162" ,Кинокомедия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_KinoComedy_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="164" ,Киносемья
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_KinoFamily_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="165" ,Киносвидание [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_KinoSvidanie_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="166" ,Индийское Кино
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NastroiKino_IndiyskoeKino.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="170" ,TV XXI
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TVXXI.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="noname" ,Всё ТВ [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VseTV_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="175" ,Кино 1 International
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kino1Int.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="180" ,Наш Кинопоказ [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NashKinopokaz.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="181" ,Comedy Central
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/ComedyCentral.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="182" ,Премиальное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Premialnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="183" ,Остросюжетное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Ostrosuzetnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="184" ,Криминальное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kriminalnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="185" ,Блокбастер [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Blokbaster_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="186" ,Русский роман [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/RusRonan_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="188" ,Fox Life [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Fox_Life_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="189" ,Hollywood
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Hollywood.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="189" ,Hollywood [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Hollywood_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="192" ,Хит [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Hit_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="193" ,Наше [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Nashe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="194" ,Наше Мужское [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Nashe_Muzhskoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="195" ,Наше любимое [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Nashe_lubimoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="196" ,KinoJam 1 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KinoJam_1_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="197" ,KinoJam 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KinoJam_2_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="198" ,Trash [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Trash_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="199" ,Камеди [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kamedi_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="200" ,Комедийное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Komediynoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="201" ,Epic Drama [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Epic_Drama_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="202" ,Flix Snip
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Flix_Snip.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="203" ,День Победы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Den_Pobedy_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="205" ,Cinema
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Cinema.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="206" ,Plan B [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Plan_B_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="207" ,Shot TV
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Shot_TV.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="208" ,Bollywood [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Bollywood_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="210" ,DetectiveJam [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/DetectiveJam_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="211" ,KION Хит [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KION_Hit_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="noname" ,Romance [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Romance_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="212" ,Kinowood [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kinowood_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="213" ,Военное кино [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Voenoe_Kino_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="214" ,Кино 1 [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kino1_HD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="215" ,Кино 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kino2_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/8796.png" ,КИНОДРОМ [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KINODROM_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="218" ,Лавстори [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Lavstori_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="220" ,VHS-ка [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VHSka_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="221" ,Scream [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Scream_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="222" ,Романтичное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Romantichnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="226" ,Страх [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Strah_HD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="227" ,Фантастика [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Fantastika_HD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="228" ,Юнит [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Unit_HD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="527"   tvg-rec="7",Шокирующее [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/SHokiruushchee_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="noname" ,Окко ТВ [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Okko_TV_FHD.m3u8
+#EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="noname" ,Окко Герои [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Okko_Geroi_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="230" ,CineMan [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="231" ,CineMan Top [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Top_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="232" ,CineMan Premium [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Premium_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="233" ,CineMan Action [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Action_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="234" ,CineMan Thriller [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Thriller_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="235" ,CineMan Катастрофы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Katastrofy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="236" ,CineMan Мелодрама [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Melodrama_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="237" ,CineMan Marvel [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Marvel_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="238" ,CineMan Ужасы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Uzasy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="239" ,CineMan Комедия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Comedy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="240" ,CineMan VHS [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_VHS_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="241" ,CineMan РуКино [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_RuKino_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="242" ,CineMan Сваты [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Svaty_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="243" ,CineMan Ментовские войны [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_MentovskieVoiny_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="244" ,CineMan ПёС [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Pes_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="245" ,CineMan Лесник [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Lesnik_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="246" ,CineMan Симпсоны [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Simpsony_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="247" ,CineMan Скорая Помощь [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_SkorayaHelp_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="248" ,CineMan MiniSeries [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_MiniSeries_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/cineman.png" ,CineMan Глухарь + Карпов [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_GluharKarpov_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/6052.png" ,CineMan ПёС + Лихач [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_PeS_PLUS_Lihach_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="459" ,CineMan Комедийные сериалы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Komediynye_Serialy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="462" ,CineMan Криминальные сериалы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Kriminalnye_Serialy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="250" ,BCU Кинозал Premiere 1 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere1_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="250"  tvg-logo="http://1lot.tv/ch/9421.png" ,BCU Кинозал Premiere 1 [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere_1_FHD_HDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="251" ,BCU Кинозал Premiere 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere2_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="251"  tvg-logo="http://1lot.tv/ch/9422.png" ,BCU Кинозал Premiere 2 [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere_2_FHD_HDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="252" ,BCU Кинозал Premiere 3 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere3_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="252"  tvg-logo="http://1lot.tv/ch/9423.png" ,BCU Кинозал Premiere 3 [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere_3_FHD_HDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="253" ,BCU Premiere [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="254" ,BCU Action [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Action_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="255" ,BCU Catastrophe [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Catastrophe_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="256" ,BCU Cinema [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Cinema_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="257" ,BCU Cinema PLUS [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_CinemaPLUS_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="258" ,BCU Fantastic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Fantastic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="259" ,BCU FilMystic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_FilMystic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="260" ,BCU History [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_History_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="261" ,BCU Comedy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Comedy_FHD_NOHDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="261" ,BCU Comedy [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Comedy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="262" ,BCU Romantic [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Romantic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="262" ,BCU Romantic OLD [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Romantic_OLD_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="263" ,BCU Kinorating [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Kinorating_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="264" ,BCU Criminal [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Criminal_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="119" ,BCU Marvel [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Marvel_FHD_NOHDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="265" ,BCU Marvel [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Marvel_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="266" ,BCU Stars [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Stars_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="267" ,BCU.MEDIA [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Action2_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="128" ,BCU.MEDIA OLD [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCUMEDIA_OLD_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="268" ,BCU Reality [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Reality_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="130" ,BCU Reality OLD [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Reality_OLD_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="269" ,BCU Survival [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Survival_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="132" ,BCU Survival OLD [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Survival_OLD_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="270" ,BCU Cosmo [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Cosmo_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="32"  tvg-logo="http://1lot.tv/ch/9531.png" ,BCU Cosmo [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Cosmo_FHD_HDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="271" ,BCU TruMotion [FHD] {60 fps} {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_TruMotion_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="272" ,BCU VHS [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_VHS_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="273" ,BCU СССР [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_SSSR_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="274" ,BCU Russian [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Russian_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="275" ,BCU RuSerial [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_RuSerial_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="276" ,BCU Сваты [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Svaty_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="142" ,BCU Russia 90s [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Russia_90s_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="287"   tvg-rec="7",VF Premiere [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Premiere_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="288"   tvg-rec="7",VF Премьера [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Premiera_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="289"   tvg-rec="7",VF Comedy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Comedy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="290"   tvg-rec="7",VF Комедия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Comediya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="291"   tvg-rec="7",VF Classic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Classic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="292"   tvg-rec="7",VF Классика [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Classica_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="293"   tvg-rec="7",VF Боевики [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Boeviki_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="294"   tvg-rec="7",VF Катастрофы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Katastrof_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="295" ,VF Detective [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Detective_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="296"   tvg-rec="7",VF Mystic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Mystic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="297" ,VF Fantastic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Fantastic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="298"   tvg-rec="7",VF Marvel [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Marvel_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="299" ,VF Comics [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Comics_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="300"   tvg-rec="7",VF Adventure [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Adventure_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="301"   tvg-rec="7",VF Fantasy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Fantasy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="302" ,VF Thriller [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Thriller_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="303" ,VF История [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_History_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="304" ,VF Оскар [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Oskar_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="305"   tvg-rec="7",VF Family [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Family_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="306"   tvg-rec="7",VF Melodrama [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Melodrama_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="307"   tvg-rec="7",VF Ужасы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Horror_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="308"   tvg-rec="7",VF Ужасы VHS [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_HorrorVHS_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="309" ,VF Криминал [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Kriminal_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="310" ,VF Art house [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Arthouse_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="311" ,VF TOP Series [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_TOPSeries_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="312" ,VF Netflix [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Netflix_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="313" ,VF HBO [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_HBO_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="314" ,VF Series [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Series_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="315" ,VF Сериал [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Serial_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="316" ,VF Игра престолов [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_GamePrestol_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="317" ,VF Мыльные оперы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_MylOper_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="318"   tvg-rec="7",VF VHS MIX [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_VHSMIX_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="319" ,VF Без цензуры (18+) [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_BezCenzury18_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="320" ,VF Луи де Фюнес [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_LuiDeFunes_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="321" ,VF Чернобыль [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Chernobyl_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="322" ,VF The X-Files [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_TheXfiles_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="323" ,VF Сверхъестественное [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Sverhestestvenoe_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="324" ,VF Американская история ужасов [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_AmericanHistoryHorror_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="325" ,VF Друзья [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Friends_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="326" ,VF СашаТаня [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_SashaTanya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="327" ,VF Универ новая общага [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_UniverNovayaObshaga_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="328" ,VF Универ [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_University_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="330" ,VF Однажды в России [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_OdnazhdyVRossii_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="331" ,VF Джеки Чан [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_DzhekiCHan_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="332" ,VF Ходячие мертвецы [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_HodyachieMertvecy_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="333" ,VF Реальные пацаны [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_RealnyePacany_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="334" ,VF Теория большого взрыва [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_TeoriyaBolshogoVzryVa_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="335" ,VF Доктор Хаус [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_DoktorHaus_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5207.png" ,VF Клиника [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Klinika_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="354" ,VF Кухня [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Kuhnya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="355" ,VF Секс в большом городе [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_SeksVBolshomGorode_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/vf-garipoter.png" ,VF Гарри Поттер [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_GarriPotter_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="356" ,VF Карточный домик [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_KartochnyyDomik_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="357"   tvg-rec="7",VF Два с половиной человека [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_DvaSPolovinoyCHeloveka_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="358"   tvg-rec="7",VF Бесстыжие [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Besstyzhie_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="359"   tvg-rec="7",VF Владимир Высоцкий [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_VladimirVysockiy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="360" ,VF Граиндхаус [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Graindhaus_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="362" ,VF Disney Movie [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_DisneyMovie_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="249"   tvg-rec="3",VF Сериалы Турции [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Serialy_Turcii_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="28" ,VF Вестерн [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Vestern.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="65" ,BOX Apocalypse [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Apocalypse_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="366" ,BOX Franchise [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Franchise_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/box-franchise-hdr.png" ,BOX Franchise [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Franchise_FHD_HDR.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="367" ,BOX Hybrid [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Hybrid_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="368" ,BOX Cyber [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Cyber_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="369" ,BOX Gangster [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Gangster_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="370" ,BOX Oscar [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Oscar_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="371" ,BOX Memory [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Memory_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="372" ,BOX Spy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Spy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="373" ,BOX Western [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Western_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="374" ,BOX Zombie [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Zombie_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="375" ,BOX Ghost [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Ghost_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="376" ,BOX Fantasy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Fantasy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="377" ,BOX Serial [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Serial_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="378" ,MM NewFilm 1 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_NewFilm1_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="379" ,MM NewFilm 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_NewFilm2_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="380" ,MM NewFilm 3 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_NewFilm3_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="381" ,MM NewFilm RU [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_NewFilmRU_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="382" ,MM Classic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Classic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="383" ,MM Боевик Classic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_BoevikClassic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="384" ,MM Боевик [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Boevik_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="385" ,MM Триллер [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Triller_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="386" ,MM UFO [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_UFO_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="387" ,MM Катастрофа [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Katastrofa_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="388" ,MM Криминал [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Kriminal_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="389" ,MM Приключения [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Priklucheniya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="390" ,MM Мифология [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Mifologiya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="391" ,MM История [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Istoriya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="392" ,MM Комедия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Komediya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="393" ,MM Комедия Classic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_KomediyaClassic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="394" ,MM Семейный 1 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Semeynyy1_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="395" ,MM Семейный 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Semeynyy2_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="396" ,MM Фантастика [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Fantastika_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="397" ,MM Киберпанк [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Kiberpank_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="398" ,MM Вестерн [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Vestern_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="399" ,MM Драма [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Drama_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="400" ,MM Ужастик [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Uzhastik_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="401" ,MM Ужасы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Uzhasy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="402" ,MM Ужасы Classic [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_UzhasyClassic_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="403" ,MM Погружение [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Pogruzhenie_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="404" ,MM Скорость [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Skorost_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="405" ,MM 007 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_007_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="406" ,MM Love [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Love_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="407" ,MM Фобия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Fobiya_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="408" ,MM Затмение [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Zatmenie_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="409" ,MM Синематограф [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Sinematograf_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="410" ,MM Стивен Кинг [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_StivenKing_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="411" ,MM Celebrity [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Celebrity_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="412" ,MM Супергерои [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Supergeroi_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="413" ,MM Грайндхаус [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Grayndhaus_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="414" ,MM Кунг-Фу [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_KungFu_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="420" ,MM Translation [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Translation_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="421" ,MM OldSchool [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_OldSchool_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="432" ,MM Family Guy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_FamilyGuy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="433" ,MM USSR Драма [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_USSR_Drama_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="457" ,MM Кинофестиваль [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Kinofestival_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="434" ,Yosso TV New Кино [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_NewKino_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="435" ,Yosso TV Thriller [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Thriller_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="436" ,Yosso TV Grand [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Grand_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="437" ,Yosso TV Adrenaline [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Adrenaline_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="438" ,Yosso TV Adventure [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Adventure_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="439" ,Yosso TV Мелодрама [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Melodrama_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="440" ,Yosso TV Трагичное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Tragichnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="441" ,Yosso TV Забавное [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Zabavnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="442" ,Yosso TV Ковбойское [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Kovboyskoe_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="443" ,Yosso TV Русские Фильмы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_RusskieFilmy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="444" ,Yosso TV Советские Фильмы [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_SovetskieFilmy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="445" ,Yosso TV Oblivion [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Oblivion_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="446" ,Yosso TV VHS [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_VHS_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="447" ,Yosso TV Netflix [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Netflix_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="448" ,Yosso TV Best [FHD] {60 fps}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_BestFHD60Fps.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="449" ,Yosso TV Disney [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_Disney_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-dc.png" ,Liberty DC [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_DC_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-marvel.png" ,Liberty Marvel [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Marvel_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5520.png" ,Liberty Короткометражное [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Korotkometrazhnoe_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="481" ,Liberty Мелодрамы [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Melodramy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-boeviki.png" ,Liberty Боевики [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Boeviki_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-serialy.png" ,Liberty Сериалы [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Serialy_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="485" ,Liberty Южный Парк [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_UzhnyyPark_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="486" ,Liberty Занавес [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Zanaves_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname" ,Liberty Фантастика [FHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Fantastika_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="522" ,Liberty Фан [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/LIBERTY_Fan_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname" ,Liberty Короткометражки [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/LIBERTY_Korotkometrazhki_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/1113.png" ,Z! Channel [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Channel_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/1114.png" ,Z! Comedy [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Comedy_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/1115.png" ,Z! Crime [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Crime_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/1116.png" ,Z! Horror [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Horror_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5899.png" ,Z! Sitcom [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Sitcom_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5898.png" ,Z! Serial [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Serial_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8783.png" ,Z! Action [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Action_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8784.png" ,Z! Adventure [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Adventure_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8786.png" ,Z! Drama [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Drama_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8787.png" ,Z! Family [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Family_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8788.png" ,Z! Fantastic [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Fantastic_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8789.png" ,Z! Fantasy [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Fantasy_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8791.png" ,Z! Fun [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Fun_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8782.png" ,Z! Thriller [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Thriller_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="noname"  tvg-logo="http://epg.one/img2/8790.png" ,Z! Russian [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Russian_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="537" ,TOP BUDO [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TOP_BUDO_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="538" ,TOP Cinema [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TOP_Cinema_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="539" ,TOP USSR [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TOP_USSR_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="540" ,TOP MIX [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TOP_MIX_FHD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="530" ,TOP Великолепный Век [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TOP_Velikolepnyy_Vek_HD.m3u8
+#EXTINF:-1  group-title="🎞️ Кинозалы"  tvg-id="225"   tvg-rec="2",Sky2000 [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Sky2000_HD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname" ,UHD CINEMA [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/UHD_Cinema_FHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="541" ,Кино 4K [UHD] {HDR50} 
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Kino_4KUHD_50fps.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname" ,Сериал 4K [UHD] {50fps}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Serial_4KUHD_50fps.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="543" ,BCU Ultra 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Ultra_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="6"   tvg-rec="3",BCU Сваты 4K [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Svaty_4K_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="544" ,BCU Premiere Ultra 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Premiere_Ultra_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="545" ,BCU Kinozakaz [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Kinozakaz_UHD_HDR50.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="106" ,BCU Kinozakaz Premiere [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Kinozakaz_Premiere_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="546" ,BCU Kids [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BCU_Kids_UHD_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="547" ,VF Кино 4K [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Kino4K_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="548" ,VF Сериал 4K [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Serial4K_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="90" ,BOX Serial [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Serial_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="549" ,BOX Premiere 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Premiere4K_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="336" ,BOX Remast+ [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_RemastPLUS_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="550" ,BOX Remast 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Remast4K_FHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="552" ,BOX Premiere+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_PremierePLUS_UHD_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="63"   tvg-rec="7",Box SR Sport 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Box_SR_Sport_4K_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/box-sr-sport-live-4k-hdr.png" ,BOX SR Sport Live 1 [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_SR_Sport_Live_1_UHD_HDR50.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="555" ,BOX Relax [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Relax_UHD_HDR50.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="556" ,BOX History [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_History_UHD_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="557" ,BOX Kosmo [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Kosmo_UHD_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="558" ,MM Flip [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Flip_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="560" ,Yosso TV 4K [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/YossoTV_4K_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="461" ,Yosso TV 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Yosso_TV_4K_UHD_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5517.png" ,Liberty Ужасы [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Uzhasy_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5518.png" ,Liberty Триллер [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Triller_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5589.png" ,Liberty Кино Микс [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_KinoMiks_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://epg.one/img2/6855.png" ,Liberty Netflix [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Netflix_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="571" ,Liberty Куб [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Kub_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="572" ,Liberty Семейный [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Semeynyy_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="573" ,Liberty Турк Фильм [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_TurkFilm_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="574" ,Liberty Союз [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Souz_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="575" ,Liberty Легенда [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Legenda_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-xxvek.png" ,Liberty XX Век [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_XXVek_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://epg.one/img2/6232.png" ,Liberty Мульт [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Mult_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="578" ,Liberty Мульт ENG [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_MultENG_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-muzikl.png" ,Liberty Мюзикл [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Muzikl_UHD_HDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="495" ,Liberty Дрим Воркс [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Drim_Vorks_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="497" ,Liberty Криминал [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Kriminal_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="499" ,Liberty Аванпост [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Avanpost_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="501" ,Liberty Сериалы [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Serialy_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="580" ,BOX Music 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Music4K_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="582" ,Love Nature [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/LoveNatire_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="586" ,Наша Сибирь [UHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NashaSibir_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="587" ,Quadro [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Quadro_UHD.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="620" ,Глазами Туриста [UHD] {HDR}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Glazami_Turista_4KHDR.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="624" ,TravelXP CEE [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TravelXP_CEE_UHD_HDR50.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="625" ,Museum TV [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Museum_TV_UHD_HDR50.m3u8
+#EXTINF:-1  group-title="🌼 4К"  tvg-id="626" ,Eurosport 4K [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Eurosport_4K_UHD_HDR50.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="917" ,Viju Explore
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Explore.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="918" ,Viju Nature
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Nature.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="919" ,Viju History
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_History.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="917" ,Viju Explore [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Explore_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="918" ,Viju Nature [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_Nature_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="919" ,Viju History [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Viju_History_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="921" ,Авто 24 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Avto_24_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="922" ,Авто Плюс
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/AvtoPLUS.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname" ,TV BRICS [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TV_BRICS_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="923" ,Terra [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Terra_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="924" ,Загородная жизнь 
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/ZagorodnayaLife.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="925" ,Конный мир [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KonnyiMir_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="926" ,ТНВ Планета
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TNV_Planeta.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname" ,Canal TV Motor [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CanalTV_Motor_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="927" ,Диалоги о рыбалке [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Dialogs_O_Fish_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="928" ,Надежда [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Nadezda_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="929" ,Galaxy
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Galaxy.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="929" ,Galaxy [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Galaxy_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="930" ,Домашние животные
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/DomashnieZevotnye.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="933" ,Дикий
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Dikiy.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="935" ,Оружие
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Oruzie.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="936" ,Da Vinci
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Da_Vinci.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="937" ,Большая азия
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Big_Aziya.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="937" ,Большая Азия [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BigAziya_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="938" ,RTG HD [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/RTG_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="940" ,Вопросы и Ответы
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Voprosy_AND_Otvety.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="944" ,Наша Тема [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/NashaTema_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="946" ,365 Дней ТВ
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/365daysTV.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="947" ,Психология 21
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Psih21.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="950" ,ZooПарк
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/ZooPark.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="952" ,HDL [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/HDL_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname" ,Кулинар ТВ
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/KulinarTV.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="961" ,Океан TV
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/OceanTV.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="963" ,Big Planet
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Big_Planet.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="963" ,Big Planet [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Big_Planet_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="964" ,TLC [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/TLC_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname" ,HGTV [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/HGTV_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="965" ,Еда
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Eda.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname" ,The Explorers [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/THE_Explorers_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="967" ,Поехали! [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Poehali_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="968" ,Точка Отрыва [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Tochka_Otryva_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="971" ,Curiosity Stream [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Curiosity_Stream_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="972" ,History [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/History_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="973" ,History 2 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/History2_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="519" ,Sea TV [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Sea_TV_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="29" ,Discovery Channel
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Discovery_Channel.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="29" ,Discovery Channel [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Discovery_Channel_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="524"   tvg-rec="3",Investigation Discovery
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Investigation_Discovery.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="526"   tvg-rec="3",Investigation Discovery [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Investigation_Discovery_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="974" ,VF Домашний повар [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_DomashniyPovar_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="975" ,VF Путешествия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Puteshestviya_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="977" ,VF Рыбалка [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/VF_Rybalka_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="981" ,BOX Docu [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Docu_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="982" ,BOX Stories [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Stories_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="983" ,BOX Travel [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Travel_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="984" ,BOX Mayday [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Mayday_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="985" ,BOX Travel Premiere [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Travel_Premiere_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные" ,BOX Gurman [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_Gurman_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="987" ,BOX AutoTrend [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/BOX_AutoTrend_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="988" ,MM Live Planet [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_LivePlanet_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="989" ,MM Мегамир [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Megamir_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="990" ,MM Experiment [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Experiment_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="991" ,MM Открытия [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Otkrytiya_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://epg.one/img2/5573.png" ,MM Relax [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Relax_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="993" ,MM Макромир [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Makromir_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="994" ,MM Микромир [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/MM_Mikromir_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="997" ,Liberty BBC [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_BBC_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://iptvx.one/picons/liberty-plan360.png" ,Liberty Планета360 [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Planeta360_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://epg.one/img2/6739.png" ,Liberty Наука [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Liberty_Nauka_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://epg.one/img2/6213.png" ,Z! Travel [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Travel_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://epg.one/img2/8819.png" ,Z! History [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_History_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://epg.one/img2/8820.png" ,Z! Military [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Military_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="noname"  tvg-logo="https://epg.one/img2/8821.png" ,Z! Biography [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Biography_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-logo="https://epg.one/img2/8822.png" ,Z! Science [HD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Z_Science_HD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="1010" ,Yosso TV Food [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Yosso_TV_Food_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="1011" ,Yosso TV Science [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Yosso_TV_Science_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="1012" ,Yosso TV Nature [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Yosso_TV_Nature_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="1013" ,Yosso TV Travel [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/Yosso_TV_Travel_FHD.m3u8
+#EXTINF:-1  group-title="🎓 Познавательные"  tvg-id="478" ,CineMan Air Crash [FHD]
+https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/CineMan_Air_Crash_FHD.m3u8
+#EXT-X-ENDLIST
