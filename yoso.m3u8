@@ -1,10 +1,498 @@
 #EXTM3U url-tvg="https://rostishkatv.space/iptv/epg.xml.gz"
+#EXTINF:0, .Black
+http://cdn.voka.tv/live/3001-req_5k_v5.m3u8
+#EXTINF:0, .Red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:0, .Sci-Fi
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:0, Дом кино
+http://176.96.241.40/DomKino/index.m3u8
+#EXTINF:0, Дом кино Премиум
+http://84.54.128.52:9090/play/a001/index.m3u8
+#EXTINF:0, Дом кино Премиум HD
+http://109.75.59.241:8017/Domkino/index.m3u8
+#EXTINF:0, Еврокино
+http://178.163.121.127:4022/udp/234.0.0.176:2000
+#EXTINF:0, Иллюзион+
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:0, Кинеко
+http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
+#EXTINF:0, Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:0, Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:0, Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:0, Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:0, Кинопоказ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:0, Кинопремьера
+http://vod1.stb.tvime.ru/Kinopremera_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Кинопремьера HD 
+http://vod1.stb.tvime.ru/Kinopremera_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:0, Киносвидание HD 
+http://vod1.stb.tvime.ru/Kinosvidanie_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:0, Киносемья HD
+http://vod1.stb.tvime.ru/Kinosemia_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:0, Киносерия HD 
+http://vod1.stb.tvime.ru/Kinoseriia_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:0, Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:0, Кинохит HD 
+http://vod1.stb.tvime.ru/Kinokhit_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Комедия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
+#EXTINF:0, Любимое кино
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:24, Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:0, Мужское кино HD
+http://178.163.121.127:4022/udp/234.0.0.213:2000
+#EXTINF:0, Наше новое кино
+http://146.120.14.239:3001/play/a0ih
+#EXTINF:0, Наше новое кино HD 
+http://vod1.stb.tvime.ru/Nashe_Novoe_Kino_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Наш кинопоказ
+http://cdn.voka.tv/live/285-req_5k_v5.m3u8
+#EXTINF:0, НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:0, Сити Эдем — КиноДок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:0, Сити Эдем — КиноДрама
+https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
+#EXTINF:0, Сити Эдем — КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
+#EXTINF:0, Сити Эдем — КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:0, Сити Эдем — КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:0, Хит
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:0, Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:0, Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:0, Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:0, Amedia 2 HD
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:0, Amedia Hit
+http://178.163.5.6:4022/udp/234.0.0.169:2000
+#EXTINF:0, Amedia Hit HD 
+http://178.163.5.6:4022/udp/234.0.0.169:2000
+#EXTINF:20, BCU Kinorating
+http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
+#EXTINF:0, BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:0, BCU Stars
+http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:0, BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:0, Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:0, Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:0, Cinema HD
+http://176.96.241.40/Cinema/index.m3u8
+#EXTINF:0, Comedy Central
+http://188.225.31.197/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:0, FAN
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:0, FAN HD
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:0, FilmUADrama
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+#EXTINF:0, FilmUADrama HD
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:0, FlixSnip
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:0, FX
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:0, FX Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:0, Hollywood
+http://178.163.5.6:4022/udp/234.0.0.117:2000
+#EXTINF:0, Kino24
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF:0, Plan_B
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:0, Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+#EXTINF:0, Start Air
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:0, Start World
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:0, Timeless Dizi
+http://178.163.121.127:4022/udp/234.0.0.184:2000
+#EXTINF:0, VHS-ка
+http://vod1.stb.tvime.ru/VHS-KA_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, VHS-ка HD 
+http://vod1.stb.tvime.ru/VHS-KA_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0, Viasat Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:0, viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:0, viju TV1000 HD
+http://176.96.241.40/TV1000/index.m3u8
+#EXTINF:0, viju TV1000 action
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:0, viju TV1000 romantica HD
+http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
+#EXTINF:0, viju TV1000 новелла HD
+http://188.208.197.173:8888/viju-novella/video.m3u8?token=loganet
+#EXTINF:0, viju TV1000 русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:0, viju+ Comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:0, viju+ Megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:0, viju+ Megahit HD 
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:0, viju+ Premiere HD
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:0, viju+ Serial HD
+http://188.208.197.173:8888/vijuserial/video.m3u8?token=loganet
+#EXTINF:0, viju History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:0, viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:0, Крик ТВ
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:0, Крик ТВ HD
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:0, Кубань 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:0, Мир 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+#EXTINF:0, Мир 24 HD 
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:0, Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0, ОТВ Екатеринбург
+https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:0, Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:0, Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:0, CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:0, .Black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:0, .Red
+http://178.124.152.238:8088/sony
+#EXTINF:0, .Red HD
+http://77.235.1.19:8000/play/a07e/index.m3u8
 #EXTINF:0, .Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:0, .Sci-Fi HD
 http://45.159.74.22/Kinoseriya/mono.m3u8
+#EXTINF:0, Дом кино
+https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0, Дом кино Премиум
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:0, Дом кино Премиум HD
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:0, Еврокино
+http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
+#EXTINF:0, Еврокино HD
+http://89.221.57.5:8000/play/a00o/index.m3u8
+#EXTINF:0, Кинеко
+http://178.217.72.66:8080/kineko/index.m3u8
+#EXTINF:0, Кинеко HD
+http://77.235.1.19:8000/play/a06z/index.m3u8
+#EXTINF:0, Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:0, Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Кино ТВ +4
+http://77.235.1.19:8000/play/a068/index.m3u8
+#EXTINF:0, Кино ТВ HD
+http://77.235.1.19:8000/play/a05l/index.m3u8
+#EXTINF:0, Кинокомедия
+http://178.217.72.66:8080/Kinokomediya/index.m3u8
+#EXTINF:0, Кинокомедия HD
+http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:0, Киноман
+http://77.235.1.19:8000/play/a06r/index.m3u8
+#EXTINF:0, Киномикс
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+#EXTINF:0, Киномикс HD
+http://77.235.1.19:8000/play/a05k/index.m3u8
+#EXTINF:0, Кинопоказ
+http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
+#EXTINF:0, Кинопоказ HD
+http://178.217.72.66:8080/kinopokazhd/index.m3u8
+#EXTINF:0, Кинопремьера
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+#EXTINF:0, Кинопремьера HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:0, Киносвидание
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
+#EXTINF:0, Киносемья
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+#EXTINF:0, Киносемья HD
+http://77.235.1.19:8000/play/a06a/index.m3u8
+#EXTINF:0, Киносерия
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+#EXTINF:0, Киносерия HD
+http://95.85.109.219:7000/play/a087
+#EXTINF:0, Киноужас
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:0, Киноужас HD
+http://95.85.109.219:7000/play/a00y
+#EXTINF:0, Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:0, Кинохит HD
+http://77.235.1.19:8000/play/a04f/index.m3u8
+#EXTINF:0, Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:0, Мужское кино HD
+http://77.235.1.19:8000/play/a08d/index.m3u8
+#EXTINF:0, Наш кинопоказ HD
+http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
+#EXTINF:0, Наше крутое HD
+http://178.217.72.66:8080/nashekrutoe/index.m3u8
+#EXTINF:0, Наше новое кино
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+#EXTINF:0, Наше новое кино HD
+http://87.246.54.249:8085/NasheKino/index.m3u8
+#EXTINF:0, НСТ
+http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
+#EXTINF:0, Премиальное HD
+http://178.217.72.66:8080/kinopremium/index.m3u8
+#EXTINF:0, Сити Эдем — Кинодок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
+#EXTINF:0, Сити Эдем — Киномистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
+#EXTINF:0, Сити Эдем — Киноэкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
+#EXTINF:0, Феникс Плюс Кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:0, Хит HD
+http://178.217.72.66:8080/hithd/index.m3u8
+#EXTINF:0, Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:0, Amedia 1 HD
+http://178.217.72.66:8080/A1/video.m3u8
+#EXTINF:0, Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:0, Amedia 2 HD
+http://178.217.72.66:8080/A2/index.m3u8
+#EXTINF:0, Amedia Hit
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
+#EXTINF:0, Amedia Hit HD
+http://77.235.1.19:8000/play/a05f/index.m3u8
+#EXTINF:0, Amedia Premium
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:0, Amedia Premium HD
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
+#EXTINF:0, BCU Action HD
+http://178.217.72.66:8080/BCUActionHD/index.m3u8
+#EXTINF:0, BCU Catastrophe HD
+http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
+#EXTINF:0, BCU Cinema HD
+http://178.217.72.66:8080/BCUCinemaHD/index.m3u8
+#EXTINF:0, BCU Comedy HD
+http://178.217.72.66:8080/BCUComedyHD/index.m3u8
+#EXTINF:0, BCU Fantastic HD
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+#EXTINF:0, BCU FilMystic HD
+http://178.217.72.66:8080/BCUFilMysticHD/index.m3u8
+#EXTINF:0, BCU History HD
+http://178.217.72.66:8080/BCUHistoryHD/index.m3u8
+#EXTINF:0, BCU Kinorating HD
+http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
+#EXTINF:0, BCU Premiere HD
+http://178.217.72.66:8080/BCUPremiereHD/index.m3u8
+#EXTINF:0, BCU Romantic HD
+http://178.217.72.66:8080/BCURomanticHD/index.m3u8
+#EXTINF:0, BCU Stars HD
+http://178.217.72.66:8080/BCUStarsHD/index.m3u8
+#EXTINF:0, BCU VHS HD
+http://178.217.72.66:8080/BCUVHSHD/index.m3u8
+#EXTINF:0, Bolt
+http://77.235.1.19:8000/play/a04d/index.m3u8
+#EXTINF:0, Bolt HD
+http://178.217.72.66:8080/bolt/index.m3u8
+#EXTINF:0, Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:0, Cinema HD
+http://77.235.1.19:8000/play/a01d/index.m3u8
+#EXTINF:0, Cineman HD
+http://178.217.72.66:8080/CineMan/index.m3u8
+#EXTINF:0, Cineman Action HD
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
+#EXTINF:0, Cineman Marvel HD
+http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
+#EXTINF:0, Cineman Top HD
+http://178.217.72.66:8080/CineMan_Top/index.m3u8
+#EXTINF:0, Cineman VHS HD
+http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+#EXTINF:0, Cineman Комедия HD
+http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
+#EXTINF:0, Cineman Мелодрама HD
+http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
+#EXTINF:0, Cineman Триллер HD
+http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
+#EXTINF:0, FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+#EXTINF:0, FAN HD
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:0, FilmBox
+http://77.235.1.19:8000/play/a081/index.m3u8%20
+#EXTINF:0, FilmBox Arthouse
+http://77.235.1.19:8000/play/a082/index.m3u8
+#EXTINF:0, FlixSnip HD
+http://178.217.72.66:8080/flixsnip/video.m3u8
+#EXTINF:0, FX
+http://45.159.74.22/Fox/mono.m3u8
+#EXTINF:0, FX HD
+http://95.85.109.219:7000/play/a062
+#EXTINF:0, FX Life HD
+http://95.85.109.219:7000/play/a065
+#EXTINF:0, Hollywood
+http://178.217.72.66:8080/hollywood/index.m3u8
+#EXTINF:0, Hollywood HD
+http://178.217.72.66:8080/hollywoodhd/index.m3u8
+#EXTINF:0, Kino24
+http://77.235.1.19:8000/play/a012/index.m3u8
+#EXTINF:0, KinoJam 1 HD
+http://158.160.149.81:8080/8194/index.m3u8
+#EXTINF:0, KinoLiving HD
+http://95.85.109.219:7000/play/a05x
+#EXTINF:0, Plan_B
+http://77.235.1.19:8000/play/a04z/index.m3u8
+#EXTINF:0, Plan_B HD
+http://85.117.61.97:8000/play/a016/index.m3u8
+#EXTINF:0, Red Premium HD
+http://95.85.109.219:7000/play/a06e
+#EXTINF:0, Red Thriller HD
+http://95.85.109.219:7000/play/a06h
+#EXTINF:0, Saga TV
+http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:0, Saga TV HD
+http://95.85.109.219:7000/play/a05w
+#EXTINF:0, Scream HD
+http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:0, Shot TV
+http://77.235.1.19:8000/play/a075/index.m3u8
+#EXTINF:0, Star Cinema
+http://77.235.1.19:8000/play/a043/index.m3u8
+#EXTINF:0, Star Family
+http://77.235.1.19:8000/play/a042/index.m3u8
+#EXTINF:0, Start Air
+http://77.235.1.19:8000/play/a07k/index.m3u8
+#EXTINF:0, Start Air HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:0, Start World
+http://77.235.1.19:8000/play/a07l/index.m3u8
+#EXTINF:0, Start World HD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:0, Suspense
+http://77.235.1.19:8000/play/a051/index.m3u8
+#EXTINF:0, viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+#EXTINF:0, viju TV1000 HD
+http://95.85.109.219:7000/play/a08v
+#EXTINF:0, viju TV1000 action
+http://178.217.72.66:8080/TV_1000_Action/index.m3u8
+#EXTINF:0, viju TV1000 action HD
+http://95.85.109.219:7000/play/a013
+#EXTINF:0, viju+ Comedy
+http://87.246.54.249:8085/Viju_Comedy/mpegts
+#EXTINF:0, viju+ Comedy HD
+http://77.235.1.19:8000/play/a05e/index.m3u8
+#EXTINF:0, viju+ Megahit
+http://87.246.54.249:8085/Viju_Megahit/mpegts
+#EXTINF:0, viju+ Megahit HD
+http://77.235.1.19:8000/play/a05d/index.m3u8
+#EXTINF:0, viju+ Premiere
+http://87.246.54.249:8085/Viju_Premiere/mpegts
+#EXTINF:0, viju+ Premiere HD
+http://77.235.1.19:8000/play/a05c/index.m3u8
+#EXTINF:0, viju+ Serial HD
+http://77.235.1.19:8000/play/a05n/index.m3u8
+#EXTINF:0, Discovery
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:0, Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:0, History
+http://95.85.109.219:7000/play/a069
+#EXTINF:0, History HD
+http://45.159.74.22/Channel_123/mono.m3u8
+#EXTINF:0, Investigation Discovery
+http://178.217.72.66:8080/ID_Xtra/index.m3u8
+#EXTINF:0, Investigation Discovery HD
+http://45.159.74.22/InvestigationDiscovery/mono.m3u8
+#EXTINF:0, Nano
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:0, Nano HD
+http://178.217.72.66:8080/NANO_HD/index.m3u8
+#EXTINF:0, Red Docu HD
+http://95.85.109.219:7000/play/a06f
+#EXTINF:0, RTG TV
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:0, RTG HD
+http://77.235.1.19:8000/play/a05j/index.m3u8
+#EXTINF:0, Тайны Галактики
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:0, Тайны Галактики HD
+http://178.217.72.66:8080/galaxyhd/index.m3u8
+#EXTINF:0, Терра Инкогнита HD
+http://178.124.153.123:44400/terra
+#EXTINF:0, Curiosity Stream HD
+http://178.217.72.66:8080/curiositystream/tracks-v1a1/mono.m3u8
+#EXTINF:0, DocuBox
+http://77.235.1.19:8000/play/a07w/index.m3u8
+#EXTINF:0, DocuBox HD
+http://85.117.61.97:8000/play/a01h/index.m3u8
+#EXTINF:0, History 2 HD 🛡️
+http://95.67.12.81:10620
+#EXTINF:0, National Geographic
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:0, National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:0, National Geographic Wild
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:0, National Geographic Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+#EXTINF:0, One Planet 🛡️
+http://95.67.12.82:9088
+#EXTINF:0, The Explorers
+http://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:0, The Explorers HD
+http://77.235.1.19:8000/play/a058/index.m3u8
+#EXTINF:0, Univer
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:0, Univer HD
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:0, viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:0, viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:0, viju+ Planet
+http://stream1.prizma.link/ViasatHistoryHD/index.m3u8
+#EXTINF:0, viju+ Planet HD
+http://77.235.1.19:8000/play/a05m/index.m3u8
+#EXTINF:0, Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:0, Russian Extreme
+http://195.26.83.96:7029/play/a008
+#EXTINF:0, Russian Extreme HD
+http://89.221.57.5:8000/play/a01b/index.m3u8
+
 #EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="124" ,Amedia 1 [FHD]
 https://rostishkatv.space/iptv/users/izya_ppp@mail.ru/A1_FHD.m3u8
 #EXTINF:-1  group-title="🎬 Кино и Сериалы"  tvg-id="125" ,Amedia 2 [FHD]
